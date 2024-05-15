@@ -1,6 +1,6 @@
 {
   "name": "Name_Expansion",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/OdysseyLotus/More-Names",
   "description": "You must install and overwrite manually. Subscribing will not do anything. Expands available names for citizens, businesses, and cities.",
   "dependencies": [
