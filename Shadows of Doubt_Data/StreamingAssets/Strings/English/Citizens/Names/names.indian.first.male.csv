@@ -1,136 +1,745 @@
-"Game Reference Key","Notes","Displayed Text","Alternate Text","Frequency","Requires Suffix","Misc."
-"[The key used by the game to find strings]","[Not loaded into the game, for explanation only]","[The displayed string in-game]","[Alternate displayed string, eg. Nickname]","[For lists]","[Does this require a suffix for naming?]","[Miscellaneous]"
-"— ","— ","— ","— ","— ","— ","— "
-"aarav","","Aarav","",1,"","11:48 05/09/2022"
-"aarush","","Aarush","",1,"","11:48 05/09/2022"
-"aayush","","Aayush","",1,"","11:48 05/09/2022"
-"advik","","Advik","",1,"","11:48 05/09/2022"
-"akarsh","","Akarsh","",1,"","11:48 05/09/2022"
-"arnav","","Arnav","",1,"","11:48 05/09/2022"
-"aniruddh","","Aniruddh","",1,"","11:48 05/09/2022"
-"bhavin","","Bhavin","",1,"","11:48 05/09/2022"
-"chirag","","Chirag","",1,"","11:48 05/09/2022"
-"darshit","","Darshit","",1,"","11:48 05/09/2022"
-"devansh","","Devansh","",1,"","11:48 05/09/2022"
-"dhruv","","Dhruv","",1,"","11:48 05/09/2022"
-"divit","","Divit","",1,"","11:48 05/09/2022"
-"divyansh","","Divyansh","",1,"","11:48 05/09/2022"
-"eshan","","Eshan","",1,"","11:48 05/09/2022"
-"faiyaz","","Faiyaz","",1,"","11:48 05/09/2022"
-"gurkiran","","Gurkiran","",1,"","11:48 05/09/2022"
-"hansh","","Hansh","",1,"","11:48 05/09/2022"
-"harikiran","","Harikiran","",1,"","11:48 05/09/2022"
-"himmat","","Himmat","",1,"","11:48 05/09/2022"
-"hiran","","Hiran","",1,"","11:48 05/09/2022"
-"indrajit","","Indrajit","",1,"","11:48 05/09/2022"
-"indranil","","Indranil","",1,"","11:48 05/09/2022"
-"jayesh","","Jayesh","",1,"","11:48 05/09/2022"
-"kiaan","","Kiaan","",1,"","11:48 05/09/2022"
-"lakshit","","Lakshit","",1,"","11:48 05/09/2022"
-"lakshay","","Lakshay","",1,"","11:48 05/09/2022"
-"madhup","","Madhup","",1,"","11:48 05/09/2022"
-"mitul","","Mitul","",1,"","11:48 05/09/2022"
-"neerav","","Neerav","",1,"","11:48 05/09/2022"
-"nishith","","Nishith","",1,"","11:48 05/09/2022"
-"ojas","","Ojas","",1,"","11:48 05/09/2022"
-"pranay","","Pranay","",1,"","11:48 05/09/2022"
-"priyansh","","Priyansh","",1,"","11:48 05/09/2022"
-"rachit","","Rachit","",1,"","11:48 05/09/2022"
-"reyansh","","Reyansh","",1,"","11:48 05/09/2022"
-"ranbir","","Ranbir","",1,"","11:48 05/09/2022"
-"rohan","","Rohan","",1,"","11:48 05/09/2022"
-"sahil","","Sahil","",1,"","11:48 05/09/2022"
-"samar","","Samar","",1,"","11:48 05/09/2022"
-"shaan","","Shaan","",1,"","11:48 05/09/2022"
-"shlok","","Shlok","",1,"","11:48 05/09/2022"
-"shray","","Shray","",1,"","11:48 05/09/2022"
-"shreyas","","Shreyas","",1,"","11:48 05/09/2022"
-"tushar","","Tushar","",1,"","11:48 05/09/2022"
-"uthkarsh","","Uthkarsh","",1,"","11:48 05/09/2022"
-"vaibhav","","Vaibhav","",1,"","11:48 05/09/2022"
-"vihaan","","Vihaan","",1,"","11:48 05/09/2022"
-"vivaan","","Vivaan","",1,"","11:48 05/09/2022"
-"yakshit","","Yakshit","",1,"","11:48 05/09/2022"
-"aadi","","Aadi","",1,"","11:48 05/09/2022"
-"aarnav","","Aarnav","",1,"","11:48 05/09/2022"
-"abdul","","Abdul","",1,"","11:48 05/09/2022"
-"abeer","","Abeer","",1,"","11:48 05/09/2022"
-"abhimanyu","","Abhimanyu","",1,"","11:48 05/09/2022"
-"abhiramnew","","Abhiramnew","",1,"","11:48 05/09/2022"
-"aditya","","Aditya","",1,"","11:48 05/09/2022"
-"advaith","","Advaith","",1,"","11:48 05/09/2022"
-"advay","","Advay","",1,"","11:48 05/09/2022"
-"agastya","","Agastya","",1,"","11:48 05/09/2022"
-"akshay","","Akshay","",1,"","11:48 05/09/2022"
-"amol","","Amol","",1,"","11:48 05/09/2022"
-"anay","","Anay","",1,"","11:48 05/09/2022"
-"anirudhnew","","Anirudhnew","",1,"","11:48 05/09/2022"
-"anmol","","Anmol","",1,"","11:48 05/09/2022"
-"ansh","","Ansh","",1,"","11:48 05/09/2022"
-"arin","","Arin","",1,"","11:48 05/09/2022"
-"arjun","","Arjun","",1,"","11:48 05/09/2022"
-"aryan","","Aryan","",1,"","11:48 05/09/2022"
-"atharv","","Atharv","",1,"","11:48 05/09/2022"
-"avi","","Avi","",1,"","11:48 05/09/2022"
-"ayaan","","Ayaan","",1,"","11:48 05/09/2022"
-"ayush","","Ayush","",1,"","11:48 05/09/2022"
-"ayushman","","Ayushman","",1,"","11:48 05/09/2022"
-"azaan","","Azaan","",1,"","11:48 05/09/2022"
-"azad","","Azad","",1,"","11:48 05/09/2022"
-"daksh","","Daksh","",1,"","11:48 05/09/2022"
-"darsh","","Darsh","",1,"","11:48 05/09/2022"
-"dev","","Dev","",1,"","11:48 05/09/2022"
-"farhan","","Farhan","",1,"","11:48 05/09/2022"
-"gautam","","Gautam","",1,"","11:48 05/09/2022"
-"harsh","","Harsh","",1,"","11:48 05/09/2022"
-"harshil","","Harshil","",1,"","11:48 05/09/2022"
-"hredhaan","","Hredhaan","",1,"","11:48 05/09/2022"
-"isaac","","Isaac","",1,"","11:48 05/09/2022"
-"ishaan","","Ishaan","",1,"","11:48 05/09/2022"
-"jainew","","Jainew","",1,"","11:48 05/09/2022"
-"jason","","Jason","",1,"","11:48 05/09/2022"
-"kabir","","Kabir","",1,"","11:48 05/09/2022"
-"kalpit","","Kalpit","",1,"","11:48 05/09/2022"
-"karan","","Karan","",1,"","11:48 05/09/2022"
-"krish","","Krish","",1,"","11:48 05/09/2022"
-"krishna","","Krishna","",1,"","11:48 05/09/2022"
-"laksh","","Laksh","",1,"","11:48 05/09/2022"
-"manannew","","Manannew","",1,"","11:48 05/09/2022"
-"mohammed","","Mohammed","",1,"","11:48 05/09/2022"
-"nachiket","","Nachiket","",1,"","11:48 05/09/2022"
-"naksh","","Naksh","",1,"","11:48 05/09/2022"
-"nakul","","Nakul","",1,"","11:48 05/09/2022"
-"neel","","Neel","",1,"","11:48 05/09/2022"
-"om","","Om","",1,"","11:48 05/09/2022"
-"parth","","Parth","",1,"","11:48 05/09/2022"
-"pranav","","Pranav","",1,"","11:48 05/09/2022"
-"praneel","","Praneel","",1,"","11:48 05/09/2022"
-"pranit","","Pranit","",1,"","11:48 05/09/2022"
-"pratyush","","Pratyush","",1,"","11:48 05/09/2022"
-"raghav","","Raghav","",1,"","11:48 05/09/2022"
-"ranveer","","Ranveer","",1,"","11:48 05/09/2022"
-"rayaan","","Rayaan","",1,"","11:48 05/09/2022"
-"rehaannew","","Rehaannew","",1,"","11:48 05/09/2022"
-"rishi","","Rishi","",1,"","11:48 05/09/2022"
-"ronith","","Ronith","",1,"","11:48 05/09/2022"
-"rudranew","","Rudranew","",1,"","11:48 05/09/2022"
-"rushil","","Rushil","",1,"","11:48 05/09/2022"
-"ryan","","Ryan","",1,"","11:48 05/09/2022"
-"sai","","Sai","",1,"","11:48 05/09/2022"
-"saksham","","Saksham","",1,"","11:48 05/09/2022"
-"samaksh","","Samaksh","",1,"","11:48 05/09/2022"
-"samarth","","Samarth","",1,"","11:48 05/09/2022"
-"samesh","","Samesh","",1,"","11:48 05/09/2022"
-"sarthak","","Sarthak","",1,"","11:48 05/09/2022"
-"sathviknew","","Sathviknew","",1,"","11:48 05/09/2022"
-"shaurya","","Shaurya","",1,"","11:48 05/09/2022"
-"shivansh","","Shivansh","",1,"","11:48 05/09/2022"
-"siddharth","","Siddharth","",1,"","11:48 05/09/2022"
-"tejas","","Tejas","",1,"","11:48 05/09/2022"
-"vedant","","Vedant","",1,"","11:48 05/09/2022"
-"veer","","Veer","",1,"","11:48 05/09/2022"
-"viaannew","","Viaannew","",1,"","11:48 05/09/2022"
-"viraj","","Viraj","",1,"","11:48 05/09/2022"
-"yash","","Yash","",1,"","11:48 05/09/2022"
-"yug","","Yug","",1,"","11:48 05/09/2022"
-"zayan","","Zayan","",1,"","11:48 05/09/2022"
+Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+[The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
+— ,— ,— ,— ,— ,— ,— 
+aarav,,Aarav,,1,,5/9/2022 11:48
+aarush,,Aarush,,1,,5/9/2022 11:48
+aayush,,Aayush,,1,,5/9/2022 11:48
+advik,,Advik,,1,,5/9/2022 11:48
+akarsh,,Akarsh,,1,,5/9/2022 11:48
+arnav,,Arnav,,1,,5/9/2022 11:48
+aniruddh,,Aniruddh,,1,,5/9/2022 11:48
+bhavin,,Bhavin,,1,,5/9/2022 11:48
+chirag,,Chirag,,1,,5/9/2022 11:48
+darshit,,Darshit,,1,,5/9/2022 11:48
+devansh,,Devansh,,1,,5/9/2022 11:48
+dhruv,,Dhruv,,1,,5/9/2022 11:48
+divit,,Divit,,1,,5/9/2022 11:48
+divyansh,,Divyansh,,1,,5/9/2022 11:48
+eshan,,Eshan,,1,,5/9/2022 11:48
+faiyaz,,Faiyaz,,1,,5/9/2022 11:48
+gurkiran,,Gurkiran,,1,,5/9/2022 11:48
+hansh,,Hansh,,1,,5/9/2022 11:48
+harikiran,,Harikiran,,1,,5/9/2022 11:48
+himmat,,Himmat,,1,,5/9/2022 11:48
+hiran,,Hiran,,1,,5/9/2022 11:48
+indrajit,,Indrajit,,1,,5/9/2022 11:48
+indranil,,Indranil,,1,,5/9/2022 11:48
+jayesh,,Jayesh,,1,,5/9/2022 11:48
+kiaan,,Kiaan,,1,,5/9/2022 11:48
+lakshit,,Lakshit,,1,,5/9/2022 11:48
+lakshay,,Lakshay,,1,,5/9/2022 11:48
+madhup,,Madhup,,1,,5/9/2022 11:48
+mitul,,Mitul,,1,,5/9/2022 11:48
+neerav,,Neerav,,1,,5/9/2022 11:48
+nishith,,Nishith,,1,,5/9/2022 11:48
+ojas,,Ojas,,1,,5/9/2022 11:48
+pranay,,Pranay,,1,,5/9/2022 11:48
+priyansh,,Priyansh,,1,,5/9/2022 11:48
+rachit,,Rachit,,1,,5/9/2022 11:48
+reyansh,,Reyansh,,1,,5/9/2022 11:48
+ranbir,,Ranbir,,1,,5/9/2022 11:48
+rohan,,Rohan,,1,,5/9/2022 11:48
+sahil,,Sahil,,1,,5/9/2022 11:48
+samar,,Samar,,1,,5/9/2022 11:48
+shaan,,Shaan,,1,,5/9/2022 11:48
+shlok,,Shlok,,1,,5/9/2022 11:48
+shray,,Shray,,1,,5/9/2022 11:48
+shreyas,,Shreyas,,1,,5/9/2022 11:48
+tushar,,Tushar,,1,,5/9/2022 11:48
+uthkarsh,,Uthkarsh,,1,,5/9/2022 11:48
+vaibhav,,Vaibhav,,1,,5/9/2022 11:48
+vihaan,,Vihaan,,1,,5/9/2022 11:48
+vivaan,,Vivaan,,1,,5/9/2022 11:48
+yakshit,,Yakshit,,1,,5/9/2022 11:48
+aadi,,Aadi,,1,,5/9/2022 11:48
+aarnav,,Aarnav,,1,,5/9/2022 11:48
+abdul,,Abdul,,1,,5/9/2022 11:48
+abeer,,Abeer,,1,,5/9/2022 11:48
+abhimanyu,,Abhimanyu,,1,,5/9/2022 11:48
+abhiramnew,,Abhiramnew,,1,,5/9/2022 11:48
+aditya,,Aditya,,1,,5/9/2022 11:48
+advaith,,Advaith,,1,,5/9/2022 11:48
+advay,,Advay,,1,,5/9/2022 11:48
+agastya,,Agastya,,1,,5/9/2022 11:48
+akshay,,Akshay,,1,,5/9/2022 11:48
+amol,,Amol,,1,,5/9/2022 11:48
+anay,,Anay,,1,,5/9/2022 11:48
+anirudhnew,,Anirudhnew,,1,,5/9/2022 11:48
+anmol,,Anmol,,1,,5/9/2022 11:48
+ansh,,Ansh,,1,,5/9/2022 11:48
+arin,,Arin,,1,,5/9/2022 11:48
+arjun,,Arjun,,1,,5/9/2022 11:48
+aryan,,Aryan,,1,,5/9/2022 11:48
+atharv,,Atharv,,1,,5/9/2022 11:48
+avi,,Avi,,1,,5/9/2022 11:48
+ayaan,,Ayaan,,1,,5/9/2022 11:48
+ayush,,Ayush,,1,,5/9/2022 11:48
+ayushman,,Ayushman,,1,,5/9/2022 11:48
+azaan,,Azaan,,1,,5/9/2022 11:48
+azad,,Azad,,1,,5/9/2022 11:48
+daksh,,Daksh,,1,,5/9/2022 11:48
+darsh,,Darsh,,1,,5/9/2022 11:48
+dev,,Dev,,1,,5/9/2022 11:48
+farhan,,Farhan,,1,,5/9/2022 11:48
+gautam,,Gautam,,1,,5/9/2022 11:48
+harsh,,Harsh,,1,,5/9/2022 11:48
+harshil,,Harshil,,1,,5/9/2022 11:48
+hredhaan,,Hredhaan,,1,,5/9/2022 11:48
+isaac,,Isaac,,1,,5/9/2022 11:48
+ishaan,,Ishaan,,1,,5/9/2022 11:48
+jainew,,Jainew,,1,,5/9/2022 11:48
+jason,,Jason,,1,,5/9/2022 11:48
+kabir,,Kabir,,1,,5/9/2022 11:48
+kalpit,,Kalpit,,1,,5/9/2022 11:48
+karan,,Karan,,1,,5/9/2022 11:48
+krish,,Krish,,1,,5/9/2022 11:48
+krishna,,Krishna,,1,,5/9/2022 11:48
+laksh,,Laksh,,1,,5/9/2022 11:48
+manannew,,Manannew,,1,,5/9/2022 11:48
+mohammed,,Mohammed,,1,,5/9/2022 11:48
+nachiket,,Nachiket,,1,,5/9/2022 11:48
+naksh,,Naksh,,1,,5/9/2022 11:48
+nakul,,Nakul,,1,,5/9/2022 11:48
+neel,,Neel,,1,,5/9/2022 11:48
+om,,Om,,1,,5/9/2022 11:48
+parth,,Parth,,1,,5/9/2022 11:48
+pranav,,Pranav,,1,,5/9/2022 11:48
+praneel,,Praneel,,1,,5/9/2022 11:48
+pranit,,Pranit,,1,,5/9/2022 11:48
+pratyush,,Pratyush,,1,,5/9/2022 11:48
+raghav,,Raghav,,1,,5/9/2022 11:48
+ranveer,,Ranveer,,1,,5/9/2022 11:48
+rayaan,,Rayaan,,1,,5/9/2022 11:48
+rehaannew,,Rehaannew,,1,,5/9/2022 11:48
+rishi,,Rishi,,1,,5/9/2022 11:48
+ronith,,Ronith,,1,,5/9/2022 11:48
+rudranew,,Rudranew,,1,,5/9/2022 11:48
+rushil,,Rushil,,1,,5/9/2022 11:48
+ryan,,Ryan,,1,,5/9/2022 11:48
+sai,,Sai,,1,,5/9/2022 11:48
+saksham,,Saksham,,1,,5/9/2022 11:48
+samaksh,,Samaksh,,1,,5/9/2022 11:48
+samarth,,Samarth,,1,,5/9/2022 11:48
+samesh,,Samesh,,1,,5/9/2022 11:48
+sarthak,,Sarthak,,1,,5/9/2022 11:48
+sathviknew,,Sathviknew,,1,,5/9/2022 11:48
+shaurya,,Shaurya,,1,,5/9/2022 11:48
+shivansh,,Shivansh,,1,,5/9/2022 11:48
+siddharth,,Siddharth,,1,,5/9/2022 11:48
+tejas,,Tejas,,1,,5/9/2022 11:48
+vedant,,Vedant,,1,,5/9/2022 11:48
+veer,,Veer,,1,,5/9/2022 11:48
+viaannew,,Viaannew,,1,,5/9/2022 11:48
+viraj,,Viraj,,1,,5/9/2022 11:48
+yash,,Yash,,1,,5/9/2022 11:48
+yug,,Yug,,1,,5/9/2022 11:48
+zayan,,Zayan,,1,,5/9/2022 11:48
+,,Aamir,,,,
+,,Abbas,,,,
+,,Abdul Haq,,,,
+,,Abdullah,,,,
+,,Abdur,,,,
+,,Abdur Rahman,,,,
+,,Abdur Rashid,,,,
+,,Abdus,,,,
+,,Abdus Salam,,,,
+,,Abhay,,,,
+,,Abhijeet,,,,
+,,Abhijit,,,,
+,,Abhilash,,,,
+,,Abhinav,,,,
+,,Abhishek,,,,
+,,Abrar,,,,
+,,Adil,,,,
+,,Adnan,,,,
+,,Agni,,,,
+,,Ahmad,,,,
+,,Ahmed,,,,
+,,Ahsan,,,,
+,,Ajay,,,,
+,,Ajeet,,,,
+,,Ajit,,,,
+,,Ajith,,,,
+,,Akash,,,,
+,,Akbar,,,,
+,,Akhil,,,,
+,,Akif,,,,
+,,Akmal,,,,
+,,Ali,,,,
+,,Amandeep,,,,
+,,Amar,,,,
+,,Amardeep,,,,
+,,Amarjeet,,,,
+,,Amin,,,,
+,,Amir,,,,
+,,Amit,,,,
+,,Amitabh,,,,
+,,Amrit,,,,
+,,Anand,,,,
+,,Ananda,,,,
+,,Anant,,,,
+,,Ananth,,,,
+,,Anantha,,,,
+,,Anbu,,,,
+,,Anik,,,,
+,,Aniket,,,,
+,,Anil,,,,
+,,Aniruddha,,,,
+,,Anish,,,,
+,,Anit,,,,
+,,Ankit,,,,
+,,Ankur,,,,
+,,Anoop,,,,
+,,Ansar,,,,
+,,Anuj,,,,
+,,Anup,,,,
+,,Anupam,,,,
+,,Anwar,,,,
+,,Apoorva,,,,
+,,Apurva,,,,
+,,Arabinda,,,,
+,,Aravind,,,,
+,,Aravinda,,,,
+,,Arif,,,,
+,,Arijit,,,,
+,,Aritra,,,,
+,,Arun,,,,
+,,Arya,,,,
+,,Asad,,,,
+,,Aseem,,,,
+,,Ashish,,,,
+,,Ashok,,,,
+,,Ashwin,,,,
+,,Asif,,,,
+,,Asim,,,,
+,,Aswathi,,,,
+,,Aurobindo,,,,
+,,Avinash,,,,
+,,Ayan,,,,
+,,Ayaz,,,,
+,,Azhar,,,,
+,,Aziz,,,,
+,,Babar,,,,
+,,Baber,,,,
+,,Babur,,,,
+,,Bahadur,,,,
+,,Bakhtiar,,,,
+,,Bala,,,,
+,,Balakrishna,,,,
+,,Balaram,,,,
+,,Baldev,,,,
+,,Balwinder,,,,
+,,Basant,,,,
+,,Basu,,,,
+,,Bharat,,,,
+,,Bharath,,,,
+,,Bhaskar,,,,
+,,Bhim,,,,
+,,Bibek,,,,
+,,Bijay,,,,
+,,Bijoy,,,,
+,,Bilal,,,,
+,,Binay,,,,
+,,Bipin,,,,
+,,Bishal,,,,
+,,Bishan,,,,
+,,Brijesh,,,,
+,,Chand,,,,
+,,Chandan,,,,
+,,Chander,,,,
+,,Chandra,,,,
+,,Chandrakant,,,,
+,,Chandrasekhar,,,,
+,,Chandrashekhar,,,,
+,,Chetan,,,,
+,,Chiranjeevi,,,,
+,,Chiranjivi,,,,
+,,Damodar,,,,
+,,Danish,,,,
+,,Daniyal,,,,
+,,Darshan,,,,
+,,Dayaram,,,,
+,,Debdas,,,,
+,,Deep,,,,
+,,Deepak,,,,
+,,Deo,,,,
+,,Devadas,,,,
+,,Devaraj,,,,
+,,Devdas,,,,
+,,Devraj,,,,
+,,Dhananjay,,,,
+,,Dharma,,,,
+,,Dhaval,,,,
+,,Dileep,,,,
+,,Dilip,,,,
+,,Dilshad,,,,
+,,Dinesh,,,,
+,,Dip,,,,
+,,Dipak,,,,
+,,Durai,,,,
+,,Durga,,,,
+,,Dushyant,,,,
+,,Ezhil,,,,
+,,Faisal,,,,
+,,Fareed,,,,
+,,Farid,,,,
+,,Farrukh,,,,
+,,Fateh,,,,
+,,Ferdous,,,,
+,,Feroz,,,,
+,,Feroze,,,,
+,,Firdaus,,,,
+,,Firdos,,,,
+,,Firdous,,,,
+,,Firoz,,,,
+,,Furqan,,,,
+,,Ganesh,,,,
+,,Gaurav,,,,
+,,Geevarghese,,,,
+,,George,,,,
+,,Ghulam,,,,
+,,Girish,,,,
+,,Gobind,,,,
+,,Gobinda,,,,
+,,Gohar,,,,
+,,Gopal,,,,
+,,Gopinath,,,,
+,,Gotam,,,,
+,,Gourab,,,,
+,,Goutam,,,,
+,,Govind,,,,
+,,Govinda,,,,
+,,Gul,,,,
+,,Gulbahar,,,,
+,,Gulshan,,,,
+,,Gulzar,,,,
+,,Gurdeep,,,,
+,,Gurmeet,,,,
+,,Gurpreet,,,,
+,,Habib,,,,
+,,Hameed,,,,
+,,Hamid,,,,
+,,Haneef,,,,
+,,Hanif,,,,
+,,Hardeep,,,,
+,,Harendra,,,,
+,,Hari,,,,
+,,Harinder,,,,
+,,Haris,,,,
+,,Harish,,,,
+,,Haroon,,,,
+,,Harpreet,,,,
+,,Harsha,,,,
+,,Harshad,,,,
+,,Harshal,,,,
+,,Hasan,,,,
+,,Haseeb,,,,
+,,Hashim,,,,
+,,Hasib,,,,
+,,Hassan,,,,
+,,Hayat,,,,
+,,Hira,,,,
+,,Ibrahim,,,,
+,,Imran,,,,
+,,Imtiaz,,,,
+,,Imtiyaz,,,,
+,,Inayat,,,,
+,,Inayatullah,,,,
+,,Inderjeet,,,,
+,,Inderjit,,,,
+,,Inderpal,,,,
+,,Indra,,,,
+,,Irfan,,,,
+,,Ismat,,,,
+,,Jagadish,,,,
+,,Jagannath,,,,
+,,Jagdish,,,,
+,,Jagjit,,,,
+,,Jahangir,,,,
+,,Jahid,,,,
+,,Jai,,,,
+,,Jaidev,,,,
+,,Jasvinder,,,,
+,,Jaswinder,,,,
+,,Javaid,,,,
+,,Javed,,,,
+,,Jay,,,,
+,,Jaya,,,,
+,,Jayadev,,,,
+,,Jayant,,,,
+,,Jayanta,,,,
+,,Jayendra,,,,
+,,Jaywant,,,,
+,,Jeetendra,,,,
+,,Jitender,,,,
+,,Jitendra,,,,
+,,Jothi,,,,
+,,Jyothi,,,,
+,,Jyoti,,,,
+,,Kailash,,,,
+,,Kajal,,,,
+,,Kali,,,,
+,,Kalidas,,,,
+,,Kalyan,,,,
+,,Kalyana,,,,
+,,Kamal,,,,
+,,Kamran,,,,
+,,Kannan,,,,
+,,Kanta,,,,
+,,Kanti,,,,
+,,Kapil,,,,
+,,Karthik,,,,
+,,Karthikeyan,,,,
+,,Kartik,,,,
+,,Karuna,,,,
+,,Kausar,,,,
+,,Kavi,,,,
+,,Khaled,,,,
+,,Khalid,,,,
+,,Khan,,,,
+,,Khurram,,,,
+,,Khurshid,,,,
+,,Kiran,,,,
+,,Kishan,,,,
+,,Kishor,,,,
+,,Kishore,,,,
+,,Kshitij,,,,
+,,Kuldeep,,,,
+,,Kumar,,,,
+,,Kumaran,,,,
+,,Kunal,,,,
+,,Lakshman,,,,
+,,Lakshmi,,,,
+,,Lal,,,,
+,,Lalit,,,,
+,,Latif,,,,
+,,Laxman,,,,
+,,Laxmi,,,,
+,,Lochan,,,,
+,,Lucky,,,,
+,,Madhav,,,,
+,,Madhu,,,,
+,,Madhukar,,,,
+,,Madhur,,,,
+,,Mahavir,,,,
+,,Mahbub,,,,
+,,Mahendra,,,,
+,,Mahesh,,,,
+,,Mahinder,,,,
+,,Mahmud,,,,
+,,Majid,,,,
+,,Mamun,,,,
+,,Manas,,,,
+,,Mandeep,,,,
+,,Mani,,,,
+,,Maninder,,,,
+,,Manish,,,,
+,,Manjeet,,,,
+,,Manoj,,,,
+,,Manpreet,,,,
+,,Manu,,,,
+,,Maqsood,,,,
+,,Maqsud,,,,
+,,Maruf,,,,
+,,Masud,,,,
+,,Mayur,,,,
+,,Mehmood,,,,
+,,Mehmud,,,,
+,,Mirza,,,,
+,,Mitra,,,,
+,,Mohammad,,,,
+,,Mohan,,,,
+,,Mohandas,,,,
+,,Mohinder,,,,
+,,Mohit,,,,
+,,Muhammad,,,,
+,,Muhammad Ali,,,,
+,,Mukesh,,,,
+,,Mukhtar,,,,
+,,Mukul,,,,
+,,Mumtaz,,,,
+,,Murad,,,,
+,,Murali,,,,
+,,Murtaza,,,,
+,,Murugan,,,,
+,,Muslim,,,,
+,,Mustafa,,,,
+,,Nadeem,,,,
+,,Nadim,,,,
+,,Nagendra,,,,
+,,Najeeb,,,,
+,,Nand,,,,
+,,Nanda,,,,
+,,Narasimha,,,,
+,,Narayan,,,,
+,,Narayana,,,,
+,,Narayanan,,,,
+,,Narendra,,,,
+,,Narinder,,,,
+,,Naseem,,,,
+,,Nasim,,,,
+,,Navdeep,,,,
+,,Naveen,,,,
+,,Navin,,,,
+,,Navneet,,,,
+,,Nazeer,,,,
+,,Nazir,,,,
+,,Neelam,,,,
+,,Neeraj,,,,
+,,Nihal,,,,
+,,Nikhil,,,,
+,,Nilam,,,,
+,,Nilesh,,,,
+,,Ninad,,,,
+,,Niraj,,,,
+,,Nirav,,,,
+,,Nirmal,,,,
+,,Nirshant,,,,
+,,Nithin,,,,
+,,Nitin,,,,
+,,Nitish,,,,
+,,Nitya,,,,
+,,Noor,,,,
+,,Nur,,,,
+,,Padma,,,,
+,,Pallab,,,,
+,,Pallav,,,,
+,,Pankaj,,,,
+,,Parminder,,,,
+,,Partha,,,,
+,,Parveen,,,,
+,,Parvin,,,,
+,,Pavan,,,,
+,,Pitambar,,,,
+,,Prabhakar,,,,
+,,Prabhat,,,,
+,,Prabhu,,,,
+,,Prabodh,,,,
+,,Pradeep,,,,
+,,Pradip,,,,
+,,Prahalad,,,,
+,,Prahlad,,,,
+,,Prakash,,,,
+,,Pramod,,,,
+,,Pran,,,,
+,,Pranab,,,,
+,,Prasad,,,,
+,,Prasanna,,,,
+,,Prasenjit,,,,
+,,Prashant,,,,
+,,Prashanth,,,,
+,,Pratap,,,,
+,,Prateek,,,,
+,,Pratik,,,,
+,,Praveen,,,,
+,,Pravin,,,,
+,,Prem,,,,
+,,Prithvi,,,,
+,,Prosenjit,,,,
+,,Puneet,,,,
+,,Punit,,,,
+,,Purushottam,,,,
+,,Qasim,,,,
+,,Qurban,,,,
+,,Rabi,,,,
+,,Rabindra,,,,
+,,Radha,,,,
+,,Rafiq,,,,
+,,Raghu,,,,
+,,Rahat,,,,
+,,Rahim,,,,
+,,Rahman,,,,
+,,Rahul,,,,
+,,Raj,,,,
+,,Raja,,,,
+,,Rajani,,,,
+,,Rajaram,,,,
+,,Rajeev,,,,
+,,Rajender,,,,
+,,Rajendra,,,,
+,,Rajesh,,,,
+,,Rajib,,,,
+,,Rajinder,,,,
+,,Rajiv,,,,
+,,Rajneesh,,,,
+,,Rajnish,,,,
+,,Raju,,,,
+,,Rakesh,,,,
+,,Ram,,,,
+,,Rama,,,,
+,,Ramachandra,,,,
+,,Ramakant,,,,
+,,Ramakanta,,,,
+,,Ramakrishna,,,,
+,,Raman,,,,
+,,Ramana,,,,
+,,Rambabu,,,,
+,,Ramchandra,,,,
+,,Ramdas,,,,
+,,Ramesh,,,,
+,,Rameshwar,,,,
+,,Ramkrishna,,,,
+,,Ramprasad,,,,
+,,Ramzan,,,,
+,,Rana,,,,
+,,Ranj,,,,
+,,Ranjeet,,,,
+,,Ranjit,,,,
+,,Rasel,,,,
+,,Rashmi,,,,
+,,Rasool,,,,
+,,Ratan,,,,
+,,Rathna,,,,
+,,Ratna,,,,
+,,Ratnam,,,,
+,,Ravi,,,,
+,,Ravinder,,,,
+,,Ravindra,,,,
+,,Raza,,,,
+,,Rehman,,,,
+,,Rizwan,,,,
+,,Rohit,,,,
+,,Roshan,,,,
+,,Rupinder,,,,
+,,Sachin,,,,
+,,Sadiq,,,,
+,,Saeed,,,,
+,,Saiful,,,,
+,,Saifullah,,,,
+,,Sameer,,,,
+,,Samir,,,,
+,,Sampath,,,,
+,,Sandeep,,,,
+,,Sandip,,,,
+,,Sanjay,,,,
+,,Sanjeet,,,,
+,,Sanjeev,,,,
+,,Sanjib,,,,
+,,Sanjit,,,,
+,,Sanjiv,,,,
+,,Sankar,,,,
+,,Saral,,,,
+,,Sardar,,,,
+,,Sarvesh,,,,
+,,Sashi,,,,
+,,Satish,,,,
+,,Sayfullah,,,,
+,,Sekar,,,,
+,,Sekhar,,,,
+,,Shahid,,,,
+,,Shahjahan,,,,
+,,Shahnaz,,,,
+,,Shahrukh,,,,
+,,Shahzad,,,,
+,,Shahzada,,,,
+,,Shakti,,,,
+,,Shams,,,,
+,,Shamsuddin,,,,
+,,Shandar,,,,
+,,Shankar,,,,
+,,Shantanu,,,,
+,,Sharad,,,,
+,,Sharif,,,,
+,,Sharma,,,,
+,,Shashi,,,,
+,,Shaukat,,,,
+,,Shawkat,,,,
+,,Shekhar,,,,
+,,Sher,,,,
+,,Shib,,,,
+,,Shiv,,,,
+,,Shiva,,,,
+,,Shresth,,,,
+,,Shrinivas,,,,
+,,Shriram,,,,
+,,Shrivatsa,,,,
+,,Shubham,,,,
+,,Shyam,,,,
+,,Shyamal,,,,
+,,Sib,,,,
+,,Siddhartha,,,,
+,,Siddiq,,,,
+,,Sikandar,,,,
+,,Simran,,,,
+,,Singh,,,,
+,,Sitaram,,,,
+,,Siva,,,,
+,,Sohail,,,,
+,,Sree,,,,
+,,Sri,,,,
+,,Srinivas,,,,
+,,Subhan,,,,
+,,Subhash,,,,
+,,Subrahmanya,,,,
+,,Subramaniam,,,,
+,,Subramanian,,,,
+,,Sudarshan,,,,
+,,Sudheer,,,,
+,,Sudhir,,,,
+,,Suhail,,,,
+,,Sujay,,,,
+,,Sukhbir,,,,
+,,Sukhdeep,,,,
+,,Sukhwinder,,,,
+,,Sultan,,,,
+,,Suman,,,,
+,,Sumantra,,,,
+,,Sumeet,,,,
+,,Sumit,,,,
+,,Sumon,,,,
+,,Sundar,,,,
+,,Sunder,,,,
+,,Sunil,,,,
+,,Suraj,,,,
+,,Surendra,,,,
+,,Suresh,,,,
+,,Surinder,,,,
+,,Suriya,,,,
+,,Surya,,,,
+,,Sushil,,,,
+,,Swapan,,,,
+,,Swapnil,,,,
+,,Swaran,,,,
+,,Swarna,,,,
+,,Syed,,,,
+,,Tahir,,,,
+,,Talat,,,,
+,,Talha,,,,
+,,Tapan,,,,
+,,Tariq,,,,
+,,Tarun,,,,
+,,Umar,,,,
+,,Usman,,,,
+,,Uttar,,,,
+,,Varghese,,,,
+,,Vasant,,,,
+,,Vasu,,,,
+,,Venkat,,,,
+,,Venkata,,,,
+,,Vijay,,,,
+,,Vijaya,,,,
+,,Vikram,,,,
+,,Vimal,,,,
+,,Vinay,,,,
+,,Vipin,,,,
+,,Vipul,,,,
+,,Vishal,,,,
+,,Vishnu,,,,
+,,Vivek,,,,
+,,Yasin,,,,
+,,Yasir,,,,
+,,Younus,,,,
+,,Yousaf,,,,
+,,Yusuf,,,,
+,,Zafar,,,,
+,,Zahid,,,,
+,,Zahir,,,,
+,,Zaman,,,,
+,,Zamir,,,,
+,,Zawar,,,,
+,,Ziauddin,,,,
+,,Zubair,,,,
+,,Zubin,,,,
+,,Zulfaqar,,,,
+,,Zulfikar,,,,
+,,Zulfiqar,,,,

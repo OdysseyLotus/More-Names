@@ -1,130 +1,551 @@
-"Game Reference Key","Notes","Displayed Text","Alternate Text","Frequency","Requires Suffix","Misc."
-"[The key used by the game to find strings]","[Not loaded into the game, for explanation only]","[The displayed string in-game]","[Alternate displayed string, eg. Nickname]","[For lists]","[Does this require a suffix for naming?]","[Miscellaneous]"
-"— ","— ","— ","— ","— ","— ","— "
-"additri","","Additri","",1,"","11:48 05/09/2022"
-"aaryahi","","Aaryahi","",1,"","11:48 05/09/2022"
-"adah","","Adah","",1,"","11:48 05/09/2022"
-"advika","","Advika","",1,"","11:48 05/09/2022"
-"ahana","","Ahana","",1,"","11:48 05/09/2022"
-"alisha","","Alisha","",1,"","11:48 05/09/2022"
-"anaya","","Anaya","",1,"","11:48 05/09/2022"
-"anika","","Anika","",1,"","11:48 05/09/2022"
-"anvi","","Anvi","",1,"","11:48 05/09/2022"
-"aradhya","","Aradhya","",1,"","11:48 05/09/2022"
-"bhavya","","Bhavya","",1,"","11:48 05/09/2022"
-"charvi","","Charvi","",1,"","11:48 05/09/2022"
-"drishya","","Drishya","",1,"","11:48 05/09/2022"
-"eva","","Eva","",1,"","11:48 05/09/2022"
-"hrishita","","Hrishita","",1,"","11:48 05/09/2022"
-"inaaya","","Inaaya","",1,"","11:48 05/09/2022"
-"ira","","Ira","",1,"","11:48 05/09/2022"
-"jivika","","Jivika","",1,"","11:48 05/09/2022"
-"jiya","","Jiya","",1,"","11:48 05/09/2022"
-"kashvi","","Kashvi","",1,"","11:48 05/09/2022"
-"kavya","","Kavya","",1,"","11:48 05/09/2022"
-"keya","","Keya","",1,"","11:48 05/09/2022"
-"khushi","","Khushi","",1,"","11:48 05/09/2022"
-"kiara","","Kiara","",1,"","11:48 05/09/2022"
-"mahika","","Mahika","",1,"","11:48 05/09/2022"
-"mishti","","Mishti","",1,"","11:48 05/09/2022"
-"myra","","Myra","",1,"","11:48 05/09/2022"
-"navya","","Navya","",1,"","11:48 05/09/2022"
-"neysa","","Neysa","",1,"","11:48 05/09/2022"
-"nitya","","Nitya","",1,"","11:48 05/09/2022"
-"pari","","Pari","",1,"","11:48 05/09/2022"
-"parinaaz","","Parinaaz","",1,"","11:48 05/09/2022"
-"pihu","","Pihu","",1,"","11:48 05/09/2022"
-"prisha","","Prisha","",1,"","11:48 05/09/2022"
-"riya","","Riya","",1,"","11:48 05/09/2022"
-"saanvi","","Saanvi","",1,"","11:48 05/09/2022"
-"samaira","","Samaira","",1,"","11:48 05/09/2022"
-"sana","","Sana","",1,"","11:48 05/09/2022"
-"sara","","Sara","",1,"","11:48 05/09/2022"
-"shanaya","","Shanaya","",1,"","11:48 05/09/2022"
-"siya","","Siya","",1,"","11:48 05/09/2022"
-"tanya","","Tanya","",1,"","11:48 05/09/2022"
-"tara","","Tara","",1,"","11:48 05/09/2022"
-"tiya","","Tiya","",1,"","11:48 05/09/2022"
-"vanya","","Vanya","",1,"","11:48 05/09/2022"
-"vardaniya","","Vardaniya","",1,"","11:48 05/09/2022"
-"vedika","","Vedika","",1,"","11:48 05/09/2022"
-"vritika","","Vritika","",1,"","11:48 05/09/2022"
-"yashvi","","Yashvi","",1,"","11:48 05/09/2022"
-"zara","","Zara","",1,"","11:48 05/09/2022"
-"aadhya","","Aadhya","",1,"","11:48 05/09/2022"
-"ananya","","Ananya","",1,"","11:48 05/09/2022"
-"aaradhya","","Aaradhya","",1,"","11:48 05/09/2022"
-"aanya","","Aanya","",1,"","11:48 05/09/2022"
-"diya","","Diya","",1,"","11:48 05/09/2022"
-"aarna","","Aarna","",1,"","11:48 05/09/2022"
-"aditi","","Aditi","",1,"","11:48 05/09/2022"
-"aahana","","Aahana","",1,"","11:48 05/09/2022"
-"kyra","","Kyra","",1,"","11:48 05/09/2022"
-"aalia","","Aalia","",1,"","11:48 05/09/2022"
-"aarohi","","Aarohi","",1,"","11:48 05/09/2022"
-"sai","","Sai","",1,"","11:48 05/09/2022"
-"maryam","","Maryam","",1,"","11:48 05/09/2022"
-"olivia","","Olivia","",1,"","11:48 05/09/2022"
-"shreya","","Shreya","",1,"","11:48 05/09/2022"
-"angel","","Angel","",1,"","11:48 05/09/2022"
-"akshara","","Akshara","",1,"","11:48 05/09/2022"
-"sarah","","Sarah","",1,"","11:48 05/09/2022"
-"meera","","Meera","",1,"","11:48 05/09/2022"
-"mishka","","Mishka","",1,"","11:48 05/09/2022"
-"krisha","","Krisha","",1,"","11:48 05/09/2022"
-"saumya","","Saumya","",1,"","11:48 05/09/2022"
-"amaira","","Amaira","",1,"","11:48 05/09/2022"
-"lakshmi","","Lakshmi","",1,"","11:48 05/09/2022"
-"dhriti","","Dhriti","",1,"","11:48 05/09/2022"
-"sahana","","Sahana","",1,"","11:48 05/09/2022"
-"vedhika","","Vedhika","",1,"","11:48 05/09/2022"
-"trisha","","Trisha","",1,"","11:48 05/09/2022"
-"tanvi","","Tanvi","",1,"","11:48 05/09/2022"
-"jhanvi","","Jhanvi","",1,"","11:48 05/09/2022"
-"avni","","Avni","",1,"","11:48 05/09/2022"
-"anaisha","","Anaisha","",1,"","11:48 05/09/2022"
-"aria","","Aria","",1,"","11:48 05/09/2022"
-"meher","","Meher","",1,"","11:48 05/09/2022"
-"andrea","","Andrea","",1,"","11:48 05/09/2022"
-"anushka","","Anushka","",1,"","11:48 05/09/2022"
-"ishita","","Ishita","",1,"","11:48 05/09/2022"
-"ishanvi","","Ishanvi","",1,"","11:48 05/09/2022"
-"zoya","","Zoya","",1,"","11:48 05/09/2022"
-"vaishnavi","","Vaishnavi","",1,"","11:48 05/09/2022"
-"arunima","","Arunima","",1,"","11:48 05/09/2022"
-"ridhi","","Ridhi","",1,"","11:48 05/09/2022"
-"manya","","Manya","",1,"","11:48 05/09/2022"
-"shravya","","Shravya","",1,"","11:48 05/09/2022"
-"pratyusha","","Pratyusha","",1,"","11:48 05/09/2022"
-"vansha","","Vansha","",1,"","11:48 05/09/2022"
-"rachita","","Rachita","",1,"","11:48 05/09/2022"
-"adya","","Adya","",1,"","11:48 05/09/2022"
-"adweta","","Adweta","",1,"","11:48 05/09/2022"
-"mitali","","Mitali","",1,"","11:48 05/09/2022"
-"nisha","","Nisha","",1,"","11:48 05/09/2022"
-"saira","","Saira","",1,"","11:48 05/09/2022"
-"anya","","Anya","",1,"","11:48 05/09/2022"
-"nitara","","Nitara","",1,"","11:48 05/09/2022"
-"nayantara","","Nayantara","",1,"","11:48 05/09/2022"
-"arya","","Arya","",1,"","11:48 05/09/2022"
-"suhana","","Suhana","",1,"","11:48 05/09/2022"
-"suhani","","Suhani","",1,"","11:48 05/09/2022"
-"gauri","","Gauri","",1,"","11:48 05/09/2022"
-"sneha","","Sneha","",1,"","11:48 05/09/2022"
-"bhavna","","Bhavna","",1,"","11:48 05/09/2022"
-"hiral","","Hiral","",1,"","11:48 05/09/2022"
-"amrita","","Amrita","",1,"","11:48 05/09/2022"
-"amruta","","Amruta","",1,"","11:48 05/09/2022"
-"amaya","","Amaya","",1,"","11:48 05/09/2022"
-"jasmine","","Jasmine","",1,"","11:48 05/09/2022"
-"megha","","Megha","",1,"","11:48 05/09/2022"
-"meghana","","Meghana","",1,"","11:48 05/09/2022"
-"vinaya","","Vinaya","",1,"","11:48 05/09/2022"
-"raveena","","Raveena","",1,"","11:48 05/09/2022"
-"daksha","","Daksha","",1,"","11:48 05/09/2022"
-"isha","","Isha","",1,"","11:48 05/09/2022"
-"ishani","","Ishani","",1,"","11:48 05/09/2022"
-"krishna","","Krishna","",1,"","11:48 05/09/2022"
-"niharika","","Niharika","",1,"","11:48 05/09/2022"
-"divya","","Divya","",1,"","11:48 05/09/2022"
-"naira","","Naira","",1,"","11:48 05/09/2022"
+Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+[The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
+— ,— ,— ,— ,— ,— ,— 
+additri,,Additri,,1,,5/9/2022 11:48
+aaryahi,,Aaryahi,,1,,5/9/2022 11:48
+adah,,Adah,,1,,5/9/2022 11:48
+advika,,Advika,,1,,5/9/2022 11:48
+ahana,,Ahana,,1,,5/9/2022 11:48
+alisha,,Alisha,,1,,5/9/2022 11:48
+anaya,,Anaya,,1,,5/9/2022 11:48
+anika,,Anika,,1,,5/9/2022 11:48
+anvi,,Anvi,,1,,5/9/2022 11:48
+aradhya,,Aradhya,,1,,5/9/2022 11:48
+bhavya,,Bhavya,,1,,5/9/2022 11:48
+charvi,,Charvi,,1,,5/9/2022 11:48
+drishya,,Drishya,,1,,5/9/2022 11:48
+eva,,Eva,,1,,5/9/2022 11:48
+hrishita,,Hrishita,,1,,5/9/2022 11:48
+inaaya,,Inaaya,,1,,5/9/2022 11:48
+ira,,Ira,,1,,5/9/2022 11:48
+jivika,,Jivika,,1,,5/9/2022 11:48
+jiya,,Jiya,,1,,5/9/2022 11:48
+kashvi,,Kashvi,,1,,5/9/2022 11:48
+kavya,,Kavya,,1,,5/9/2022 11:48
+keya,,Keya,,1,,5/9/2022 11:48
+khushi,,Khushi,,1,,5/9/2022 11:48
+kiara,,Kiara,,1,,5/9/2022 11:48
+mahika,,Mahika,,1,,5/9/2022 11:48
+mishti,,Mishti,,1,,5/9/2022 11:48
+myra,,Myra,,1,,5/9/2022 11:48
+navya,,Navya,,1,,5/9/2022 11:48
+neysa,,Neysa,,1,,5/9/2022 11:48
+nitya,,Nitya,,1,,5/9/2022 11:48
+pari,,Pari,,1,,5/9/2022 11:48
+parinaaz,,Parinaaz,,1,,5/9/2022 11:48
+pihu,,Pihu,,1,,5/9/2022 11:48
+prisha,,Prisha,,1,,5/9/2022 11:48
+riya,,Riya,,1,,5/9/2022 11:48
+saanvi,,Saanvi,,1,,5/9/2022 11:48
+samaira,,Samaira,,1,,5/9/2022 11:48
+sana,,Sana,,1,,5/9/2022 11:48
+sara,,Sara,,1,,5/9/2022 11:48
+shanaya,,Shanaya,,1,,5/9/2022 11:48
+siya,,Siya,,1,,5/9/2022 11:48
+tanya,,Tanya,,1,,5/9/2022 11:48
+tara,,Tara,,1,,5/9/2022 11:48
+tiya,,Tiya,,1,,5/9/2022 11:48
+vanya,,Vanya,,1,,5/9/2022 11:48
+vardaniya,,Vardaniya,,1,,5/9/2022 11:48
+vedika,,Vedika,,1,,5/9/2022 11:48
+vritika,,Vritika,,1,,5/9/2022 11:48
+yashvi,,Yashvi,,1,,5/9/2022 11:48
+zara,,Zara,,1,,5/9/2022 11:48
+aadhya,,Aadhya,,1,,5/9/2022 11:48
+ananya,,Ananya,,1,,5/9/2022 11:48
+aaradhya,,Aaradhya,,1,,5/9/2022 11:48
+aanya,,Aanya,,1,,5/9/2022 11:48
+diya,,Diya,,1,,5/9/2022 11:48
+aarna,,Aarna,,1,,5/9/2022 11:48
+aditi,,Aditi,,1,,5/9/2022 11:48
+aahana,,Aahana,,1,,5/9/2022 11:48
+kyra,,Kyra,,1,,5/9/2022 11:48
+aalia,,Aalia,,1,,5/9/2022 11:48
+aarohi,,Aarohi,,1,,5/9/2022 11:48
+sai,,Sai,,1,,5/9/2022 11:48
+maryam,,Maryam,,1,,5/9/2022 11:48
+olivia,,Olivia,,1,,5/9/2022 11:48
+shreya,,Shreya,,1,,5/9/2022 11:48
+angel,,Angel,,1,,5/9/2022 11:48
+akshara,,Akshara,,1,,5/9/2022 11:48
+sarah,,Sarah,,1,,5/9/2022 11:48
+meera,,Meera,,1,,5/9/2022 11:48
+mishka,,Mishka,,1,,5/9/2022 11:48
+krisha,,Krisha,,1,,5/9/2022 11:48
+saumya,,Saumya,,1,,5/9/2022 11:48
+amaira,,Amaira,,1,,5/9/2022 11:48
+lakshmi,,Lakshmi,,1,,5/9/2022 11:48
+dhriti,,Dhriti,,1,,5/9/2022 11:48
+sahana,,Sahana,,1,,5/9/2022 11:48
+vedhika,,Vedhika,,1,,5/9/2022 11:48
+trisha,,Trisha,,1,,5/9/2022 11:48
+tanvi,,Tanvi,,1,,5/9/2022 11:48
+jhanvi,,Jhanvi,,1,,5/9/2022 11:48
+avni,,Avni,,1,,5/9/2022 11:48
+anaisha,,Anaisha,,1,,5/9/2022 11:48
+aria,,Aria,,1,,5/9/2022 11:48
+meher,,Meher,,1,,5/9/2022 11:48
+andrea,,Andrea,,1,,5/9/2022 11:48
+anushka,,Anushka,,1,,5/9/2022 11:48
+ishita,,Ishita,,1,,5/9/2022 11:48
+ishanvi,,Ishanvi,,1,,5/9/2022 11:48
+zoya,,Zoya,,1,,5/9/2022 11:48
+vaishnavi,,Vaishnavi,,1,,5/9/2022 11:48
+arunima,,Arunima,,1,,5/9/2022 11:48
+ridhi,,Ridhi,,1,,5/9/2022 11:48
+manya,,Manya,,1,,5/9/2022 11:48
+shravya,,Shravya,,1,,5/9/2022 11:48
+pratyusha,,Pratyusha,,1,,5/9/2022 11:48
+vansha,,Vansha,,1,,5/9/2022 11:48
+rachita,,Rachita,,1,,5/9/2022 11:48
+adya,,Adya,,1,,5/9/2022 11:48
+adweta,,Adweta,,1,,5/9/2022 11:48
+mitali,,Mitali,,1,,5/9/2022 11:48
+nisha,,Nisha,,1,,5/9/2022 11:48
+saira,,Saira,,1,,5/9/2022 11:48
+anya,,Anya,,1,,5/9/2022 11:48
+nitara,,Nitara,,1,,5/9/2022 11:48
+nayantara,,Nayantara,,1,,5/9/2022 11:48
+arya,,Arya,,1,,5/9/2022 11:48
+suhana,,Suhana,,1,,5/9/2022 11:48
+suhani,,Suhani,,1,,5/9/2022 11:48
+gauri,,Gauri,,1,,5/9/2022 11:48
+sneha,,Sneha,,1,,5/9/2022 11:48
+bhavna,,Bhavna,,1,,5/9/2022 11:48
+hiral,,Hiral,,1,,5/9/2022 11:48
+amrita,,Amrita,,1,,5/9/2022 11:48
+amruta,,Amruta,,1,,5/9/2022 11:48
+amaya,,Amaya,,1,,5/9/2022 11:48
+jasmine,,Jasmine,,1,,5/9/2022 11:48
+megha,,Megha,,1,,5/9/2022 11:48
+meghana,,Meghana,,1,,5/9/2022 11:48
+vinaya,,Vinaya,,1,,5/9/2022 11:48
+raveena,,Raveena,,1,,5/9/2022 11:48
+daksha,,Daksha,,1,,5/9/2022 11:48
+isha,,Isha,,1,,5/9/2022 11:48
+ishani,,Ishani,,1,,5/9/2022 11:48
+krishna,,Krishna,,1,,5/9/2022 11:48
+niharika,,Niharika,,1,,5/9/2022 11:48
+divya,,Divya,,1,,5/9/2022 11:48
+naira,,Naira,,1,,5/9/2022 11:48
+,,Aarthi,,,,
+,,Aarti,,,,
+,,Abha,,,,
+,,Abhilasha,,,,
+,,Afifa,,,,
+,,Aisha,,,,
+,,Aishwarya,,,,
+,,Aiza,,,,
+,,Aizah,,,,
+,,Akanksha,,,,
+,,Akhila,,,,
+,,Amala,,,,
+,,Amandeep,,,,
+,,Amardeep,,,,
+,,Amarjeet,,,,
+,,Amita,,,,
+,,Amna,,,,
+,,Anandi,,,,
+,,Anila,,,,
+,,Anima,,,,
+,,Anisha,,,,
+,,Anita,,,,
+,,Anjali,,,,
+,,Ankita,,,,
+,,Anoushka,,,,
+,,Anuja,,,,
+,,Anupama,,,,
+,,Anuradha,,,,
+,,Aparajita,,,,
+,,Aparna,,,,
+,,Apoorva,,,,
+,,Apurva,,,,
+,,Aradhana,,,,
+,,Arati,,,,
+,,Archana,,,,
+,,Arti,,,,
+,,Aruna,,,,
+,,Arundhati,,,,
+,,Arushi,,,,
+,,Asha,,,,
+,,Asma,,,,
+,,Avani,,,,
+,,Avanti,,,,
+,,Ayesha,,,,
+,,Aysha,,,,
+,,Azra,,,,
+,,Balwinder,,,,
+,,Bhavana,,,,
+,,Bushra,,,,
+,,Chanda,,,,
+,,Chandana,,,,
+,,Chandra,,,,
+,,Chandrakanta,,,,
+,,Chetana,,,,
+,,Darshana,,,,
+,,Deepa,,,,
+,,Deepali,,,,
+,,Deepika,,,,
+,,Deepti,,,,
+,,Devi,,,,
+,,Devika,,,,
+,,Diksha,,,,
+,,Dilshad,,,,
+,,Dipa,,,,
+,,Dipali,,,,
+,,Dipika,,,,
+,,Dipti,,,,
+,,Disha,,,,
+,,Drishti,,,,
+,,Durga,,,,
+,,Esha,,,,
+,,Ezhil,,,,
+,,Fahmida,,,,
+,,Farah,,,,
+,,Fareeha,,,,
+,,Farhana,,,,
+,,Fariha,,,,
+,,Farjana,,,,
+,,Farzana,,,,
+,,Fatema,,,,
+,,Fathima,,,,
+,,Fatima,,,,
+,,Fawzia,,,,
+,,Ferdous,,,,
+,,Ferdousi,,,,
+,,Firdaus,,,,
+,,Firdos,,,,
+,,Firdous,,,,
+,,Fouzia,,,,
+,,Gargi,,,,
+,,Gayathri,,,,
+,,Gayatri,,,,
+,,Geeta,,,,
+,,Geetha,,,,
+,,Gita,,,,
+,,Githa,,,,
+,,Gowri,,,,
+,,Grishma,,,,
+,,Gul,,,,
+,,Gulbadan,,,,
+,,Gulbahar,,,,
+,,Gulnaz,,,,
+,,Gulrukh,,,,
+,,Gulzar,,,,
+,,Gurdeep,,,,
+,,Gurmeet,,,,
+,,Gurpreet,,,,
+,,Habiba,,,,
+,,Hafsa,,,,
+,,Halima,,,,
+,,Hamida,,,,
+,,Harinder,,,,
+,,Harpreet,,,,
+,,Harshada,,,,
+,,Hema,,,,
+,,Humaira,,,,
+,,Ila,,,,
+,,Inaya,,,,
+,,Inayat,,,,
+,,Inderjeet,,,,
+,,Inderjit,,,,
+,,Inderpal,,,,
+,,Indira,,,,
+,,Indrani,,,,
+,,Indu,,,,
+,,Indumathi,,,,
+,,Iqra,,,,
+,,Ismat,,,,
+,,Jahanara,,,,
+,,Jamila,,,,
+,,Jannat,,,,
+,,Jannatul,,,,
+,,Jannatul Ferdous,,,,
+,,Jasvinder,,,,
+,,Jaswinder,,,,
+,,Jaya,,,,
+,,Jayanthi,,,,
+,,Jayanti,,,,
+,,Jayashri,,,,
+,,Jothi,,,,
+,,Jyothi,,,,
+,,Jyotsana,,,,
+,,Jyotsna,,,,
+,,Kajal,,,,
+,,Kala,,,,
+,,Kalpana,,,,
+,,Kalyani,,,,
+,,Kamakshi,,,,
+,,Kamala,,,,
+,,Kamatchi,,,,
+,,Kamini,,,,
+,,Kanchana,,,,
+,,Kanta,,,,
+,,Kanti,,,,
+,,Karishma,,,,
+,,Karthika,,,,
+,,Karuna,,,,
+,,Kashi,,,,
+,,Kasi,,,,
+,,Kaur,,,,
+,,Kausar,,,,
+,,Kaveri,,,,
+,,Kavita,,,,
+,,Kavitha,,,,
+,,Khurshid,,,,
+,,Kiran,,,,
+,,Kirtida,,,,
+,,Kishori,,,,
+,,Kshitija,,,,
+,,Kumari,,,,
+,,Laboni,,,,
+,,Laila,,,,
+,,Lalita,,,,
+,,Lalitha,,,,
+,,Lata,,,,
+,,Lavanya,,,,
+,,Laxmi,,,,
+,,Leela,,,,
+,,Lila,,,,
+,,Lilavati,,,,
+,,Lina,,,,
+,,Lochana,,,,
+,,Lucky,,,,
+,,Madhavi,,,,
+,,Madhu,,,,
+,,Madhur,,,,
+,,Madhuri,,,,
+,,Mahbuba,,,,
+,,Mahinder,,,,
+,,Mala,,,,
+,,Malati,,,,
+,,Malini,,,,
+,,Mandeep,,,,
+,,Maninder,,,,
+,,Manisha,,,,
+,,Manjeet,,,,
+,,Manju,,,,
+,,Manjula,,,,
+,,Manjusha,,,,
+,,Manpreet,,,,
+,,Mariyam,,,,
+,,Masuma,,,,
+,,Maya,,,,
+,,Meena,,,,
+,,Mina,,,,
+,,Minakshi,,,,
+,,Minali,,,,
+,,Mira,,,,
+,,Mitra,,,,
+,,Mohinder,,,,
+,,Mohini,,,,
+,,Mridula,,,,
+,,Mukta,,,,
+,,Mumtaz,,,,
+,,Nalini,,,,
+,,Namrata,,,,
+,,Nanda,,,,
+,,Nandita,,,,
+,,Nargis,,,,
+,,Narinder,,,,
+,,Naseem,,,,
+,,Nasim,,,,
+,,Nasima,,,,
+,,Nasrin,,,,
+,,Navdeep,,,,
+,,Navneet,,,,
+,,Nazia,,,,
+,,Neela,,,,
+,,Neelam,,,,
+,,Neelima,,,,
+,,Neha,,,,
+,,Nida,,,,
+,,Niketa,,,,
+,,Nikhila,,,,
+,,Nikita,,,,
+,,Nikitha,,,,
+,,Nila,,,,
+,,Nilam,,,,
+,,Nilima,,,,
+,,Nilofar,,,,
+,,Nilofer,,,,
+,,Nilufar,,,,
+,,Nirmala,,,,
+,,Nirupama,,,,
+,,Nishat,,,,
+,,Nithya,,,,
+,,Nitika,,,,
+,,Noor,,,,
+,,Nur,,,,
+,,Padma,,,,
+,,Padmini,,,,
+,,Pallabi,,,,
+,,Pallavi,,,,
+,,Parminder,,,,
+,,Parvati,,,,
+,,Parveen,,,,
+,,Parvin,,,,
+,,Pooja,,,,
+,,Poornima,,,,
+,,Prachi,,,,
+,,Pratibha,,,,
+,,Pratima,,,,
+,,Praveena,,,,
+,,Pravina,,,,
+,,Preethi,,,,
+,,Preeti,,,,
+,,Prema,,,,
+,,Pritha,,,,
+,,Priti,,,,
+,,Priya,,,,
+,,Priyanka,,,,
+,,Puja,,,,
+,,Punita,,,,
+,,Purnima,,,,
+,,Pushpa,,,,
+,,Rachana,,,,
+,,Rachna,,,,
+,,Radha,,,,
+,,Radhika,,,,
+,,Rahima,,,,
+,,Rajani,,,,
+,,Rajinder,,,,
+,,Rajkumari,,,,
+,,Rajni,,,,
+,,Rakhi,,,,
+,,Ramadevi,,,,
+,,Rani,,,,
+,,Rashmi,,,,
+,,Rathna,,,,
+,,Rati,,,,
+,,Ratna,,,,
+,,Ratnam,,,,
+,,Ravinder,,,,
+,,Reena,,,,
+,,Reshma,,,,
+,,Reshmi,,,,
+,,Reva,,,,
+,,Richa,,,,
+,,Rina,,,,
+,,Ritika,,,,
+,,Ritu,,,,
+,,Rizwana,,,,
+,,Roshni,,,,
+,,Rukhsana,,,,
+,,Rukmini,,,,
+,,Rupa,,,,
+,,Rupinder,,,,
+,,Saba,,,,
+,,Sabeen,,,,
+,,Sadhana,,,,
+,,Sadia,,,,
+,,Saeeda,,,,
+,,Saima,,,,
+,,Sakina,,,,
+,,Sakshi,,,,
+,,Salma,,,,
+,,Sameera,,,,
+,,Samira,,,,
+,,Sandhya,,,,
+,,Sanjana,,,,
+,,Sarala,,,,
+,,Saraswati,,,,
+,,Sarika,,,,
+,,Sarita,,,,
+,,Sashi,,,,
+,,Savitri,,,,
+,,Seema,,,,
+,,Seeta,,,,
+,,Seetha,,,,
+,,Shabana,,,,
+,,Shabnam,,,,
+,,Shahnaz,,,,
+,,Shailaja,,,,
+,,Shakti,,,,
+,,Shakuntala,,,,
+,,Shams,,,,
+,,Shanta,,,,
+,,Shanthi,,,,
+,,Shanti,,,,
+,,Sharada,,,,
+,,Sharmila,,,,
+,,Shashi,,,,
+,,Shazia,,,,
+,,Sheela,,,,
+,,Shikha,,,,
+,,Shila,,,,
+,,Shivali,,,,
+,,Shivani,,,,
+,,Shobha,,,,
+,,Shweta,,,,
+,,Shyama,,,,
+,,Shyamala,,,,
+,,Siddhi,,,,
+,,Siddiqa,,,,
+,,Sima,,,,
+,,Simran,,,,
+,,Sita,,,,
+,,Sitara,,,,
+,,Sona,,,,
+,,Sonal,,,,
+,,Sonam,,,,
+,,Sree,,,,
+,,Sri,,,,
+,,Sridevi,,,,
+,,Sudarshana,,,,
+,,Sujata,,,,
+,,Sujatha,,,,
+,,Sukhdeep,,,,
+,,Sukhwinder,,,,
+,,Sulabha,,,,
+,,Sultana,,,,
+,,Sumaiya,,,,
+,,Suman,,,,
+,,Sumati,,,,
+,,Sumaya,,,,
+,,Sunita,,,,
+,,Sunitha,,,,
+,,Suniti,,,,
+,,Surinder,,,,
+,,Susheela,,,,
+,,Sushila,,,,
+,,Swapna,,,,
+,,Swaran,,,,
+,,Swarna,,,,
+,,Swathi,,,,
+,,Swati,,,,
+,,Syeda,,,,
+,,Tahira,,,,
+,,Tahmina,,,,
+,,Tamanna,,,,
+,,Tanu,,,,
+,,Tejal,,,,
+,,Thamarai,,,,
+,,Trishna,,,,
+,,Uma,,,,
+,,Upasana,,,,
+,,Urvi,,,,
+,,Usha,,,,
+,,Uttara,,,,
+,,Varsha,,,,
+,,Vasanti,,,,
+,,Vasuda,,,,
+,,Vasudha,,,,
+,,Vasundhara,,,,
+,,Veda,,,,
+,,Vidya,,,,
+,,Vijaya,,,,
+,,Vimala,,,,
+,,Yamuna,,,,
+,,Yasmeen,,,,
+,,Yasmin,,,,
+,,Zahida,,,,
+,,Zainab,,,,
+,,Zareen,,,,
+,,Zarina,,,,
+,,Zeenat,,,,
+,,Zehra,,,,
+,,Zinat,,,,
+,,Zohra,,,,
+,,Zubaida,,,,
+,,Zuhra,,,,
