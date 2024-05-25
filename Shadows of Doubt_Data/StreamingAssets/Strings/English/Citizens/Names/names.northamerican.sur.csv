@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+ÔªøGame Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-‚Äî ,‚Äî ,‚Äî ,‚Äî ,‚Äî ,‚Äî ,‚Äî 
+‚Äî,‚Äî,‚Äî,‚Äî,‚Äî,‚Äî,‚Äî
 smith,,Smith,,10,,5/9/2022 11:48
 johnson,,Johnson,,10,,5/9/2022 11:48
 williams,,Williams,,10,,5/9/2022 11:48
@@ -2266,7 +2266,7 @@ alvarado,,Alvarado,,1,,5/21/2024 1:26
 alvarenga,,Alvarenga,,1,,5/21/2024 1:26
 alvares,,Alvares,,1,,5/21/2024 1:26
 alvarez,,Alvarez,,1,,5/21/2024 1:26
-·lvarez,,¡lvarez,,1,,5/21/2024 1:26
+√°lvarez,,√Ålvarez,,1,,5/21/2024 1:26
 alverson,,Alverson,,1,,5/21/2024 1:26
 alves,,Alves,,1,,5/21/2024 1:26
 alvey,,Alvey,,1,,5/21/2024 1:26
@@ -2430,7 +2430,7 @@ avelar,,Avelar,,1,,5/21/2024 1:26
 avendano,,Avendano,,1,,5/21/2024 1:26
 averett,,Averett,,1,,5/21/2024 1:26
 averill,,Averill,,1,,5/21/2024 1:26
-·vila,,¡vila,,1,,5/21/2024 1:26
+√°vila,,√Åvila,,1,,5/21/2024 1:26
 aviles,,Aviles,,1,,5/21/2024 1:26
 avilez,,Avilez,,1,,5/21/2024 1:26
 avina,,Avina,,1,,5/21/2024 1:26
@@ -3199,7 +3199,7 @@ cairns,,Cairns,,1,,5/21/2024 1:26
 calabrese,,Calabrese,,1,,5/21/2024 1:26
 calder,,Calder,,1,,5/21/2024 1:26
 caldera,,Caldera,,1,,5/21/2024 1:26
-calderÛn,,CalderÛn,,1,,5/21/2024 1:26
+calder√≥n,,Calder√≥n,,1,,5/21/2024 1:26
 calderone,,Calderone,,1,,5/21/2024 1:26
 calixto,,Calixto,,1,,5/21/2024 1:26
 calkins,,Calkins,,1,,5/21/2024 1:26
@@ -3260,7 +3260,7 @@ carcamo,,Carcamo,,1,,5/21/2024 1:26
 card,,Card,,1,,5/21/2024 1:26
 carden,,Carden,,1,,5/21/2024 1:26
 cardenas,,Cardenas,,1,,5/21/2024 1:26
-c·rdenas,,C·rdenas,,1,,5/21/2024 1:26
+c√°rdenas,,C√°rdenas,,1,,5/21/2024 1:26
 carder,,Carder,,1,,5/21/2024 1:26
 cardinal,,Cardinal,,1,,5/21/2024 1:26
 cardinale,,Cardinale,,1,,5/21/2024 1:26
@@ -3335,7 +3335,7 @@ cassady,,Cassady,,1,,5/21/2024 1:26
 cassel,,Cassel,,1,,5/21/2024 1:26
 cassell,,Cassell,,1,,5/21/2024 1:26
 cassidy,,Cassidy,,1,,5/21/2024 1:26
-castaÒeda,,CastaÒeda,,1,,5/21/2024 1:26
+casta√±eda,,Casta√±eda,,1,,5/21/2024 1:26
 castano,,Castano,,1,,5/21/2024 1:26
 castanon,,Castanon,,1,,5/21/2024 1:26
 casteel,,Casteel,,1,,5/21/2024 1:26
@@ -3448,7 +3448,7 @@ chavarria,,Chavarria,,1,,5/21/2024 1:26
 chavers,,Chavers,,1,,5/21/2024 1:26
 chaves,,Chaves,,1,,5/21/2024 1:26
 chavez,,Chavez,,1,,5/21/2024 1:26
-ch·vez,,Ch·vez,,1,,5/21/2024 1:26
+ch√°vez,,Ch√°vez,,1,,5/21/2024 1:26
 chavira,,Chavira,,1,,5/21/2024 1:26
 chea,,Chea,,1,,5/21/2024 1:26
 chee,,Chee,,1,,5/21/2024 1:26
@@ -3693,7 +3693,7 @@ costanzo,,Costanzo,,1,,5/21/2024 1:26
 costello,,Costello,,1,,5/21/2024 1:26
 cota,,Cota,,1,,5/21/2024 1:26
 cote,,Cote,,1,,5/21/2024 1:26
-cotÈ,,CotÈ,,1,,5/21/2024 1:26
+cot√©,,Cot√©,,1,,5/21/2024 1:26
 cothran,,Cothran,,1,,5/21/2024 1:26
 cotten,,Cotten,,1,,5/21/2024 1:26
 cotter,,Cotter,,1,,5/21/2024 1:26
@@ -3906,12 +3906,12 @@ de la fuente,,de la Fuente,,1,,5/21/2024 1:26
 de la garza,,de la Garza,,1,,5/21/2024 1:26
 de la paz,,de la Paz,,1,,5/21/2024 1:26
 de la pena,,de la Pena,,1,,5/21/2024 1:26
-de la peÒa,,de la PeÒa,,1,,5/21/2024 1:26
+de la pe√±a,,de la Pe√±a,,1,,5/21/2024 1:26
 de la rosa,,de la Rosa,,1,,5/21/2024 1:26
 de la torre,,de la Torre,,1,,5/21/2024 1:26
 de la vega,,de la Vega,,1,,5/21/2024 1:26
 de leon,,de Leon,,1,,5/21/2024 1:26
-de leÛn,,de LeÛn,,1,,5/21/2024 1:26
+de le√≥n,,de Le√≥n,,1,,5/21/2024 1:26
 de lorenzo,,de Lorenzo,,1,,5/21/2024 1:26
 de los reyes,,de los Reyes,,1,,5/21/2024 1:26
 de los santos,,de los Santos,,1,,5/21/2024 1:26
@@ -3983,7 +3983,7 @@ delano,,Delano,,1,,5/21/2024 1:26
 delao,,Delao,,1,,5/21/2024 1:26
 delapaz,,Delapaz,,1,,5/21/2024 1:26
 delapena,,Delapena,,1,,5/21/2024 1:26
-delapeÒa,,DelapeÒa,,1,,5/21/2024 1:26
+delape√±a,,Delape√±a,,1,,5/21/2024 1:26
 delarosa,,Delarosa,,1,,5/21/2024 1:26
 delatorre,,Delatorre,,1,,5/21/2024 1:26
 delavega,,Delavega,,1,,5/21/2024 1:26
@@ -3992,7 +3992,7 @@ delcastillo,,Delcastillo,,1,,5/21/2024 1:26
 delcid,,Delcid,,1,,5/21/2024 1:26
 deleo,,Deleo,,1,,5/21/2024 1:26
 deleon,,Deleon,,1,,5/21/2024 1:26
-deleÛn,,DeleÛn,,1,,5/21/2024 1:26
+dele√≥n,,Dele√≥n,,1,,5/21/2024 1:26
 delgadillo,,Delgadillo,,1,,5/21/2024 1:26
 delgado,,Delgado,,1,,5/21/2024 1:26
 delia,,Delia,,1,,5/21/2024 1:26
@@ -4100,7 +4100,7 @@ di stefano,,Di Stefano,,1,,5/21/2024 1:26
 dial,,Dial,,1,,5/21/2024 1:26
 diamond,,Diamond,,1,,5/21/2024 1:26
 dias,,Dias,,1,,5/21/2024 1:26
-dÌaz,,DÌaz,,1,,5/21/2024 1:26
+d√≠az,,D√≠az,,1,,5/21/2024 1:26
 dibble,,Dibble,,1,,5/21/2024 1:26
 dibenedetto,,Dibenedetto,,1,,5/21/2024 1:26
 dicarlo,,Dicarlo,,1,,5/21/2024 1:26
@@ -4167,7 +4167,7 @@ dollar,,Dollar,,1,,5/21/2024 1:26
 dombrowski,,Dombrowski,,1,,5/21/2024 1:26
 domingo,,Domingo,,1,,5/21/2024 1:26
 domingue,,Domingue,,1,,5/21/2024 1:26
-domÌnguez,,DomÌnguez,,1,,5/21/2024 1:26
+dom√≠nguez,,Dom√≠nguez,,1,,5/21/2024 1:26
 dominick,,Dominick,,1,,5/21/2024 1:26
 donahoe,,Donahoe,,1,,5/21/2024 1:26
 donahue,,Donahue,,1,,5/21/2024 1:26
@@ -4235,7 +4235,7 @@ du four,,du Four,,1,,5/21/2024 1:26
 du fresne,,du Fresne,,1,,5/21/2024 1:26
 du mont,,du Mont,,1,,5/21/2024 1:26
 du pre,,du Pre,,1,,5/21/2024 1:26
-du prÈ,,du PrÈ,,1,,5/21/2024 1:26
+du pr√©,,du Pr√©,,1,,5/21/2024 1:26
 du prey,,du Prey,,1,,5/21/2024 1:26
 du puis,,du Puis,,1,,5/21/2024 1:26
 du que,,du Que,,1,,5/21/2024 1:26
@@ -4559,7 +4559,7 @@ fenton,,Fenton,,1,,5/21/2024 1:26
 fenwick,,Fenwick,,1,,5/21/2024 1:26
 fermin,,Fermin,,1,,5/21/2024 1:26
 fernandes,,Fernandes,,1,,5/21/2024 1:26
-fern·ndez,,Fern·ndez,,1,,5/21/2024 1:26
+fern√°ndez,,Fern√°ndez,,1,,5/21/2024 1:26
 fernando,,Fernando,,1,,5/21/2024 1:26
 ferrante,,Ferrante,,1,,5/21/2024 1:26
 ferrara,,Ferrara,,1,,5/21/2024 1:26
@@ -4771,7 +4771,7 @@ gaffney,,Gaffney,,1,,5/21/2024 1:26
 gagliano,,Gagliano,,1,,5/21/2024 1:26
 gagliardi,,Gagliardi,,1,,5/21/2024 1:26
 gagne,,Gagne,,1,,5/21/2024 1:26
-gagnÈ,,GagnÈ,,1,,5/21/2024 1:26
+gagn√©,,Gagn√©,,1,,5/21/2024 1:26
 gagnon,,Gagnon,,1,,5/21/2024 1:26
 gailey,,Gailey,,1,,5/21/2024 1:26
 gainer,,Gainer,,1,,5/21/2024 1:26
@@ -4818,7 +4818,7 @@ gaona,,Gaona,,1,,5/21/2024 1:26
 garay,,Garay,,1,,5/21/2024 1:26
 garber,,Garber,,1,,5/21/2024 1:26
 garces,,Garces,,1,,5/21/2024 1:26
-garcÌa,,GarcÌa,,1,,5/21/2024 1:26
+garc√≠a,,Garc√≠a,,1,,5/21/2024 1:26
 gard,,Gard,,1,,5/21/2024 1:26
 gardea,,Gardea,,1,,5/21/2024 1:26
 gardiner,,Gardiner,,1,,5/21/2024 1:26
@@ -4979,13 +4979,13 @@ golding,,Golding,,1,,5/21/2024 1:26
 goldman,,Goldman,,1,,5/21/2024 1:26
 goldstein,,Goldstein,,1,,5/21/2024 1:26
 gomes,,Gomes,,1,,5/21/2024 1:26
-gÛmez,,GÛmez,,1,,5/21/2024 1:26
+g√≥mez,,G√≥mez,,1,,5/21/2024 1:26
 goncalves,,Goncalves,,1,,5/21/2024 1:26
 gong,,Gong,,1,,5/21/2024 1:26
 gonsalez,,Gonsalez,,1,,5/21/2024 1:26
 gonsalves,,Gonsalves,,1,,5/21/2024 1:26
 gonzales,,Gonzales,,1,,5/21/2024 1:26
-gonz·lez,,Gonz·lez,,1,,5/21/2024 1:26
+gonz√°lez,,Gonz√°lez,,1,,5/21/2024 1:26
 goodall,,Goodall,,1,,5/21/2024 1:26
 goodell,,Goodell,,1,,5/21/2024 1:26
 goodin,,Goodin,,1,,5/21/2024 1:26
@@ -5140,10 +5140,10 @@ gustafson,,Gustafson,,1,,5/21/2024 1:26
 gustin,,Gustin,,1,,5/21/2024 1:26
 guth,,Guth,,1,,5/21/2024 1:26
 gutierrez,,Gutierrez,,1,,5/21/2024 1:26
-gutiÈrrez,,GutiÈrrez,,1,,5/21/2024 1:26
+guti√©rrez,,Guti√©rrez,,1,,5/21/2024 1:26
 guyer,,Guyer,,1,,5/21/2024 1:26
 guzman,,Guzman,,1,,5/21/2024 1:26
-guzm·n,,Guzm·n,,1,,5/21/2024 1:26
+guzm√°n,,Guzm√°n,,1,,5/21/2024 1:26
 gwin,,Gwin,,1,,5/21/2024 1:26
 gwinn,,Gwinn,,1,,5/21/2024 1:26
 gwynn,,Gwynn,,1,,5/21/2024 1:26
@@ -5446,7 +5446,7 @@ hermanson,,Hermanson,,1,,5/21/2024 1:26
 hermes,,Hermes,,1,,5/21/2024 1:26
 hermosillo,,Hermosillo,,1,,5/21/2024 1:26
 hernandes,,Hernandes,,1,,5/21/2024 1:26
-hern·ndez,,Hern·ndez,,1,,5/21/2024 1:26
+hern√°ndez,,Hern√°ndez,,1,,5/21/2024 1:26
 herold,,Herold,,1,,5/21/2024 1:26
 heron,,Heron,,1,,5/21/2024 1:26
 herr,,Herr,,1,,5/21/2024 1:26
@@ -5809,7 +5809,7 @@ ji,,Ji,,1,,5/21/2024 1:26
 jiang,,Jiang,,1,,5/21/2024 1:26
 jim,,Jim,,1,,5/21/2024 1:26
 jimenez,,Jimenez,,1,,5/21/2024 1:26
-jimÈnez,,JimÈnez,,1,,5/21/2024 1:26
+jim√©nez,,Jim√©nez,,1,,5/21/2024 1:26
 jimerson,,Jimerson,,1,,5/21/2024 1:26
 jin,,Jin,,1,,5/21/2024 1:26
 jo,,Jo,,1,,5/21/2024 1:26
@@ -5837,7 +5837,7 @@ jowers,,Jowers,,1,,5/21/2024 1:26
 joy,,Joy,,1,,5/21/2024 1:26
 juan,,Juan,,1,,5/21/2024 1:26
 juarez,,Juarez,,1,,5/21/2024 1:26
-ju·rez,,Ju·rez,,1,,5/21/2024 1:26
+ju√°rez,,Ju√°rez,,1,,5/21/2024 1:26
 judd,,Judd,,1,,5/21/2024 1:26
 judge,,Judge,,1,,5/21/2024 1:26
 judkins,,Judkins,,1,,5/21/2024 1:26
@@ -6393,7 +6393,7 @@ lees,,Lees,,1,,5/21/2024 1:26
 lefebvre,,Lefebvre,,1,,5/21/2024 1:26
 lefever,,Lefever,,1,,5/21/2024 1:26
 lefevre,,Lefevre,,1,,5/21/2024 1:26
-lefËvre,,LefËvre,,1,,5/21/2024 1:26
+lef√®vre,,Lef√®vre,,1,,5/21/2024 1:26
 leffler,,Leffler,,1,,5/21/2024 1:26
 lefler,,Lefler,,1,,5/21/2024 1:26
 leftwich,,Leftwich,,1,,5/21/2024 1:26
@@ -6435,7 +6435,7 @@ lent,,Lent,,1,,5/21/2024 1:26
 lentz,,Lentz,,1,,5/21/2024 1:26
 lenz,,Lenz,,1,,5/21/2024 1:26
 leo,,Leo,,1,,5/21/2024 1:26
-leÛn,,LeÛn,,1,,5/21/2024 1:26
+le√≥n,,Le√≥n,,1,,5/21/2024 1:26
 leonardo,,Leonardo,,1,,5/21/2024 1:26
 leone,,Leone,,1,,5/21/2024 1:26
 leong,,Leong,,1,,5/21/2024 1:26
@@ -6459,7 +6459,7 @@ levan,,Levan,,1,,5/21/2024 1:26
 levasseur,,Levasseur,,1,,5/21/2024 1:26
 leverett,,Leverett,,1,,5/21/2024 1:26
 levesque,,Levesque,,1,,5/21/2024 1:26
-lÈvesque,,LÈvesque,,1,,5/21/2024 1:26
+l√©vesque,,L√©vesque,,1,,5/21/2024 1:26
 levi,,Levi,,1,,5/21/2024 1:26
 levin,,Levin,,1,,5/21/2024 1:26
 levinson,,Levinson,,1,,5/21/2024 1:26
@@ -6579,7 +6579,7 @@ looper,,Looper,,1,,5/21/2024 1:26
 loos,,Loos,,1,,5/21/2024 1:26
 loper,,Loper,,1,,5/21/2024 1:26
 lopes,,Lopes,,1,,5/21/2024 1:26
-lÛpez,,LÛpez,,1,,5/21/2024 1:26
+l√≥pez,,L√≥pez,,1,,5/21/2024 1:26
 lor,,Lor,,1,,5/21/2024 1:26
 lora,,Lora,,1,,5/21/2024 1:26
 lord,,Lord,,1,,5/21/2024 1:26
@@ -6828,7 +6828,7 @@ marotta,,Marotta,,1,,5/21/2024 1:26
 marquardt,,Marquardt,,1,,5/21/2024 1:26
 marques,,Marques,,1,,5/21/2024 1:26
 marquez,,Marquez,,1,,5/21/2024 1:26
-m·rquez,,M·rquez,,1,,5/21/2024 1:26
+m√°rquez,,M√°rquez,,1,,5/21/2024 1:26
 marquis,,Marquis,,1,,5/21/2024 1:26
 marr,,Marr,,1,,5/21/2024 1:26
 marra,,Marra,,1,,5/21/2024 1:26
@@ -6837,7 +6837,7 @@ marriott,,Marriott,,1,,5/21/2024 1:26
 marron,,Marron,,1,,5/21/2024 1:26
 marrone,,Marrone,,1,,5/21/2024 1:26
 marroquin,,Marroquin,,1,,5/21/2024 1:26
-marroquÌn,,MarroquÌn,,1,,5/21/2024 1:26
+marroqu√≠n,,Marroqu√≠n,,1,,5/21/2024 1:26
 marrow,,Marrow,,1,,5/21/2024 1:26
 marrs,,Marrs,,1,,5/21/2024 1:26
 marrufo,,Marrufo,,1,,5/21/2024 1:26
@@ -6855,7 +6855,7 @@ martineau,,Martineau,,1,,5/21/2024 1:26
 martinelli,,Martinelli,,1,,5/21/2024 1:26
 martines,,Martines,,1,,5/21/2024 1:26
 martinez,,Martinez,,1,,5/21/2024 1:26
-martÌnez,,MartÌnez,,1,,5/21/2024 1:26
+mart√≠nez,,Mart√≠nez,,1,,5/21/2024 1:26
 martini,,Martini,,1,,5/21/2024 1:26
 martino,,Martino,,1,,5/21/2024 1:26
 martins,,Martins,,1,,5/21/2024 1:26
@@ -7108,7 +7108,7 @@ meisner,,Meisner,,1,,5/21/2024 1:26
 meissner,,Meissner,,1,,5/21/2024 1:26
 meister,,Meister,,1,,5/21/2024 1:26
 mejia,,Mejia,,1,,5/21/2024 1:26
-mejÌa,,MejÌa,,1,,5/21/2024 1:26
+mej√≠a,,Mej√≠a,,1,,5/21/2024 1:26
 mejias,,Mejias,,1,,5/21/2024 1:26
 melancon,,Melancon,,1,,5/21/2024 1:26
 melanson,,Melanson,,1,,5/21/2024 1:26
@@ -7133,7 +7133,7 @@ menchaca,,Menchaca,,1,,5/21/2024 1:26
 mendenhall,,Mendenhall,,1,,5/21/2024 1:26
 mendes,,Mendes,,1,,5/21/2024 1:26
 mendez,,Mendez,,1,,5/21/2024 1:26
-mÈndez,,MÈndez,,1,,5/21/2024 1:26
+m√©ndez,,M√©ndez,,1,,5/21/2024 1:26
 mendieta,,Mendieta,,1,,5/21/2024 1:26
 mendiola,,Mendiola,,1,,5/21/2024 1:26
 mendonca,,Mendonca,,1,,5/21/2024 1:26
@@ -7380,7 +7380,7 @@ muniz,,Muniz,,1,,5/21/2024 1:26
 munn,,Munn,,1,,5/21/2024 1:26
 munos,,Munos,,1,,5/21/2024 1:26
 munoz,,Munoz,,1,,5/21/2024 1:26
-muÒoz,,MuÒoz,,1,,5/21/2024 1:26
+mu√±oz,,Mu√±oz,,1,,5/21/2024 1:26
 munro,,Munro,,1,,5/21/2024 1:26
 munroe,,Munroe,,1,,5/21/2024 1:26
 munson,,Munson,,1,,5/21/2024 1:26
@@ -7553,7 +7553,7 @@ nugent,,Nugent,,1,,5/21/2024 1:26
 null,,Null,,1,,5/21/2024 1:26
 nunes,,Nunes,,1,,5/21/2024 1:26
 nunez,,Nunez,,1,,5/21/2024 1:26
-n˙Òez,,N˙Òez,,1,,5/21/2024 1:26
+n√∫√±ez,,N√∫√±ez,,1,,5/21/2024 1:26
 nunley,,Nunley,,1,,5/21/2024 1:26
 nunnally,,Nunnally,,1,,5/21/2024 1:26
 nuno,,Nuno,,1,,5/21/2024 1:26
@@ -7656,7 +7656,7 @@ ortega,,Ortega,,1,,5/21/2024 1:26
 ortez,,Ortez,,1,,5/21/2024 1:26
 orth,,Orth,,1,,5/21/2024 1:26
 ortiz,,Ortiz,,1,,5/21/2024 1:26
-ortÌz,,OrtÌz,,1,,5/21/2024 1:26
+ort√≠z,,Ort√≠z,,1,,5/21/2024 1:26
 orton,,Orton,,1,,5/21/2024 1:26
 osburn,,Osburn,,1,,5/21/2024 1:26
 oseguera,,Oseguera,,1,,5/21/2024 1:26
@@ -7861,7 +7861,7 @@ peltier,,Peltier,,1,,5/21/2024 1:26
 pelton,,Pelton,,1,,5/21/2024 1:26
 peluso,,Peluso,,1,,5/21/2024 1:26
 pemberton,,Pemberton,,1,,5/21/2024 1:26
-peÒa,,PeÒa,,1,,5/21/2024 1:26
+pe√±a,,Pe√±a,,1,,5/21/2024 1:26
 penaloza,,Penaloza,,1,,5/21/2024 1:26
 pence,,Pence,,1,,5/21/2024 1:26
 pender,,Pender,,1,,5/21/2024 1:26
@@ -7891,7 +7891,7 @@ pereira,,Pereira,,1,,5/21/2024 1:26
 perera,,Perera,,1,,5/21/2024 1:26
 peres,,Peres,,1,,5/21/2024 1:26
 pereyra,,Pereyra,,1,,5/21/2024 1:26
-pÈrez,,PÈrez,,1,,5/21/2024 1:26
+p√©rez,,P√©rez,,1,,5/21/2024 1:26
 perlman,,Perlman,,1,,5/21/2024 1:26
 perna,,Perna,,1,,5/21/2024 1:26
 perreault,,Perreault,,1,,5/21/2024 1:26
@@ -8159,7 +8159,7 @@ rambo,,Rambo,,1,,5/21/2024 1:26
 ramer,,Ramer,,1,,5/21/2024 1:26
 ramires,,Ramires,,1,,5/21/2024 1:26
 ramirez,,Ramirez,,1,,5/21/2024 1:26
-ramÌrez,,RamÌrez,,1,,5/21/2024 1:26
+ram√≠rez,,Ram√≠rez,,1,,5/21/2024 1:26
 ramon,,Ramon,,1,,5/21/2024 1:26
 ramsay,,Ramsay,,1,,5/21/2024 1:26
 ramsdell,,Ramsdell,,1,,5/21/2024 1:26
@@ -8345,7 +8345,7 @@ ringler,,Ringler,,1,,5/21/2024 1:26
 rinker,,Rinker,,1,,5/21/2024 1:26
 riojas,,Riojas,,1,,5/21/2024 1:26
 riordan,,Riordan,,1,,5/21/2024 1:26
-rÌos,,RÌos,,1,,5/21/2024 1:26
+r√≠os,,R√≠os,,1,,5/21/2024 1:26
 ripley,,Ripley,,1,,5/21/2024 1:26
 risley,,Risley,,1,,5/21/2024 1:26
 risner,,Risner,,1,,5/21/2024 1:26
@@ -8392,7 +8392,7 @@ rodman,,Rodman,,1,,5/21/2024 1:26
 rodney,,Rodney,,1,,5/21/2024 1:26
 rodrigue,,Rodrigue,,1,,5/21/2024 1:26
 rodrigues,,Rodrigues,,1,,5/21/2024 1:26
-rodrÌguez,,RodrÌguez,,1,,5/21/2024 1:26
+rodr√≠guez,,Rodr√≠guez,,1,,5/21/2024 1:26
 rodriquez,,Rodriquez,,1,,5/21/2024 1:26
 roe,,Roe,,1,,5/21/2024 1:26
 roebuck,,Roebuck,,1,,5/21/2024 1:26
@@ -8493,7 +8493,7 @@ ruggiero,,Ruggiero,,1,,5/21/2024 1:26
 ruggles,,Ruggles,,1,,5/21/2024 1:26
 ruhl,,Ruhl,,1,,5/21/2024 1:26
 ruiz,,Ruiz,,1,,5/21/2024 1:26
-ruÌz,,RuÌz,,1,,5/21/2024 1:26
+ru√≠z,,Ru√≠z,,1,,5/21/2024 1:26
 rule,,Rule,,1,,5/21/2024 1:26
 rummel,,Rummel,,1,,5/21/2024 1:26
 rumsey,,Rumsey,,1,,5/21/2024 1:26
@@ -8583,7 +8583,7 @@ samuelson,,Samuelson,,1,,5/21/2024 1:26
 sanabria,,Sanabria,,1,,5/21/2024 1:26
 sanborn,,Sanborn,,1,,5/21/2024 1:26
 sanches,,Sanches,,1,,5/21/2024 1:26
-s·nchez,,S·nchez,,1,,5/21/2024 1:26
+s√°nchez,,S√°nchez,,1,,5/21/2024 1:26
 sand,,Sand,,1,,5/21/2024 1:26
 sandberg,,Sandberg,,1,,5/21/2024 1:26
 sander,,Sander,,1,,5/21/2024 1:26
@@ -9008,7 +9008,7 @@ solares,,Solares,,1,,5/21/2024 1:26
 solberg,,Solberg,,1,,5/21/2024 1:26
 soler,,Soler,,1,,5/21/2024 1:26
 soles,,Soles,,1,,5/21/2024 1:26
-solÌs,,SolÌs,,1,,5/21/2024 1:26
+sol√≠s,,Sol√≠s,,1,,5/21/2024 1:26
 soliz,,Soliz,,1,,5/21/2024 1:26
 solorio,,Solorio,,1,,5/21/2024 1:26
 solorzano,,Solorzano,,1,,5/21/2024 1:26
@@ -9265,7 +9265,7 @@ stutz,,Stutz,,1,,5/21/2024 1:26
 stutzman,,Stutzman,,1,,5/21/2024 1:26
 su,,Su,,1,,5/21/2024 1:26
 suarez,,Suarez,,1,,5/21/2024 1:26
-su·rez,,Su·rez,,1,,5/21/2024 1:26
+su√°rez,,Su√°rez,,1,,5/21/2024 1:26
 suazo,,Suazo,,1,,5/21/2024 1:26
 subramanian,,Subramanian,,1,,5/21/2024 1:26
 sudduth,,Sudduth,,1,,5/21/2024 1:26
@@ -9566,7 +9566,7 @@ troy,,Troy,,1,,5/21/2024 1:26
 troyer,,Troyer,,1,,5/21/2024 1:26
 truax,,Truax,,1,,5/21/2024 1:26
 trudeau,,Trudeau,,1,,5/21/2024 1:26
-TRUE,,True,,1,,5/21/2024 1:26
+TRUE,,TRUE,,1,,5/21/2024 1:26
 trueblood,,Trueblood,,1,,5/21/2024 1:26
 truesdale,,Truesdale,,1,,5/21/2024 1:26
 trujillo,,Trujillo,,1,,5/21/2024 1:26
@@ -9731,7 +9731,7 @@ vargo,,Vargo,,1,,5/21/2024 1:26
 varnado,,Varnado,,1,,5/21/2024 1:26
 varney,,Varney,,1,,5/21/2024 1:26
 vasquez,,Vasquez,,1,,5/21/2024 1:26
-v·squez,,V·squez,,1,,5/21/2024 1:26
+v√°squez,,V√°squez,,1,,5/21/2024 1:26
 vaught,,Vaught,,1,,5/21/2024 1:26
 vazquez,,Vazquez,,1,,5/21/2024 1:26
 veach,,Veach,,1,,5/21/2024 1:26
@@ -9740,7 +9740,7 @@ vela,,Vela,,1,,5/21/2024 1:26
 velarde,,Velarde,,1,,5/21/2024 1:26
 velasco,,Velasco,,1,,5/21/2024 1:26
 velasquez,,Velasquez,,1,,5/21/2024 1:26
-vel·squez,,Vel·squez,,1,,5/21/2024 1:26
+vel√°squez,,Vel√°squez,,1,,5/21/2024 1:26
 velazco,,Velazco,,1,,5/21/2024 1:26
 velazquez,,Velazquez,,1,,5/21/2024 1:26
 velez,,Velez,,1,,5/21/2024 1:26

@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+﻿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-— ,— ,— ,— ,— ,— ,— 
+—,—,—,—,—,—,—
 mammadov,,Mammadov,,1,,5/9/2022 11:48
 aliyev,,Aliyev,,1,,5/9/2022 11:48
 hasanov,,Hasanov,,1,,5/9/2022 11:48
@@ -16,33 +16,33 @@ valiyev,,Valiyev,,1,,5/9/2022 11:48
 orujov,,Orujov,,1,,5/9/2022 11:48
 ismayilov,,Ismayilov,,1,,5/9/2022 11:48
 ibrahimov,,Ibrahimov,,1,,5/9/2022 11:48
-ivanoŭ,,Ivanoŭ,,1,,5/9/2022 11:48
-kazloŭ,,Kazloŭ,,1,,5/9/2022 11:48
-kavalioŭ,,Kavalioŭ,,1,,5/9/2022 11:48
-kazloŭski,,Kazloŭski,,1,,5/9/2022 11:48
+ivanoÅ­,,IvanoÅ­,,1,,5/9/2022 11:48
+kazloÅ­,,KazloÅ­,,1,,5/9/2022 11:48
+kavalioÅ­,,KavalioÅ­,,1,,5/9/2022 11:48
+kazloÅ­ski,,KazloÅ­ski,,1,,5/9/2022 11:48
 novik,,Novik,,1,,5/9/2022 11:48
 kazlauskas,,Kazlauskas,,1,,5/9/2022 11:48
 jankauskas,,Jankauskas,,1,,5/9/2022 11:48
 petrauskas,,Petrauskas,,1,,5/9/2022 11:48
-stankevičius,,Stankevičius,,1,,5/9/2022 11:48
+stankeviÄius,,StankeviÄius,,1,,5/9/2022 11:48
 vasiliauskas,,Vasiliauskas,,1,,5/9/2022 11:48
 butkus,,Butkus,,1,,5/9/2022 11:48
-žukauskas,,Žukauskas,,1,,5/9/2022 11:48
+Å¾ukauskas,,Å½ukauskas,,1,,5/9/2022 11:48
 paulauskas,,Paulauskas,,1,,5/9/2022 11:48
 urbonas,,Urbonas,,1,,5/9/2022 11:48
 kavaliauskas,,Kavaliauskas,,1,,5/9/2022 11:48
 nowak,,Nowak,,1,,5/9/2022 11:48
 kowalski,,Kowalski,,1,,5/9/2022 11:48
-wiśniewski,,Wiśniewski,,1,,5/9/2022 11:48
+wiÅ›niewski,,WiÅ›niewski,,1,,5/9/2022 11:48
 wójcik,,Wójcik,,1,,5/9/2022 11:48
 kowalczyk,,Kowalczyk,,1,,5/9/2022 11:48
-kamiński,,Kamiński,,1,,5/9/2022 11:48
+kamiÅ„ski,,KamiÅ„ski,,1,,5/9/2022 11:48
 lewandowski,,Lewandowski,,1,,5/9/2022 11:48
-zieliński,,Zieliński,,1,,5/9/2022 11:48
-szymański,,Szymański,,1,,5/9/2022 11:48
-woźniak,,Woźniak,,1,,5/9/2022 11:48
-dąbrowski,,Dąbrowski,,1,,5/9/2022 11:48
-kozłowski,,Kozłowski,,1,,5/9/2022 11:48
+zieliÅ„ski,,ZieliÅ„ski,,1,,5/9/2022 11:48
+szymaÅ„ski,,SzymaÅ„ski,,1,,5/9/2022 11:48
+woÅºniak,,WoÅºniak,,1,,5/9/2022 11:48
+dÄ…browski,,DÄ…browski,,1,,5/9/2022 11:48
+kozÅ‚owski,,KozÅ‚owski,,1,,5/9/2022 11:48
 jankowski,,Jankowski,,1,,5/9/2022 11:48
 mazur,,Mazur,,1,,5/9/2022 11:48
 kwiatkowski,,Kwiatkowski,,1,,5/9/2022 11:48
@@ -71,56 +71,56 @@ golubev,,Golubev,,1,,5/9/2022 11:48
 vinogradov,,Vinogradov,,1,,5/9/2022 11:48
 bogdanov,,Bogdanov,,1,,5/9/2022 11:48
 vorobyov,,Vorobyov,,1,,5/9/2022 11:48
-jovanović,,Jovanović,,1,,5/9/2022 11:48
-petrović,,Petrović,,1,,5/9/2022 11:48
-nikolić,,Nikolić,,1,,5/9/2022 11:48
-marković,,Marković,,1,,5/9/2022 11:48
-đorđević,,Đorđević,,1,,5/9/2022 11:48
-stojanović,,Stojanović,,1,,5/9/2022 11:48
-ilić,,Ilić,,1,,5/9/2022 11:48
-stanković,,Stanković,,1,,5/9/2022 11:48
-pavlović,,Pavlović,,1,,5/9/2022 11:48
-milošević,,Milošević,,1,,5/9/2022 11:48
+jovanoviÄ‡,,JovanoviÄ‡,,1,,5/9/2022 11:48
+petroviÄ‡,,PetroviÄ‡,,1,,5/9/2022 11:48
+nikoliÄ‡,,NikoliÄ‡,,1,,5/9/2022 11:48
+markoviÄ‡,,MarkoviÄ‡,,1,,5/9/2022 11:48
+Ä‘orÄ‘eviÄ‡,,ÄorÄ‘eviÄ‡,,1,,5/9/2022 11:48
+stojanoviÄ‡,,StojanoviÄ‡,,1,,5/9/2022 11:48
+iliÄ‡,,IliÄ‡,,1,,5/9/2022 11:48
+stankoviÄ‡,,StankoviÄ‡,,1,,5/9/2022 11:48
+pavloviÄ‡,,PavloviÄ‡,,1,,5/9/2022 11:48
+miloÅ¡eviÄ‡,,MiloÅ¡eviÄ‡,,1,,5/9/2022 11:48
 novak,,Novak,,1,,5/9/2022 11:48
 horvat,,Horvat,,1,,5/9/2022 11:48
-kovačič,,Kovačič,,1,,5/9/2022 11:48
+kovaÄiÄ,,KovaÄiÄ,,1,,5/9/2022 11:48
 krajnc,,Krajnc,,1,,5/9/2022 11:48
-zupančič,,Zupančič,,1,,5/9/2022 11:48
-potočnik,,Potočnik,,1,,5/9/2022 11:48
-kovač,,Kovač,,1,,5/9/2022 11:48
+zupanÄiÄ,,ZupanÄiÄ,,1,,5/9/2022 11:48
+potoÄnik,,PotoÄnik,,1,,5/9/2022 11:48
+kovaÄ,,KovaÄ,,1,,5/9/2022 11:48
 mlakar,,Mlakar,,1,,5/9/2022 11:48
 kos,,Kos,,1,,5/9/2022 11:48
 vidmar,,Vidmar,,1,,5/9/2022 11:48
 golob,,Golob,,1,,5/9/2022 11:48
 turk,,Turk,,1,,5/9/2022 11:48
-božič,,Božič,,1,,5/9/2022 11:48
+boÅ¾iÄ,,BoÅ¾iÄ,,1,,5/9/2022 11:48
 kralj,,Kralj,,1,,5/9/2022 11:48
-korošec,,Korošec,,1,,5/9/2022 11:48
+koroÅ¡ec,,KoroÅ¡ec,,1,,5/9/2022 11:48
 zupan,,Zupan,,1,,5/9/2022 11:48
 bizjak,,Bizjak,,1,,5/9/2022 11:48
 hribar,,Hribar,,1,,5/9/2022 11:48
 kotnik,,Kotnik,,1,,5/9/2022 11:48
-kavčič,,Kavčič,,1,,5/9/2022 11:48
+kavÄiÄ,,KavÄiÄ,,1,,5/9/2022 11:48
 rozman,,Rozman,,1,,5/9/2022 11:48
 kastelic,,Kastelic,,1,,5/9/2022 11:48
 oblak,,Oblak,,1,,5/9/2022 11:48
-žagar,,Žagar,,1,,5/9/2022 11:48
+Å¾agar,,Å½agar,,1,,5/9/2022 11:48
 petek,,Petek,,1,,5/9/2022 11:48
-hočevar,,Hočevar,,1,,5/9/2022 11:48
+hoÄevar,,HoÄevar,,1,,5/9/2022 11:48
 kolar,,Kolar,,1,,5/9/2022 11:48
-košir,,Košir,,1,,5/9/2022 11:48
+koÅ¡ir,,KoÅ¡ir,,1,,5/9/2022 11:48
 koren,,Koren,,1,,5/9/2022 11:48
-klemenčič,,Klemenčič,,1,,5/9/2022 11:48
+klemenÄiÄ,,KlemenÄiÄ,,1,,5/9/2022 11:48
 horváth,,Horváth,,1,,5/9/2022 11:48
-kováč,,Kováč,,1,,5/9/2022 11:48
+kováÄ,,KováÄ,,1,,5/9/2022 11:48
 varga,,Varga,,1,,5/9/2022 11:48
 tóth,,Tóth,,1,,5/9/2022 11:48
 nagy,,Nagy,,1,,5/9/2022 11:48
-baláž,,Baláž,,1,,5/9/2022 11:48
+baláÅ¾,,BaláÅ¾,,1,,5/9/2022 11:48
 szabó,,Szabó,,1,,5/9/2022 11:48
 molnár,,Molnár,,1,,5/9/2022 11:48
 balog,,Balog,,1,,5/9/2022 11:48
-lukáč,,Lukáč,,1,,5/9/2022 11:48
+lukáÄ,,LukáÄ,,1,,5/9/2022 11:48
 melnyk,,Melnyk,,1,,5/9/2022 11:48
 shevchenko,,Shevchenko,,1,,5/9/2022 11:48
 boyko,,Boyko,,1,,5/9/2022 11:48
@@ -225,7 +225,7 @@ petrenko,,Petrenko,,1,,5/9/2022 11:48
 ,,Maroz,,,,
 ,,Melnik,,,,
 ,,Zhuk,,,,
-,,Čermák,,,,
+,,ÄŒermák,,,,
 ,,Cermak,,,,
 ,,Hornick,,,,
 ,,Kovac,,,,

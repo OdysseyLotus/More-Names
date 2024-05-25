@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+﻿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-— ,— ,— ,— ,— ,— ,— 
+—,—,—,—,—,—,—
 ba,,Ba,,10,,5/9/2022 11:48
 bah,,Bah,,8,,5/9/2022 11:48
 ballo,,Ballo,,5,,5/9/2022 11:48
@@ -261,7 +261,7 @@ tutu,,Tutu,,1,,5/9/2022 11:48
 ,,Dara,,,,
 ,,Diri,,,,
 ,,Dirie,,,,
-,,Djal�,,,,
+,,Djaló,,,,
 ,,Dosunmu,,,,
 ,,Dozie,,,,
 ,,Duale,,,,
@@ -557,9 +557,9 @@ tutu,,Tutu,,1,,5/9/2022 11:48
 ,,Rotimi,,,,
 ,,Salako,,,,
 ,,Samatar,,,,
-,,Sangar�,,,,
+,,Sangaré,,,,
 ,,Sasere,,,,
-,,Sidib�,,,,
+,,Sidibé,,,,
 ,,Solagbade,,,,
 ,,Somtochukwu,,,,
 ,,Soyinka,,,,

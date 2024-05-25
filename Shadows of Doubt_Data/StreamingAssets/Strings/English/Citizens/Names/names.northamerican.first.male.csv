@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+ÔªøGame Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-‚Äî ,‚Äî ,‚Äî ,‚Äî ,‚Äî ,‚Äî ,‚Äî 
+‚Äî,‚Äî,‚Äî,‚Äî,‚Äî,‚Äî,‚Äî
 noah,,Noah,,3,,5/9/2022 11:48
 liam,,Liam,,3,,5/9/2022 11:48
 mason,,Mason,,4,,5/9/2022 11:48
@@ -592,7 +592,7 @@ adnan,,Adnan,,1,,5/20/2024 23:49
 adolfo,,Adolfo,,1,,5/20/2024 23:49
 adonis,,Adonis,,1,,5/20/2024 23:49
 adrain,,Adrain,,1,,5/20/2024 23:49
-adri·n,,Adri·n,,1,,5/20/2024 23:49
+adri√°n,,Adri√°n,,1,,5/20/2024 23:49
 adriano,,Adriano,,1,,5/20/2024 23:49
 adriel,,Adriel,,1,,5/20/2024 23:49
 adrien,,Adrien,,1,,5/20/2024 23:49
@@ -701,14 +701,14 @@ anders,,Anders,,1,,5/20/2024 23:49
 anderson,,Anderson,,1,,5/20/2024 23:49
 andrae,,Andrae,,1,,5/20/2024 23:49
 andre,,Andre,,1,,5/20/2024 23:49
-andrÈ,,AndrÈ,,1,,5/20/2024 23:49
+andr√©,,Andr√©,,1,,5/20/2024 23:49
 andrea,,Andrea,,1,,5/20/2024 23:49
 andreas,,Andreas,,1,,5/20/2024 23:49
 andrei,,Andrei,,1,,5/20/2024 23:49
 andres,,Andres,,1,,5/20/2024 23:49
-andrÈs,,AndrÈs,,1,,5/20/2024 23:49
+andr√©s,,Andr√©s,,1,,5/20/2024 23:49
 angad,,Angad,,1,,5/20/2024 23:49
-·ngel,,¡ngel,,1,,5/20/2024 23:49
+√°ngel,,√Ångel,,1,,5/20/2024 23:49
 angel adrian,,Angel Adrian,,1,,5/20/2024 23:49
 angel alberto,,Angel Alberto,,1,,5/20/2024 23:49
 angel alejandro,,Angel Alejandro,,1,,5/20/2024 23:49
@@ -1013,7 +1013,7 @@ britton,,Britton,,1,,5/20/2024 23:49
 brixton,,Brixton,,1,,5/20/2024 23:49
 broderick,,Broderick,,1,,5/20/2024 23:49
 bronte,,Bronte,,1,,5/20/2024 23:49
-brontÎ,,BrontÎ,,1,,5/20/2024 23:49
+bront√´,,Bront√´,,1,,5/20/2024 23:49
 brook,,Brook,,1,,5/20/2024 23:49
 brooklyn,,Brooklyn,,1,,5/20/2024 23:49
 brycen,,Brycen,,1,,5/20/2024 23:49
@@ -1247,7 +1247,7 @@ daksh,,Daksh,,1,,5/20/2024 23:49
 dale,,Dale,,1,,5/20/2024 23:49
 daley,,Daley,,1,,5/20/2024 23:49
 dameon,,Dameon,,1,,5/20/2024 23:49
-dami·n,,Dami·n,,1,,5/20/2024 23:49
+dami√°n,,Dami√°n,,1,,5/20/2024 23:49
 damian alejandro,,Damian Alejandro,,1,,5/20/2024 23:49
 damiano,,Damiano,,1,,5/20/2024 23:49
 damion,,Damion,,1,,5/20/2024 23:49
@@ -1471,8 +1471,8 @@ elgin,,Elgin,,1,,5/20/2024 23:49
 elia,,Elia,,1,,5/20/2024 23:49
 eliam,,Eliam,,1,,5/20/2024 23:49
 elian,,Elian,,1,,5/20/2024 23:49
-eli·n,,Eli·n,,1,,5/20/2024 23:49
-elÌas,,ElÌas,,1,,5/20/2024 23:49
+eli√°n,,Eli√°n,,1,,5/20/2024 23:49
+el√≠as,,El√≠as,,1,,5/20/2024 23:49
 elie,,Elie,,1,,5/20/2024 23:49
 eliel,,Eliel,,1,,5/20/2024 23:49
 elihu,,Elihu,,1,,5/20/2024 23:49
@@ -1554,7 +1554,7 @@ erwin,,Erwin,,1,,5/20/2024 23:49
 esa,,Esa,,1,,5/20/2024 23:49
 eshan,,Eshan,,1,,5/20/2024 23:49
 esme,,Esme,,1,,5/20/2024 23:49
-esmÈ,,EsmÈ,,1,,5/20/2024 23:49
+esm√©,,Esm√©,,1,,5/20/2024 23:49
 esmond,,Esmond,,1,,5/20/2024 23:49
 esmund,,Esmund,,1,,5/20/2024 23:49
 essa,,Essa,,1,,5/20/2024 23:49
@@ -2081,7 +2081,7 @@ jervis,,Jervis,,1,,5/20/2024 23:49
 jess,,Jess,,1,,5/20/2024 23:49
 jessy,,Jessy,,1,,5/20/2024 23:49
 jesus,,Jesus,,1,,5/20/2024 23:49
-jes˙s,,Jes˙s,,1,,5/20/2024 23:49
+jes√∫s,,Jes√∫s,,1,,5/20/2024 23:49
 jesus abraham,,Jesus Abraham,,1,,5/20/2024 23:49
 jesus adrian,,Jesus Adrian,,1,,5/20/2024 23:49
 jesus alberto,,Jesus Alberto,,1,,5/20/2024 23:49
@@ -2235,7 +2235,7 @@ judge,,Judge,,1,,5/20/2024 23:49
 judson,,Judson,,1,,5/20/2024 23:49
 jujhar,,Jujhar,,1,,5/20/2024 23:49
 jules,,Jules,,1,,5/20/2024 23:49
-juli·n,,Juli·n,,1,,5/20/2024 23:49
+juli√°n,,Juli√°n,,1,,5/20/2024 23:49
 juliano,,Juliano,,1,,5/20/2024 23:49
 julien,,Julien,,1,,5/20/2024 23:49
 julio cesar,,Julio Cesar,,1,,5/20/2024 23:49
@@ -2482,7 +2482,7 @@ lenny,,Lenny,,1,,5/20/2024 23:49
 lenox,,Lenox,,1,,5/20/2024 23:49
 lenwood,,Lenwood,,1,,5/20/2024 23:49
 leo paul,,Leo Paul,,1,,5/20/2024 23:49
-leÛn,,LeÛn,,1,,5/20/2024 23:49
+le√≥n,,Le√≥n,,1,,5/20/2024 23:49
 leonard,,Leonard,,1,,5/20/2024 23:49
 leonardo daniel,,Leonardo Daniel,,1,,5/20/2024 23:49
 leonardo gael,,Leonardo Gael,,1,,5/20/2024 23:49
@@ -2686,7 +2686,7 @@ mathias,,Mathias,,1,,5/20/2024 23:49
 mathieu,,Mathieu,,1,,5/20/2024 23:49
 mathis,,Mathis,,1,,5/20/2024 23:49
 mathys,,Mathys,,1,,5/20/2024 23:49
-matÌas,,MatÌas,,1,,5/20/2024 23:49
+mat√≠as,,Mat√≠as,,1,,5/20/2024 23:49
 matias alejandro,,Matias Alejandro,,1,,5/20/2024 23:49
 matias alexander,,Matias Alexander,,1,,5/20/2024 23:49
 matias emiliano,,Matias Emiliano,,1,,5/20/2024 23:49
@@ -2711,7 +2711,7 @@ maximiliano,,Maximiliano,,1,,5/20/2024 23:49
 maximilien,,Maximilien,,1,,5/20/2024 23:49
 maximillian,,Maximillian,,1,,5/20/2024 23:49
 maximo,,Maximo,,1,,5/20/2024 23:49
-m·ximo,,M·ximo,,1,,5/20/2024 23:49
+m√°ximo,,M√°ximo,,1,,5/20/2024 23:49
 maximus,,Maximus,,1,,5/20/2024 23:49
 maxton,,Maxton,,1,,5/20/2024 23:49
 maxx,,Maxx,,1,,5/20/2024 23:49
@@ -2760,7 +2760,7 @@ mickey,,Mickey,,1,,5/20/2024 23:49
 micky,,Micky,,1,,5/20/2024 23:49
 miguel alejandro,,Miguel Alejandro,,1,,5/20/2024 23:49
 miguel angel,,Miguel Angel,,1,,5/20/2024 23:49
-miguel ¡ngel,,Miguel ¡ngel,,1,,5/20/2024 23:49
+miguel √Ångel,,Miguel √Ångel,,1,,5/20/2024 23:49
 mika,,Mika,,1,,5/20/2024 23:49
 mikaeel,,Mikaeel,,1,,5/20/2024 23:49
 mikael,,Mikael,,1,,5/20/2024 23:49
@@ -2861,7 +2861,7 @@ nick,,Nick,,1,,5/20/2024 23:49
 nickolas,,Nickolas,,1,,5/20/2024 23:49
 nicky,,Nicky,,1,,5/20/2024 23:49
 nicola,,Nicola,,1,,5/20/2024 23:49
-nicol·s,,Nicol·s,,1,,5/20/2024 23:49
+nicol√°s,,Nicol√°s,,1,,5/20/2024 23:49
 nigel,,Nigel,,1,,5/20/2024 23:49
 nigellus,,Nigellus,,1,,5/20/2024 23:49
 nihal,,Nihal,,1,,5/20/2024 23:49
@@ -2887,7 +2887,7 @@ noah james,,Noah James,,1,,5/20/2024 23:49
 noam,,Noam,,1,,5/20/2024 23:49
 noble,,Noble,,1,,5/20/2024 23:49
 noe,,Noe,,1,,5/20/2024 23:49
-noÎl,,NoÎl,,1,,5/20/2024 23:49
+no√´l,,No√´l,,1,,5/20/2024 23:49
 norbert,,Norbert,,1,,5/20/2024 23:49
 norberto,,Norberto,,1,,5/20/2024 23:49
 norman,,Norman,,1,,5/20/2024 23:49
@@ -3088,7 +3088,7 @@ ren,,Ren,,1,,5/20/2024 23:49
 renaldo,,Renaldo,,1,,5/20/2024 23:49
 renaud,,Renaud,,1,,5/20/2024 23:49
 rene,,Rene,,1,,5/20/2024 23:49
-renÈ,,RenÈ,,1,,5/20/2024 23:49
+ren√©,,Ren√©,,1,,5/20/2024 23:49
 renley,,Renley,,1,,5/20/2024 23:49
 renzo,,Renzo,,1,,5/20/2024 23:49
 reuben,,Reuben,,1,,5/20/2024 23:49
@@ -3248,7 +3248,7 @@ scottie,,Scottie,,1,,5/20/2024 23:49
 scotty,,Scotty,,1,,5/20/2024 23:49
 scout,,Scout,,1,,5/20/2024 23:49
 seamus,,Seamus,,1,,5/20/2024 23:49
-sebasti·n,,Sebasti·n,,1,,5/20/2024 23:49
+sebasti√°n,,Sebasti√°n,,1,,5/20/2024 23:49
 sebastien,,Sebastien,,1,,5/20/2024 23:49
 sedrick,,Sedrick,,1,,5/20/2024 23:49
 sefton,,Sefton,,1,,5/20/2024 23:49

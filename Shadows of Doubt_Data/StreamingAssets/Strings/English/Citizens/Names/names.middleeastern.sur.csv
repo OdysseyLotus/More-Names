@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+﻿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-— ,— ,— ,— ,— ,— ,— 
+—,—,—,—,—,—,—
 abadi,,Abadi,,1,,5/9/2022 11:48
 abboud,,Abboud,,1,,5/9/2022 11:48
 almasi,,Almasi,,1,,5/9/2022 11:48
@@ -155,7 +155,7 @@ zogby,,Zogby,,1,,5/9/2022 11:48
 ,,Al Saud,,,,
 ,,Al Su'ud,,,,
 ,,Al Tunaij,,,,
-,,al-Abharī,,,,
+,,al-AbharÄ«,,,,
 ,,al-Adwan,,,,
 ,,al-Ahdal,,,,
 ,,al-Ajlani,,,,
@@ -762,7 +762,7 @@ zogby,,Zogby,,1,,5/9/2022 11:48
 ,,Saffar ,,,,
 ,,Saharanpuri,,,,
 ,,Sahrawi,,,,
-,,Saʽid,,,,
+,,SaÊ½id,,,,
 ,,Saidi ,,,,
 ,,Saif,,,,
 ,,Saifullah,,,,

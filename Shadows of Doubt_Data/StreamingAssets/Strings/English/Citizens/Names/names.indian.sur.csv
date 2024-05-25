@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+﻿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-— ,— ,— ,— ,— ,— ,— 
+—,—,—,—,—,—,—
 singh,,Singh,,1,,5/9/2022 11:48
 kumar,,Kumar,,3,,5/9/2022 11:48
 das,,Das,,1,,5/9/2022 11:48
@@ -789,7 +789,7 @@ mohnish,,Mohnish,,1,,5/17/2024 3:12
 mokkapati,,Mokkapati,,1,,5/17/2024 3:12
 mongia,,Mongia,,1,,5/17/2024 3:12
 moolgaokar,,Moolgaokar,,1,,5/17/2024 3:12
-mor�,,Mor�,,1,,5/17/2024 3:12
+morè,,Morè,,1,,5/17/2024 3:12
 mosahary,,Mosahary,,1,,5/17/2024 3:12
 moturi,,Moturi,,1,,5/17/2024 3:12
 motwani,,Motwani,,1,,5/17/2024 3:12
@@ -1411,9 +1411,9 @@ kikon,,Kikon,,1,,5/17/2024 3:12
 koso,,Koso,,1,,5/17/2024 3:12
 liezietsu,,Liezietsu,,1,,5/17/2024 3:12
 rio,,Rio,,1,,5/17/2024 3:12
-yhosh�,,Yhosh�,,1,,5/17/2024 3:12
-kevich�sa,,Kevich�sa,,1,,5/17/2024 3:12
-longk�mer,,Longk�mer,,1,,5/17/2024 3:12
+yhoshü,,Yhoshü,,1,,5/17/2024 3:12
+kevichüsa,,Kevichüsa,,1,,5/17/2024 3:12
+longkümer,,Longkümer,,1,,5/17/2024 3:12
 shaiza,,Shaiza,,1,,5/17/2024 3:12
 basnet,,Basnet,,1,,5/17/2024 3:12
 bista,,Bista,,1,,5/17/2024 3:12
@@ -1490,4 +1490,3 @@ siddiqui,,Siddiqui,,1,,5/17/2024 3:12
 yasser,,Yasser,,1,,5/17/2024 3:12
 zaidi,,Zaidi,,1,,5/17/2024 3:12
 promige,,Promige,,1,,5/17/2024 3:12
-,,,,,,

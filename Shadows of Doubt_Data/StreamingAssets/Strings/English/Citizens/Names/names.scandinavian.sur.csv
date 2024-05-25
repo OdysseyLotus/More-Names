@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+﻿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-— ,— ,— ,— ,— ,— ,— 
+—,—,—,—,—,—,—
 jensen,,Jensen,,1,,5/9/2022 11:49
 nielsen,,Nielsen,,1,,5/9/2022 11:49
 hansen,,Hansen,,1,,5/9/2022 11:49
@@ -54,731 +54,3174 @@ lindberg,,Lindberg,,1,,5/9/2022 11:49
 jakobsson,,Jakobsson,,1,,5/9/2022 11:49
 magnusson,,Magnusson,,1,,5/9/2022 11:49
 olofsson,,Olofsson,,1,,5/9/2022 11:49
-,,Aalto,,,,
-,,Aaltonen,,,,
-,,Abel,,,,
-,,Åberg,,,,
-,,Abrahamsen,,,,
-,,Abrahamsson,,,,
-,,Abramsen,,,,
-,,Abramsson,,,,
-,,Adamsen,,,,
-,,Adamsson,,,,
-,,Agnarsson,,,,
-,,Ahlberg,,,,
-,,Ahlgren,,,,
-,,Ahlström,,,,
-,,Åkerman,,,,
-,,Åkesson,,,,
-,,Akselsen,,,,
-,,Albertsen,,,,
-,,Albertsson,,,,
-,,Albinsson,,,,
-,,Albrechtsson,,,,
-,,Albrecktsson,,,,
-,,Albrektson,,,,
-,,Albrektsson,,,,
-,,Alexandersen,,,,
-,,Alexanderson,,,,
-,,Alexandersson,,,,
-,,Alfredsson,,,,
-,,Alfson,,,,
-,,Alfsson,,,,
-,,Almstedt,,,,
-,,Alvarsson,,,,
-,,Amundsen,,,,
-,,Andreasen,,,,
-,,Andreasson,,,,
-,,Andréasson,,,,
-,,Andresen,,,,
-,,Anker,,,,
-,,Anthonsen,,,,
-,,Antonisen,,,,
-,,Antonsen,,,,
-,,Ármannsson,,,,
-,,Arnesen,,,,
-,,Arthursson,,,,
-,,Årud,,,,
-,,Arvidsson,,,,
-,,Åström,,,,
-,,Axelsen,,,,
-,,Axelsson,,,,
-,,Baardsen,,,,
-,,Bach,,,,
-,,Bager,,,,
-,,Bak,,,,
-,,Bakke,,,,
-,,Bakken,,,,
-,,Beck,,,,
-,,Bendtsen,,,,
-,,Bengtsdotter,,,,
-,,Bentsen,,,,
-,,Berge,,,,
-,,Bergfalk,,,,
-,,Berggren,,,,
-,,Berglund,,,,
-,,Bergman,,,,
-,,Bergqvist,,,,
-,,Bergström,,,,
-,,Bernhardsson,,,,
-,,Berntsen,,,,
-,,Berntsson,,,,
-,,Bjarnesen,,,,
-,,Björk,,,,
-,,Björklund,,,,
-,,Björkman,,,,
-,,Björnsson,,,,
-,,Blom,,,,
-,,Blomgren,,,,
-,,Blomqvist,,,,
-,,Bodilsen,,,,
-,,Borg,,,,
-,,Brams,,,,
-,,Brandt,,,,
-,,Breiner,,,,
-,,Brun,,,,
-,,Byquist,,,,
-,,Byqvist,,,,
-,,Byström,,,,
-,,Carlsen,,,,
-,,Carlson,,,,
-,,Carlsson,,,,
-,,Carstensen,,,,
-,,Christoffersen,,,,
-,,Claesson,,,,
-,,Clausen,,,,
-,,Clemensen,,,,
-,,Dahl,,,,
-,,Dahlberg,,,,
-,,Dahlman,,,,
-,,Dalgaard,,,,
-,,Dam,,,,
-,,Danielsen,,,,
-,,Danielsson,,,,
-,,Davidsen,,,,
-,,Edvardsen,,,,
-,,Eide,,,,
-,,Einarsson,,,,
-,,Ek,,,,
-,,Eklund,,,,
-,,Ekström,,,,
-,,Eld,,,,
-,,Eliassen,,,,
-,,Eliasson,,,,
-,,Elmersson,,,,
-,,Engberg,,,,
-,,Engman,,,,
-,,Engström,,,,
-,,Ericson,,,,
-,,Ericsson,,,,
-,,Ernst,,,,
-,,Espensen,,,,
-,,Espenson,,,,
-,,Evensen,,,,
-,,Falk,,,,
-,,Feldt,,,,
-,,Fisker,,,,
-,,Forsberg,,,,
-,,Frank,,,,
-,,Fransson,,,,
-,,Frederiksen,,,,
-,,Fredriksen,,,,
-,,Fredriksson,,,,
-,,Friis,,,,
-,,Frisk,,,,
-,,Gerhardsson,,,,
-,,Giese,,,,
-,,Göransson,,,,
-,,Grahn,,,,
-,,Gregersen,,,,
-,,Gulbrandsen,,,,
-,,Guldbrandsen,,,,
-,,Gundersen,,,,
-,,Gunnarsen,,,,
-,,Gunnarsson,,,,
-,,Gunvaldsen,,,,
-,,Gustavsson,,,,
-,,Haakonsson,,,,
-,,Håkansson,,,,
-,,Hall,,,,
-,,Hallman,,,,
-,,Hämäläinen,,,,
-,,Hanssen,,,,
-,,Haraldsen,,,,
-,,Haraldsson,,,,
-,,Harmaajärvi,,,,
-,,Haroldson,,,,
-,,Hedlund,,,,
-,,Heikki,,,,
-,,Heikkilä,,,,
-,,Heikkinen,,,,
-,,Heimisson,,,,
-,,Heinonen,,,,
-,,Hellström,,,,
-,,Henningsen,,,,
-,,Henriksen,,,,
-,,Henriksson,,,,
-,,Herbertsson,,,,
-,,Hermansen,,,,
-,,Hermansson,,,,
-,,Hilmarsson,,,,
-,,Hjort,,,,
-,,Holgersen,,,,
-,,Holgersson,,,,
-,,Holm,,,,
-,,Holmberg,,,,
-,,Holmgren,,,,
-,,Holmström,,,,
-,,Holst,,,,
-,,Holt,,,,
-,,Horn,,,,
-,,Hult,,,,
-,,Ibsen,,,,
-,,Ingesson,,,,
-,,Ingólfsson,,,,
-,,Isaksen,,,,
-,,Isaksson,,,,
-,,Ivarsson,,,,
-,,Iversen,,,,
-,,Jakobsen,,,,
-,,Jansen,,,,
-,,Janson,,,,
-,,Järvi,,,,
-,,Järvinen,,,,
-,,Jenson,,,,
-,,Jenssen,,,,
-,,Jensson,,,,
-,,Jeppesen,,,,
-,,Jespersen,,,,
-,,Jóhannsson,,,,
-,,Johnsson,,,,
-,,Jokela,,,,
-,,Jokinen,,,,
-,,Jokumsen,,,,
-,,Jonasen,,,,
-,,Jonasson,,,,
-,,Karjalainen,,,,
-,,Karppinen,,,,
-,,Karstensen,,,,
-,,Kaspersen,,,,
-,,Kinnunen,,,,
-,,Kjaer,,,,
-,,Kjær,,,,
-,,Kjeldsen,,,,
-,,Kjellsson,,,,
-,,Klasson,,,,
-,,Klausen,,,,
-,,Knudsen,,,,
-,,Knutsen,,,,
-,,Knutson,,,,
-,,Knutsson,,,,
-,,Koppel,,,,
-,,Korhonen,,,,
-,,Koskinen,,,,
-,,Kristoffersen,,,,
-,,Kron,,,,
-,,Kulmala,,,,
-,,Laakkonen,,,,
-,,Laaksonen,,,,
-,,Lager,,,,
-,,Lahti,,,,
-,,Lahtinen,,,,
-,,Laine,,,,
-,,Laitinen,,,,
-,,Landvik,,,,
-,,Lang,,,,
-,,Lång,,,,
-,,Lange,,,,
-,,Larson,,,,
-,,Laukkanen,,,,
-,,Lauridsen,,,,
-,,Lauritsen,,,,
-,,Laursen,,,,
-,,Lehtinen,,,,
-,,Lehtonen,,,,
-,,Leifsson,,,,
-,,Lennartsson,,,,
-,,Leonardsen,,,,
-,,Leonardsson,,,,
-,,Lie,,,,
-,,Lien,,,,
-,,Lind,,,,
-,,Lindbeck,,,,
-,,Lindgren,,,,
-,,Lindholm,,,,
-,,Lindquist,,,,
-,,Lindqvist,,,,
-,,Lindström,,,,
-,,Linna,,,,
-,,Ljung,,,,
-,,Ljungborg,,,,
-,,Ljunggren,,,,
-,,Ljungman,,,,
-,,Ljungstrand,,,,
-,,Löfgren,,,,
-,,Lorenzen,,,,
-,,Losnedahl,,,,
-,,Ludvigsen,,,,
-,,Lund,,,,
-,,Lundberg,,,,
-,,Lunde,,,,
-,,Lundgren,,,,
-,,Lundin,,,,
-,,Lundquist,,,,
-,,Lundqvist,,,,
-,,Lundström,,,,
-,,Lykke,,,,
-,,Mäkelä,,,,
-,,Mäkinen,,,,
-,,Månsson,,,,
-,,Mårdh,,,,
-,,Markusson,,,,
-,,Mårtensson,,,,
-,,Martikainen,,,,
-,,Martin,,,,
-,,Martinsen,,,,
-,,Martinsson,,,,
-,,Mathiasen,,,,
-,,Mathisen,,,,
-,,Matsson,,,,
-,,Matthiasen,,,,
-,,Mattsson,,,,
-,,Mikaelsson,,,,
-,,Mikkelsen,,,,
-,,Moe,,,,
-,,Moen,,,,
-,,Mogensen,,,,
-,,Möller,,,,
-,,Mortensen,,,,
-,,Mustonen,,,,
-,,Naess,,,,
-,,Næss,,,,
-,,Nass,,,,
-,,Nelson,,,,
-,,Ness,,,,
-,,Niemi,,,,
-,,Nieminen,,,,
-,,Niklasson,,,,
-,,Nikolajsen,,,,
-,,Nikula,,,,
-,,Nissen,,,,
-,,Norberg,,,,
-,,Nordberg,,,,
-,,Nordin,,,,
-,,Nordskov,,,,
-,,Nordström,,,,
-,,Norling,,,,
-,,Norup,,,,
-,,Nørup,,,,
-,,Nurmi,,,,
-,,Nyberg,,,,
-,,Nygård,,,,
-,,Nykvist,,,,
-,,Nylund,,,,
-,,Nyman,,,,
-,,Nyquist,,,,
-,,Nyqvist,,,,
-,,Nyström,,,,
-,,Öberg,,,,
-,,Olander,,,,
-,,Olesen,,,,
-,,Oliversen,,,,
-,,Oliversson,,,,
-,,Olofsdotter,,,,
-,,Olson,,,,
-,,Ölvirsson,,,,
-,,Öman,,,,
-,,Omdahl,,,,
-,,Östberg,,,,
-,,Østberg,,,,
-,,Øster,,,,
-,,Østergaard,,,,
-,,Østergård,,,,
-,,Ottosen,,,,
-,,Ottosson,,,,
-,,Ovesen,,,,
-,,Pajari,,,,
-,,Pallesen,,,,
-,,Partanen,,,,
-,,Patriksson,,,,
-,,Paulsen,,,,
-,,Pekkanen,,,,
-,,Peltonen,,,,
-,,Pentti,,,,
-,,Petersson,,,,
-,,Peura,,,,
-,,Pilkvist,,,,
-,,Prebensen,,,,
-,,Ragnvaldsson,,,,
-,,Randrup,,,,
-,,Ranta,,,,
-,,Rantanen,,,,
-,,Rapp,,,,
-,,Rask,,,,
-,,Rautio,,,,
-,,Ravn,,,,
-,,Reenberg,,,,
-,,Riber,,,,
-,,Rinne,,,,
-,,Robertsen,,,,
-,,Robertsson,,,,
-,,Róbertsson,,,,
-,,Rolvsson,,,,
-,,Rosenberg,,,,
-,,Rundström,,,,
-,,Ruoho,,,,
-,,Ruotsalainen,,,,
-,,Ruud,,,,
-,,Saari,,,,
-,,Saarinen,,,,
-,,Salo,,,,
-,,Salonen,,,,
-,,Samuelsson,,,,
-,,Sandberg,,,,
-,,Sander,,,,
-,,Sandström,,,,
-,,Seppä,,,,
-,,Seppänen,,,,
-,,Sigurdsson,,,,
-,,Silje,,,,
-,,Simonsen,,,,
-,,Simonsson,,,,
-,,Sjöberg,,,,
-,,Sjögren,,,,
-,,Skjeggestad,,,,
-,,Skov,,,,
-,,Skovgaard,,,,
-,,Söderberg,,,,
-,,Söderström,,,,
-,,Solberg,,,,
-,,Solheim,,,,
-,,Sörensen,,,,
-,,Sorenson,,,,
-,,Sörensson,,,,
-,,Spillum,,,,
-,,Steensen,,,,
-,,Stefansen,,,,
-,,Stefansson,,,,
-,,Stefánsson,,,,
-,,Steffensen,,,,
-,,Steinsson,,,,
-,,Stenberg,,,,
-,,Stendahl,,,,
-,,Stigsson,,,,
-,,Storstrand,,,,
-,,Strand,,,,
-,,Ström,,,,
-,,Strøm,,,,
-,,Strömberg,,,,
-,,Sundberg,,,,
-,,Sundén,,,,
-,,Sundström,,,,
-,,Svendsen,,,,
-,,Svensen,,,,
-,,Tähtinen,,,,
-,,Takala,,,,
-,,Tennfjord,,,,
-,,Thomassen,,,,
-,,Thórirsson,,,,
-,,Thorn,,,,
-,,Thorsen,,,,
-,,Tjäder,,,,
-,,Toivonen,,,,
-,,Tomasson,,,,
-,,Tómasson,,,,
-,,Troelsen,,,,
-,,Tuominen,,,,
-,,Turunen,,,,
-,,Tveit,,,,
-,,Ulfsson,,,,
-,,Vang,,,,
-,,Vång,,,,
-,,Vanhanen,,,,
-,,Venäläinen,,,,
-,,Vernersen,,,,
-,,Vestergaard,,,,
-,,Victorsson,,,,
-,,Vik,,,,
-,,Vilhjálmsson,,,,
-,,Vinter,,,,
-,,Virtanen,,,,
-,,Voll,,,,
-,,Vollan,,,,
-,,Wallin,,,,
-,,Waltersson,,,,
-,,Wang,,,,
-,,Westerberg,,,,
-,,Winter,,,,
-,,Winther,,,,
-,,Wolff,,,,
-,,Wuopio,,,,
-,,S�rensen,,,,
-,,J�rgensen,,,,
-,,M�ller,,,,
-,,Annala,,,,
-,,Anttila,,,,
-,,Anttonen,,,,
-,,Eerola,,,,
-,,Erkkil�,,,,
-,,Eskola,,,,
-,,Halonen,,,,
-,,Hannula,,,,
-,,Heikkil�,,,,
-,,Heiskanen,,,,
-,,Hiltunen,,,,
-,,Hyv�rinen,,,,
-,,Hyv�nen,,,,
-,,H�nninen,,,,
-,,Iivonen,,,,
-,,Ikonen,,,,
-,,Ilmonen,,,,
-,,Immonen,,,,
-,,Jaakkola,,,,
-,,Jaakola,,,,
-,,Janhunen,,,,
-,,Jantunen,,,,
-,,Juhola,,,,
-,,Junnila,,,,
-,,Junttila,,,,
-,,Juntunen,,,,
-,,Jussila,,,,
-,,Juvonen,,,,
-,,Kauppila,,,,
-,,Kauppinen,,,,
-,,Klemetti,,,,
-,,Knuutila,,,,
-,,Koponen,,,,
-,,Kuisma,,,,
-,,Lassila,,,,
-,,Laurila,,,,
-,,Leinonen,,,,
-,,Maijala,,,,
-,,Makkonen,,,,
-,,Malinen,,,,
-,,Manninen,,,,
-,,Markkula,,,,
-,,Marttila,,,,
-,,Mattila,,,,
-,,Mattinen,,,,
-,,Maunu,,,,
-,,Miettinen,,,,
-,,Mikkola,,,,
-,,Mikkonen,,,,
-,,Moilanen,,,,
-,,Nikkil�,,,,
-,,Olli,,,,
-,,Ollila,,,,
-,,Paananen,,,,
-,,Paavola,,,,
-,,Parviainen,,,,
-,,Pekkala,,,,
-,,Penttil�,,,,
-,,Penttinen,,,,
-,,Perttula,,,,
-,,Pesonen,,,,
-,,Pietarila,,,,
-,,Pietarinen,,,,
-,,Pietil�,,,,
-,,Pirhonen,,,,
-,,Potila,,,,
-,,Pulkkinen,,,,
-,,Reijonen,,,,
-,,Rekola,,,,
-,,Rissanen,,,,
-,,Simola,,,,
-,,Simonen,,,,
-,,Sirkka,,,,
-,,Soini,,,,
-,,Soininen,,,,
-,,Timonen,,,,
-,,Tuomaala,,,,
-,,Tuomainen,,,,
-,,Tuomola,,,,
-,,Uotila,,,,
-,,V�is�nen,,,,
-,,Yrj�l�,,,,
-,,Aho,,,,
-,,Ahola,,,,
-,,Ahonen,,,,
-,,Alatalo,,,,
-,,Arola,,,,
-,,Haapala,,,,
-,,Haapalainen,,,,
-,,Hakala,,,,
-,,Harju,,,,
-,,Harjula,,,,
-,,Harmaaj�rvi,,,,
-,,Hautala,,,,
-,,Hietala,,,,
-,,Hirvonen,,,,
-,,Honkala,,,,
-,,Honkanen,,,,
-,,Huhtala,,,,
-,,Huttunen,,,,
-,,H�kkinen,,,,
-,,H�m�l�inen,,,,
-,,Ilves,,,,
-,,Isotalo,,,,
-,,Joensuu,,,,
-,,Jokelainen,,,,
-,,Joutsen,,,,
-,,J�rvel�,,,,
-,,J�rvel�inen,,,,
-,,J�rvenp��,,,,
-,,J�rvi,,,,
-,,J�rvinen,,,,
-,,Kallio,,,,
-,,Kanerva,,,,
-,,Kare,,,,
-,,Kari,,,,
-,,Keskitalo,,,,
-,,Ketola,,,,
-,,Kettunen,,,,
-,,Kivel�,,,,
-,,Kivi,,,,
-,,Kivim�ki,,,,
-,,Kivinen,,,,
-,,Koivisto,,,,
-,,Koivu,,,,
-,,Koivula,,,,
-,,Kokko,,,,
-,,Kokkonen,,,,
-,,Korpela,,,,
-,,Koskela,,,,
-,,Koski,,,,
-,,Kotka,,,,
-,,Kujala,,,,
-,,Kukkonen,,,,
-,,Kumpulainen,,,,
-,,Kuoppala,,,,
-,,Kuusela,,,,
-,,K�rkk�inen,,,,
-,,Laakonen,,,,
-,,Laakso,,,,
-,,Lappalainen,,,,
-,,Lappi,,,,
-,,Latvala,,,,
-,,Lehto,,,,
-,,Lehtola,,,,
-,,Lepp�l�,,,,
-,,Lepp�nen,,,,
-,,Luoma,,,,
-,,Meri,,,,
-,,M�enp��,,,,
-,,M�kel�,,,,
-,,M�kel�inen,,,,
-,,M�ki,,,,
-,,M�kil�,,,,
-,,M�kinen,,,,
-,,M�kitalo,,,,
-,,M�ntyl�,,,,
-,,Niemel�,,,,
-,,Nevalainen,,,,
-,,Niskala,,,,
-,,Niskanen,,,,
-,,Nurminen,,,,
-,,Oiva,,,,
-,,Ojala,,,,
-,,Oksanen,,,,
-,,Palo,,,,
-,,Peltola,,,,
-,,Pitk�nen,,,,
-,,Puujalka,,,,
-,,Raita,,,,
-,,Rajala,,,,
-,,Rantala,,,,
-,,Repo,,,,
-,,Saarela,,,,
-,,Salmela,,,,
-,,Salmi,,,,
-,,Salminen,,,,
-,,Savela,,,,
-,,Savolainen,,,,
-,,Sepp�,,,,
-,,Sepp�nen,,,,
-,,Siltala,,,,
-,,Suomalainen,,,,
-,,Tammi,,,,
-,,Tamminen,,,,
-,,Tanner,,,,
-,,Terho,,,,
-,,Tikkanen,,,,
-,,Toivanen,,,,
-,,Tuomela,,,,
-,,Uljas,,,,
-,,Uusitalo,,,,
-,,Vainio,,,,
-,,Vanhatalo,,,,
-,,Varma,,,,
-,,Vartijainen,,,,
-,,Ven�l�inen,,,,
-,,Veps�l�inen,,,,
-,,Vesa,,,,
-,,Viitala,,,,
-,,Viitanen,,,,
-,,Virolainen,,,,
-,,Virta,,,,
-,,Wirtanen,,,,
-,,Vuorela,,,,
-,,Vuorinen,,,,
-,,Ylitalo,,,,
-,,�ikio,,,,
-,,B�ltu,,,,
-,,Boidni,,,,
-,,Bred,,,,
-,,Bure,,,,
-,,Flink,,,,
-,,G�ski,,,,
-,,Hassi,,,,
-,,Joks,,,,
-,,Jillker,,,,
-,,Kant,,,,
-,,Kranck,,,,
-,,Kroik,,,,
-,,Krysi,,,,
-,,Medwik,,,,
-,,Mienn�,,,,
-,,Niska,,,,
-,,S�r�,,,,
-,,Schal,,,,
-,,Sohkki,,,,
-,,Sola,,,,
-,,Stamp,,,,
-,,Stutt,,,,
-,,Uhcci,,,,
-,,Vinkel,,,,
-,,W�rnach,,,,
-,,Aikio,,,,
-,,Balto,,,,
-,,Boine,,,,
-,,Gaski,,,,
-,,Joux,,,,
-,,J�lker,,,,
-,,R�ik,,,,
-,,Kr�ik,,,,
-,,Mienna,,,,
-,,Sara,,,,
-,,Sokki,,,,
-,,Utsi,,,,
-,,Lindstr�m,,,,
-,,Bergstr�m,,,,
-,,Sj�berg,,,,
-,,Engstr�m,,,,
-,,Nystr�m,,,,
-,,S�derberg,,,,
-,,Nordstr�m,,,,
-,,Lundstr�m,,,,
-,,Bj�rklund,,,,
-,,Sandstr�m,,,,
-,,�berg,,,,
-,,Ekstr�m,,,,
-,,J�nsson,,,,
-,,Gyllenstierna,,,,
-,,Cronhielm,,,,
-,,Cederstr�m,,,,
-,,Adlercreutz,,,,
-,,Anckarsv�rd,,,,
-,,St�lhandske,,,,
-,,Ulfsparre,,,,
-,,Helgesen,,,,
-,,Olesen,,,,
+aabech,,Aabech,,1,,5/24/2024 17:53
+aabel,,Aabel,,1,,5/24/2024 17:53
+aaberg,,Aaberg,,1,,5/24/2024 17:53
+aaberge,,Aaberge,,1,,5/24/2024 17:53
+aaboe,,Aaboe,,1,,5/24/2024 17:53
+aabrek,,Aabrek,,1,,5/24/2024 17:53
+aabrekk,,Aabrekk,,1,,5/24/2024 17:53
+aabye,,Aabye,,1,,5/24/2024 17:53
+aaen,,Aaen,,1,,5/24/2024 17:53
+aaes,,Aaes,,1,,5/24/2024 17:53
+aagaard,,Aagaard,,1,,5/24/2024 17:53
+aagard,,Aagard,,1,,5/24/2024 17:53
+aagesen,,Aagesen,,1,,5/24/2024 17:53
+aakjaer,,Aakjaer,,1,,5/24/2024 17:53
+aakula,,Aakula,,1,,5/24/2024 17:53
+aakvaag,,Aakvaag,,1,,5/24/2024 17:53
+aalberg,,Aalberg,,1,,5/24/2024 17:53
+aalefjær,,Aalefjær,,1,,5/24/2024 17:53
+aalien,,Aalien,,1,,5/24/2024 17:53
+aall,,Aall,,1,,5/24/2024 17:53
+aalto,,Aalto,,1,,5/24/2024 17:53
+aaltola,,Aaltola,,1,,5/24/2024 17:53
+aaltonen,,Aaltonen,,1,,5/24/2024 17:53
+aambø,,Aambø,,1,,5/24/2024 17:53
+aamland,,Aamland,,1,,5/24/2024 17:53
+aamlid,,Aamlid,,1,,5/24/2024 17:53
+aamo,,Aamo,,1,,5/24/2024 17:53
+aamodt,,Aamodt,,1,,5/24/2024 17:53
+aamund,,Aamund,,1,,5/24/2024 17:53
+aandahl,,Aandahl,,1,,5/24/2024 17:53
+aandalen,,Aandalen,,1,,5/24/2024 17:53
+aanderaa,,Aanderaa,,1,,5/24/2024 17:53
+aanerud,,Aanerud,,1,,5/24/2024 17:53
+aanes,,Aanes,,1,,5/24/2024 17:53
+aaness,,Aaness,,1,,5/24/2024 17:53
+aanestad,,Aanestad,,1,,5/24/2024 17:53
+aano,,Aano,,1,,5/24/2024 17:53
+aanonsen,,Aanonsen,,1,,5/24/2024 17:53
+aaraas,,Aaraas,,1,,5/24/2024 17:53
+aarbakke,,Aarbakke,,1,,5/24/2024 17:53
+aarebrot,,Aarebrot,,1,,5/24/2024 17:53
+aarestrup,,Aarestrup,,1,,5/24/2024 17:53
+aarethun,,Aarethun,,1,,5/24/2024 17:53
+aarflot,,Aarflot,,1,,5/24/2024 17:53
+ääritalo,,Ääritalo,,1,,5/24/2024 17:53
+aarnæs,,Aarnæs,,1,,5/24/2024 17:53
+aarnes,,Aarnes,,1,,5/24/2024 17:53
+aarnikka,,Aarnikka,,1,,5/24/2024 17:53
+aarnio,,Aarnio,,1,,5/24/2024 17:53
+aarniokoski,,Aarniokoski,,1,,5/24/2024 17:53
+aarønes,,Aarønes,,1,,5/24/2024 17:53
+aarøy,,Aarøy,,1,,5/24/2024 17:53
+aarrestad,,Aarrestad,,1,,5/24/2024 17:53
+aarset,,Aarset,,1,,5/24/2024 17:53
+aarseth,,Aarseth,,1,,5/24/2024 17:53
+aarsheim,,Aarsheim,,1,,5/24/2024 17:53
+aarstad,,Aarstad,,1,,5/24/2024 17:53
+aartoma,,Aartoma,,1,,5/24/2024 17:53
+aartun,,Aartun,,1,,5/24/2024 17:53
+aarum,,Aarum,,1,,5/24/2024 17:53
+aarvold,,Aarvold,,1,,5/24/2024 17:53
+aas,,Aas,,1,,5/24/2024 17:53
+aase,,Aase,,1,,5/24/2024 17:53
+aasen,,Aasen,,1,,5/24/2024 17:53
+aaser,,Aaser,,1,,5/24/2024 17:53
+aaset,,Aaset,,1,,5/24/2024 17:53
+aasgaard,,Aasgaard,,1,,5/24/2024 17:53
+aasheim,,Aasheim,,1,,5/24/2024 17:53
+aasland,,Aasland,,1,,5/24/2024 17:53
+aasrud,,Aasrud,,1,,5/24/2024 17:53
+aasvold,,Aasvold,,1,,5/24/2024 17:53
+aavik,,Aavik,,1,,5/24/2024 17:53
+abel,,Abel,,1,,5/24/2024 17:53
+abelsen,,Abelsen,,1,,5/24/2024 17:53
+aberg,,Aberg,,1,,5/24/2024 17:53
+åberg,,Åberg,,1,,5/24/2024 17:53
+abildgaard,,Abildgaard,,1,,5/24/2024 17:53
+abrahamsen,,Abrahamsen,,1,,5/24/2024 17:53
+abrahamsson,,Abrahamsson,,1,,5/24/2024 17:53
+abramsen,,Abramsen,,1,,5/24/2024 17:53
+abramsson,,Abramsson,,1,,5/24/2024 17:53
+adalsteinsson,,Adalsteinsson,,1,,5/24/2024 17:53
+adamsen,,Adamsen,,1,,5/24/2024 17:53
+adamsson,,Adamsson,,1,,5/24/2024 17:53
+adelsköld,,Adelsköld,,1,,5/24/2024 17:53
+adlercreutz,,Adlercreutz,,1,,5/24/2024 17:53
+adolvsson,,Adolvsson,,1,,5/24/2024 17:53
+afzelius,,Afzelius,,1,,5/24/2024 17:53
+agdestein,,Agdestein,,1,,5/24/2024 17:53
+agersborg,,Agersborg,,1,,5/24/2024 17:53
+agger,,Agger,,1,,5/24/2024 17:53
+agnarsson,,Agnarsson,,1,,5/24/2024 17:53
+ågren,,Ågren,,1,,5/24/2024 17:53
+ágústsson,,Ágústsson,,1,,5/24/2024 17:53
+ahlberg,,Ahlberg,,1,,5/24/2024 17:53
+ahlgren,,Ahlgren,,1,,5/24/2024 17:53
+ahlm,,Ahlm,,1,,5/24/2024 17:53
+ahlqvist,,Ahlqvist,,1,,5/24/2024 17:53
+ahlroos,,Ahlroos,,1,,5/24/2024 17:53
+ahlström,,Ahlström,,1,,5/24/2024 17:53
+åhlund,,Åhlund,,1,,5/24/2024 17:53
+ahmaoja,,Ahmaoja,,1,,5/24/2024 17:53
+ahnfelt,,Ahnfelt,,1,,5/24/2024 17:53
+ahnger,,Ahnger,,1,,5/24/2024 17:53
+ahnlund,,Ahnlund,,1,,5/24/2024 17:53
+aho,,Aho,,1,,5/24/2024 17:53
+ahokas,,Ahokas,,1,,5/24/2024 17:53
+ahola,,Ahola,,1,,5/24/2024 17:53
+ahonen,,Ahonen,,1,,5/24/2024 17:53
+ahrén,,Ahrén,,1,,5/24/2024 17:53
+ahtisaari,,Ahtisaari,,1,,5/24/2024 17:53
+äijälä,,Äijälä,,1,,5/24/2024 17:53
+äijänen,,Äijänen,,1,,5/24/2024 17:53
+aikio,,Aikio,,1,,5/24/2024 17:53
+áikio,,Áikio,,1,,5/24/2024 17:53
+airaksinen,,Airaksinen,,1,,5/24/2024 17:53
+aistrup,,Aistrup,,1,,5/24/2024 17:53
+åkerberg,,Åkerberg,,1,,5/24/2024 17:53
+åkerblom,,Åkerblom,,1,,5/24/2024 17:53
+åkerlund,,Åkerlund,,1,,5/24/2024 17:53
+åkerman,,Åkerman,,1,,5/24/2024 17:53
+åkermark,,Åkermark,,1,,5/24/2024 17:53
+åkerström,,Åkerström,,1,,5/24/2024 17:53
+åkesson,,Åkesson,,1,,5/24/2024 17:53
+akselsen,,Akselsen,,1,,5/24/2024 17:53
+alanen,,Alanen,,1,,5/24/2024 17:53
+alanko,,Alanko,,1,,5/24/2024 17:53
+alanne,,Alanne,,1,,5/24/2024 17:53
+alatalo,,Alatalo,,1,,5/24/2024 17:53
+albæk,,Albæk,,1,,5/24/2024 17:53
+albertsen,,Albertsen,,1,,5/24/2024 17:53
+albertsson,,Albertsson,,1,,5/24/2024 17:53
+albinsson,,Albinsson,,1,,5/24/2024 17:53
+albrechtsson,,Albrechtsson,,1,,5/24/2024 17:53
+albrecktsson,,Albrecktsson,,1,,5/24/2024 17:53
+albrektson,,Albrektson,,1,,5/24/2024 17:53
+albrektsson,,Albrektsson,,1,,5/24/2024 17:53
+aleksandersen,,Aleksandersen,,1,,5/24/2024 17:53
+alén,,Alén,,1,,5/24/2024 17:53
+alenius,,Alenius,,1,,5/24/2024 17:53
+alexandersen,,Alexandersen,,1,,5/24/2024 17:53
+alexanderson,,Alexanderson,,1,,5/24/2024 17:53
+alexandersson,,Alexandersson,,1,,5/24/2024 17:53
+alfredsson,,Alfredsson,,1,,5/24/2024 17:53
+alfson,,Alfson,,1,,5/24/2024 17:53
+alfsson,,Alfsson,,1,,5/24/2024 17:53
+alikoski,,Alikoski,,1,,5/24/2024 17:53
+alm,,Alm,,1,,5/24/2024 17:53
+almgren,,Almgren,,1,,5/24/2024 17:53
+almlöf,,Almlöf,,1,,5/24/2024 17:53
+almqvist,,Almqvist,,1,,5/24/2024 17:53
+almstedt,,Almstedt,,1,,5/24/2024 17:53
+alström,,Alström,,1,,5/24/2024 17:53
+alströmer,,Alströmer,,1,,5/24/2024 17:53
+alsvik,,Alsvik,,1,,5/24/2024 17:53
+ålund,,Ålund,,1,,5/24/2024 17:53
+alvarsson,,Alvarsson,,1,,5/24/2024 17:53
+alveberg,,Alveberg,,1,,5/24/2024 17:53
+alver,,Alver,,1,,5/24/2024 17:53
+åmås,,Åmås,,1,,5/24/2024 17:53
+amberg,,Amberg,,1,,5/24/2024 17:53
+ámundadóttir,,Ámundadóttir,,1,,5/24/2024 17:53
+amundsen,,Amundsen,,1,,5/24/2024 17:53
+amundson,,Amundson,,1,,5/24/2024 17:53
+ancher,,Ancher,,1,,5/24/2024 17:53
+anckarsvärd,,Anckarsvärd,,1,,5/24/2024 17:53
+andenæs,,Andenæs,,1,,5/24/2024 17:53
+anderberg,,Anderberg,,1,,5/24/2024 17:53
+andersdotter,,Andersdotter,,1,,5/24/2024 17:53
+anderson,,Anderson,,1,,5/24/2024 17:53
+andrae,,Andrae,,1,,5/24/2024 17:53
+andreasen,,Andreasen,,1,,5/24/2024 17:53
+andreasson,,Andreasson,,1,,5/24/2024 17:53
+andréasson,,Andréasson,,1,,5/24/2024 17:53
+andresen,,Andresen,,1,,5/24/2024 17:53
+andrésson,,Andrésson,,1,,5/24/2024 17:53
+ångström,,Ångström,,1,,5/24/2024 17:53
+anker,,Anker,,1,,5/24/2024 17:53
+ankersen,,Ankersen,,1,,5/24/2024 17:53
+annala,,Annala,,1,,5/24/2024 17:53
+anthonsen,,Anthonsen,,1,,5/24/2024 17:53
+antikainen,,Antikainen,,1,,5/24/2024 17:53
+antila,,Antila,,1,,5/24/2024 17:53
+antonen,,Antonen,,1,,5/24/2024 17:53
+antonisen,,Antonisen,,1,,5/24/2024 17:53
+antonsdóttir,,Antonsdóttir,,1,,5/24/2024 17:53
+antonsen,,Antonsen,,1,,5/24/2024 17:53
+antonsson,,Antonsson,,1,,5/24/2024 17:53
+anttila,,Anttila,,1,,5/24/2024 17:53
+anttonen,,Anttonen,,1,,5/24/2024 17:53
+appelqvist,,Appelqvist,,1,,5/24/2024 17:53
+arajuuri,,Arajuuri,,1,,5/24/2024 17:53
+arge,,Arge,,1,,5/24/2024 17:53
+arkiomaa,,Arkiomaa,,1,,5/24/2024 17:53
+ármannsson,,Ármannsson,,1,,5/24/2024 17:53
+árnadóttir,,Árnadóttir,,1,,5/24/2024 17:53
+arneberg,,Arneberg,,1,,5/24/2024 17:53
+arnesen,,Arnesen,,1,,5/24/2024 17:53
+arneson,,Arneson,,1,,5/24/2024 17:53
+aro,,Aro,,1,,5/24/2024 17:53
+arola,,Arola,,1,,5/24/2024 17:53
+aromaa,,Aromaa,,1,,5/24/2024 17:53
+aronen,,Aronen,,1,,5/24/2024 17:53
+arrheboe,,Arrheboe,,1,,5/24/2024 17:53
+årsjö,,Årsjö,,1,,5/24/2024 17:53
+arthursson,,Arthursson,,1,,5/24/2024 17:53
+artursson,,Artursson,,1,,5/24/2024 17:53
+årud,,Årud,,1,,5/24/2024 17:53
+arvesen,,Arvesen,,1,,5/24/2024 17:53
+arvidsson,,Arvidsson,,1,,5/24/2024 17:53
+arvonen,,Arvonen,,1,,5/24/2024 17:53
+arwidsson,,Arwidsson,,1,,5/24/2024 17:53
+asbjørnsen,,Asbjørnsen,,1,,5/24/2024 17:53
+åsbrink,,Åsbrink,,1,,5/24/2024 17:53
+asdahl,,Asdahl,,1,,5/24/2024 17:53
+ásgeirsson,,Ásgeirsson,,1,,5/24/2024 17:53
+asheim,,Asheim,,1,,5/24/2024 17:53
+asikainen,,Asikainen,,1,,5/24/2024 17:53
+askildsen,,Askildsen,,1,,5/24/2024 17:53
+åslund,,Åslund,,1,,5/24/2024 17:53
+asmussen,,Asmussen,,1,,5/24/2024 17:53
+aspegren,,Aspegren,,1,,5/24/2024 17:53
+aspelund,,Aspelund,,1,,5/24/2024 17:53
+asphaug,,Asphaug,,1,,5/24/2024 17:53
+asplund,,Asplund,,1,,5/24/2024 17:53
+astala,,Astala,,1,,5/24/2024 17:53
+åström,,Åström,,1,,5/24/2024 17:53
+asunmaa,,Asunmaa,,1,,5/24/2024 17:53
+augustsson,,Augustsson,,1,,5/24/2024 17:53
+aukland,,Aukland,,1,,5/24/2024 17:53
+aulie,,Aulie,,1,,5/24/2024 17:53
+aune,,Aune,,1,,5/24/2024 17:53
+aunli,,Aunli,,1,,5/24/2024 17:53
+austbø,,Austbø,,1,,5/24/2024 17:53
+auvinen,,Auvinen,,1,,5/24/2024 17:53
+awsumb,,Awsumb,,1,,5/24/2024 17:53
+axelsen,,Axelsen,,1,,5/24/2024 17:53
+axelsson,,Axelsson,,1,,5/24/2024 17:53
+baadsvik,,Baadsvik,,1,,5/24/2024 17:53
+baalsrud,,Baalsrud,,1,,5/24/2024 17:53
+baardsen,,Baardsen,,1,,5/24/2024 17:53
+baardseth,,Baardseth,,1,,5/24/2024 17:53
+baardson,,Baardson,,1,,5/24/2024 17:53
+bach,,Bach,,1,,5/24/2024 17:53
+bäck,,Bäck,,1,,5/24/2024 17:53
+backer,,Backer,,1,,5/24/2024 17:53
+backlund,,Backlund,,1,,5/24/2024 17:53
+bäcklund,,Bäcklund,,1,,5/24/2024 17:53
+backman,,Backman,,1,,5/24/2024 17:53
+backstrom,,Backstrom,,1,,5/24/2024 17:53
+baekgaard,,Baekgaard,,1,,5/24/2024 17:53
+bærentsen,,Bærentsen,,1,,5/24/2024 17:53
+bager,,Bager,,1,,5/24/2024 17:53
+bak,,Bak,,1,,5/24/2024 17:53
+bakke,,Bakke,,1,,5/24/2024 17:53
+bakken,,Bakken,,1,,5/24/2024 17:53
+bakkevig,,Bakkevig,,1,,5/24/2024 17:53
+baksaas,,Baksaas,,1,,5/24/2024 17:53
+baldvinsson,,Baldvinsson,,1,,5/24/2024 17:53
+balstad,,Balstad,,1,,5/24/2024 17:53
+balto,,Balto,,1,,5/24/2024 17:53
+báltu,,Báltu,,1,,5/24/2024 17:53
+bang,,Bang,,1,,5/24/2024 17:53
+barfod,,Barfod,,1,,5/24/2024 17:53
+barfoed,,Barfoed,,1,,5/24/2024 17:53
+barlie,,Barlie,,1,,5/24/2024 17:53
+barthel,,Barthel,,1,,5/24/2024 17:53
+bartoszek,,Bartoszek,,1,,5/24/2024 17:53
+bech,,Bech,,1,,5/24/2024 17:53
+bechgaard,,Bechgaard,,1,,5/24/2024 17:53
+beck,,Beck,,1,,5/24/2024 17:53
+bendixen,,Bendixen,,1,,5/24/2024 17:53
+bendtsen,,Bendtsen,,1,,5/24/2024 17:53
+benediktsson,,Benediktsson,,1,,5/24/2024 17:53
+bengtsdotter,,Bengtsdotter,,1,,5/24/2024 17:53
+benkow,,Benkow,,1,,5/24/2024 17:53
+bentsen,,Bentsen,,1,,5/24/2024 17:53
+benum,,Benum,,1,,5/24/2024 17:53
+berge,,Berge,,1,,5/24/2024 17:53
+bergen,,Bergen,,1,,5/24/2024 17:53
+bergendorff,,Bergendorff,,1,,5/24/2024 17:53
+bergersen,,Bergersen,,1,,5/24/2024 17:53
+bergesen,,Bergesen,,1,,5/24/2024 17:53
+bergfalk,,Bergfalk,,1,,5/24/2024 17:53
+berggren,,Berggren,,1,,5/24/2024 17:53
+bergh,,Bergh,,1,,5/24/2024 17:53
+berghult,,Berghult,,1,,5/24/2024 17:53
+bergius,,Bergius,,1,,5/24/2024 17:53
+bergkvist,,Bergkvist,,1,,5/24/2024 17:53
+bergling,,Bergling,,1,,5/24/2024 17:53
+berglund,,Berglund,,1,,5/24/2024 17:53
+bergman,,Bergman,,1,,5/24/2024 17:53
+bergmann,,Bergmann,,1,,5/24/2024 17:53
+bergquist,,Bergquist,,1,,5/24/2024 17:53
+bergqvist,,Bergqvist,,1,,5/24/2024 17:53
+bergroth,,Bergroth,,1,,5/24/2024 17:53
+bergsten,,Bergsten,,1,,5/24/2024 17:53
+bergstrom,,Bergstrom,,1,,5/24/2024 17:53
+bergström,,Bergström,,1,,5/24/2024 17:53
+bergsvåg,,Bergsvåg,,1,,5/24/2024 17:53
+bergvall,,Bergvall,,1,,5/24/2024 17:53
+berndtsson,,Berndtsson,,1,,5/24/2024 17:53
+bernhardsson,,Bernhardsson,,1,,5/24/2024 17:53
+berntsen,,Berntsen,,1,,5/24/2024 17:53
+berntsson,,Berntsson,,1,,5/24/2024 17:53
+berrefjord,,Berrefjord,,1,,5/24/2024 17:53
+bertelsen,,Bertelsen,,1,,5/24/2024 17:53
+berthelsen,,Berthelsen,,1,,5/24/2024 17:53
+bertilsson,,Bertilsson,,1,,5/24/2024 17:53
+bett,,Bett,,1,,5/24/2024 17:53
+bexell,,Bexell,,1,,5/24/2024 17:53
+billberg,,Billberg,,1,,5/24/2024 17:53
+bille,,Bille,,1,,5/24/2024 17:53
+binger,,Binger,,1,,5/24/2024 17:53
+birgerson,,Birgerson,,1,,5/24/2024 17:53
+birgersson,,Birgersson,,1,,5/24/2024 17:53
+birkrem,,Birkrem,,1,,5/24/2024 17:53
+bisgaard,,Bisgaard,,1,,5/24/2024 17:53
+bjarnason,,Bjarnason,,1,,5/24/2024 17:53
+bjarnesen,,Bjarnesen,,1,,5/24/2024 17:53
+bjartveit,,Bjartveit,,1,,5/24/2024 17:53
+bjelland,,Bjelland,,1,,5/24/2024 17:53
+bjellqvist,,Bjellqvist,,1,,5/24/2024 17:53
+bjerg,,Bjerg,,1,,5/24/2024 17:53
+bjerke,,Bjerke,,1,,5/24/2024 17:53
+bjerkestrand,,Bjerkestrand,,1,,5/24/2024 17:53
+bjerre,,Bjerre,,1,,5/24/2024 17:53
+bjørgaas,,Bjørgaas,,1,,5/24/2024 17:53
+bjørgen,,Bjørgen,,1,,5/24/2024 17:53
+bjørgo,,Bjørgo,,1,,5/24/2024 17:53
+björk,,Björk,,1,,5/24/2024 17:53
+bjørk,,Bjørk,,1,,5/24/2024 17:53
+björkegren,,Björkegren,,1,,5/24/2024 17:53
+björklund,,Björklund,,1,,5/24/2024 17:53
+bjorkman,,Bjorkman,,1,,5/24/2024 17:53
+björkman,,Björkman,,1,,5/24/2024 17:53
+bjørkum,,Bjørkum,,1,,5/24/2024 17:53
+björling,,Björling,,1,,5/24/2024 17:53
+bjørlo,,Bjørlo,,1,,5/24/2024 17:53
+bjørnebye,,Bjørnebye,,1,,5/24/2024 17:53
+bjørnseth,,Bjørnseth,,1,,5/24/2024 17:53
+bjornson,,Bjornson,,1,,5/24/2024 17:53
+björnsson,,Björnsson,,1,,5/24/2024 17:53
+bjørnstad,,Bjørnstad,,1,,5/24/2024 17:53
+björnstjerna,,Björnstjerna,,1,,5/24/2024 17:53
+bjur,,Bjur,,1,,5/24/2024 17:53
+blak,,Blak,,1,,5/24/2024 17:53
+blaudzun,,Blaudzun,,1,,5/24/2024 17:53
+blegvad,,Blegvad,,1,,5/24/2024 17:53
+blehr,,Blehr,,1,,5/24/2024 17:53
+bleken,,Bleken,,1,,5/24/2024 17:53
+blix,,Blix,,1,,5/24/2024 17:53
+blom,,Blom,,1,,5/24/2024 17:53
+blomgren,,Blomgren,,1,,5/24/2024 17:53
+blomquist,,Blomquist,,1,,5/24/2024 17:53
+blomqvist,,Blomqvist,,1,,5/24/2024 17:53
+blomstedt,,Blomstedt,,1,,5/24/2024 17:53
+bodilsen,,Bodilsen,,1,,5/24/2024 17:53
+bodin,,Bodin,,1,,5/24/2024 17:53
+bodøgaard,,Bodøgaard,,1,,5/24/2024 17:53
+bødtker,,Bødtker,,1,,5/24/2024 17:53
+bøe,,Bøe,,1,,5/24/2024 17:53
+bøgseth,,Bøgseth,,1,,5/24/2024 17:53
+bøhn,,Bøhn,,1,,5/24/2024 17:53
+boidni,,Boidni,,1,,5/24/2024 17:53
+boine,,Boine,,1,,5/24/2024 17:53
+bok,,Bok,,1,,5/24/2024 17:53
+bolander,,Bolander,,1,,5/24/2024 17:53
+boman,,Boman,,1,,5/24/2024 17:53
+bondevik,,Bondevik,,1,,5/24/2024 17:53
+bóndi,,Bóndi,,1,,5/24/2024 17:53
+bong,,Bong,,1,,5/24/2024 17:53
+borg,,Borg,,1,,5/24/2024 17:53
+borge,,Borge,,1,,5/24/2024 17:53
+borgersen,,Borgersen,,1,,5/24/2024 17:53
+borgström,,Borgström,,1,,5/24/2024 17:53
+börjesson,,Börjesson,,1,,5/24/2024 17:53
+børre,,Børre,,1,,5/24/2024 17:53
+børresen,,Børresen,,1,,5/24/2024 17:53
+boserup,,Boserup,,1,,5/24/2024 17:53
+botvid,,Botvid,,1,,5/24/2024 17:53
+boustedt,,Boustedt,,1,,5/24/2024 17:53
+bovim,,Bovim,,1,,5/24/2024 17:53
+bovin,,Bovin,,1,,5/24/2024 17:53
+boye,,Boye,,1,,5/24/2024 17:53
+braadland,,Braadland,,1,,5/24/2024 17:53
+braaten,,Braaten,,1,,5/24/2024 17:53
+bræk,,Bræk,,1,,5/24/2024 17:53
+brækhus,,Brækhus,,1,,5/24/2024 17:53
+brænne,,Brænne,,1,,5/24/2024 17:53
+bragason,,Bragason,,1,,5/24/2024 17:53
+brahe,,Brahe,,1,,5/24/2024 17:53
+brakstad,,Brakstad,,1,,5/24/2024 17:53
+brams,,Brams,,1,,5/24/2024 17:53
+brandt,,Brandt,,1,,5/24/2024 17:53
+brandtzæg,,Brandtzæg,,1,,5/24/2024 17:53
+brännström,,Brännström,,1,,5/24/2024 17:53
+brasch,,Brasch,,1,,5/24/2024 17:53
+brask,,Brask,,1,,5/24/2024 17:53
+brate,,Brate,,1,,5/24/2024 17:53
+bratt,,Bratt,,1,,5/24/2024 17:53
+brattström,,Brattström,,1,,5/24/2024 17:53
+brecke,,Brecke,,1,,5/24/2024 17:53
+bred,,Bred,,1,,5/24/2024 17:53
+brede,,Brede,,1,,5/24/2024 17:53
+bredesen,,Bredesen,,1,,5/24/2024 17:53
+breien,,Breien,,1,,5/24/2024 17:53
+breiner,,Breiner,,1,,5/24/2024 17:53
+breivik,,Breivik,,1,,5/24/2024 17:53
+briem,,Briem,,1,,5/24/2024 17:53
+brink,,Brink,,1,,5/24/2024 17:53
+brjánsson,,Brjánsson,,1,,5/24/2024 17:53
+broberg,,Broberg,,1,,5/24/2024 17:53
+brodd,,Brodd,,1,,5/24/2024 17:53
+brogeland,,Brogeland,,1,,5/24/2024 17:53
+brøgger,,Brøgger,,1,,5/24/2024 17:53
+bronck,,Bronck,,1,,5/24/2024 17:53
+brøndbo,,Brøndbo,,1,,5/24/2024 17:53
+bronebakk,,Bronebakk,,1,,5/24/2024 17:53
+brørby,,Brørby,,1,,5/24/2024 17:53
+brorsson,,Brorsson,,1,,5/24/2024 17:53
+brudevold,,Brudevold,,1,,5/24/2024 17:53
+bruland,,Bruland,,1,,5/24/2024 17:53
+brun,,Brun,,1,,5/24/2024 17:53
+brundin,,Brundin,,1,,5/24/2024 17:53
+brunnberg,,Brunnberg,,1,,5/24/2024 17:53
+brunström,,Brunström,,1,,5/24/2024 17:53
+brunvand,,Brunvand,,1,,5/24/2024 17:53
+brusveen,,Brusveen,,1,,5/24/2024 17:53
+bruun,,Bruun,,1,,5/24/2024 17:53
+bruzelius,,Bruzelius,,1,,5/24/2024 17:53
+brydolf,,Brydolf,,1,,5/24/2024 17:53
+bryhn,,Bryhn,,1,,5/24/2024 17:53
+brynjolfsson,,Brynjolfsson,,1,,5/24/2024 17:53
+bucht,,Bucht,,1,,5/24/2024 17:53
+buckhøj,,Buckhøj,,1,,5/24/2024 17:53
+bukh,,Bukh,,1,,5/24/2024 17:53
+buraas,,Buraas,,1,,5/24/2024 17:53
+bure,,Bure,,1,,5/24/2024 17:53
+burrau,,Burrau,,1,,5/24/2024 17:53
+bye,,Bye,,1,,5/24/2024 17:53
+byquist,,Byquist,,1,,5/24/2024 17:53
+byqvist,,Byqvist,,1,,5/24/2024 17:53
+byström,,Byström,,1,,5/24/2024 17:53
+cappelen,,Cappelen,,1,,5/24/2024 17:53
+carlen,,Carlen,,1,,5/24/2024 17:53
+carlgren,,Carlgren,,1,,5/24/2024 17:53
+carling,,Carling,,1,,5/24/2024 17:53
+carlsdotter,,Carlsdotter,,1,,5/24/2024 17:53
+carlsen,,Carlsen,,1,,5/24/2024 17:53
+carlson,,Carlson,,1,,5/24/2024 17:53
+carlsson,,Carlsson,,1,,5/24/2024 17:53
+carstensen,,Carstensen,,1,,5/24/2024 17:53
+casparsson,,Casparsson,,1,,5/24/2024 17:53
+castberg,,Castberg,,1,,5/24/2024 17:53
+cattell,,Cattell,,1,,5/24/2024 17:53
+ceder,,Ceder,,1,,5/24/2024 17:53
+cederblom,,Cederblom,,1,,5/24/2024 17:53
+cedergren,,Cedergren,,1,,5/24/2024 17:53
+cederqvist,,Cederqvist,,1,,5/24/2024 17:53
+cederschiöld,,Cederschiöld,,1,,5/24/2024 17:53
+cederström,,Cederström,,1,,5/24/2024 17:53
+christoffersen,,Christoffersen,,1,,5/24/2024 17:53
+christophersen,,Christophersen,,1,,5/24/2024 17:53
+claesson,,Claesson,,1,,5/24/2024 17:53
+clausen,,Clausen,,1,,5/24/2024 17:53
+clemensen,,Clemensen,,1,,5/24/2024 17:53
+collberg,,Collberg,,1,,5/24/2024 17:53
+cortsen,,Cortsen,,1,,5/24/2024 17:53
+crona,,Crona,,1,,5/24/2024 17:53
+cronhielm,,Cronhielm,,1,,5/24/2024 17:53
+cronholm,,Cronholm,,1,,5/24/2024 17:53
+dagsland,,Dagsland,,1,,5/24/2024 17:53
+dahl,,Dahl,,1,,5/24/2024 17:53
+dahlberg,,Dahlberg,,1,,5/24/2024 17:53
+dahlerup,,Dahlerup,,1,,5/24/2024 17:53
+dahlgren,,Dahlgren,,1,,5/24/2024 17:53
+dahlin,,Dahlin,,1,,5/24/2024 17:53
+dahll,,Dahll,,1,,5/24/2024 17:53
+dahlman,,Dahlman,,1,,5/24/2024 17:53
+dahlquist,,Dahlquist,,1,,5/24/2024 17:53
+dahlström,,Dahlström,,1,,5/24/2024 17:53
+dahlvig,,Dahlvig,,1,,5/24/2024 17:53
+dalby,,Dalby,,1,,5/24/2024 17:53
+dalgaard,,Dalgaard,,1,,5/24/2024 17:53
+dalin,,Dalin,,1,,5/24/2024 17:53
+dam,,Dam,,1,,5/24/2024 17:53
+damgaard,,Damgaard,,1,,5/24/2024 17:53
+danielsen,,Danielsen,,1,,5/24/2024 17:53
+danielsson,,Danielsson,,1,,5/24/2024 17:53
+danjalsson,,Danjalsson,,1,,5/24/2024 17:53
+daugaard,,Daugaard,,1,,5/24/2024 17:53
+davidsen,,Davidsen,,1,,5/24/2024 17:53
+davidsson,,Davidsson,,1,,5/24/2024 17:53
+debes,,Debes,,1,,5/24/2024 17:53
+dedekam,,Dedekam,,1,,5/24/2024 17:53
+degerlund,,Degerlund,,1,,5/24/2024 17:53
+degermark,,Degermark,,1,,5/24/2024 17:53
+devold,,Devold,,1,,5/24/2024 17:53
+didriksen,,Didriksen,,1,,5/24/2024 17:53
+dinesen,,Dinesen,,1,,5/24/2024 17:53
+djerf,,Djerf,,1,,5/24/2024 17:53
+djoos,,Djoos,,1,,5/24/2024 17:53
+djurhuus,,Djurhuus,,1,,5/24/2024 17:53
+dokken,,Dokken,,1,,5/24/2024 17:53
+dornberger,,Dornberger,,1,,5/24/2024 17:53
+dørumsgaard,,Dørumsgaard,,1,,5/24/2024 17:53
+døvigen,,Døvigen,,1,,5/24/2024 17:53
+drabløs,,Drabløs,,1,,5/24/2024 17:53
+drachmann,,Drachmann,,1,,5/24/2024 17:53
+drakenberg,,Drakenberg,,1,,5/24/2024 17:53
+due,,Due,,1,,5/24/2024 17:53
+dvergsdal,,Dvergsdal,,1,,5/24/2024 17:53
+dyrssen,,Dyrssen,,1,,5/24/2024 17:53
+ebbesen,,Ebbesen,,1,,5/24/2024 17:53
+eckblad,,Eckblad,,1,,5/24/2024 17:53
+edgren,,Edgren,,1,,5/24/2024 17:53
+edling,,Edling,,1,,5/24/2024 17:53
+edlund,,Edlund,,1,,5/24/2024 17:53
+edström,,Edström,,1,,5/24/2024 17:53
+edvaldsson,,Edvaldsson,,1,,5/24/2024 17:53
+edvardsen,,Edvardsen,,1,,5/24/2024 17:53
+edvinsson,,Edvinsson,,1,,5/24/2024 17:53
+eerola,,Eerola,,1,,5/24/2024 17:53
+effersøe,,Effersøe,,1,,5/24/2024 17:53
+ege,,Ege,,1,,5/24/2024 17:53
+egede,,Egede,,1,,5/24/2024 17:53
+egge,,Egge,,1,,5/24/2024 17:53
+eggen,,Eggen,,1,,5/24/2024 17:53
+eggum,,Eggum,,1,,5/24/2024 17:53
+egnell,,Egnell,,1,,5/24/2024 17:53
+ehrling,,Ehrling,,1,,5/24/2024 17:53
+eide,,Eide,,1,,5/24/2024 17:53
+eidesgaard,,Eidesgaard,,1,,5/24/2024 17:53
+eikemo,,Eikemo,,1,,5/24/2024 17:53
+einarsson,,Einarsson,,1,,5/24/2024 17:53
+ejstrup,,Ejstrup,,1,,5/24/2024 17:53
+ek,,Ek,,1,,5/24/2024 17:53
+ekberg,,Ekberg,,1,,5/24/2024 17:53
+ekblad,,Ekblad,,1,,5/24/2024 17:53
+ekbom,,Ekbom,,1,,5/24/2024 17:53
+ekdahl,,Ekdahl,,1,,5/24/2024 17:53
+ekdal,,Ekdal,,1,,5/24/2024 17:53
+ekenberg,,Ekenberg,,1,,5/24/2024 17:53
+ekerot,,Ekerot,,1,,5/24/2024 17:53
+ekfeldt,,Ekfeldt,,1,,5/24/2024 17:53
+ekholm,,Ekholm,,1,,5/24/2024 17:53
+eklund,,Eklund,,1,,5/24/2024 17:53
+ekman,,Ekman,,1,,5/24/2024 17:53
+ekstrand,,Ekstrand,,1,,5/24/2024 17:53
+ekström,,Ekström,,1,,5/24/2024 17:53
+eld,,Eld,,1,,5/24/2024 17:53
+eldegard,,Eldegard,,1,,5/24/2024 17:53
+elfsberg,,Elfsberg,,1,,5/24/2024 17:53
+elfström,,Elfström,,1,,5/24/2024 17:53
+elgaard,,Elgaard,,1,,5/24/2024 17:53
+eliassen,,Eliassen,,1,,5/24/2024 17:53
+eliasson,,Eliasson,,1,,5/24/2024 17:53
+ellefsen,,Ellefsen,,1,,5/24/2024 17:53
+ellefson,,Ellefson,,1,,5/24/2024 17:53
+ellegaard,,Ellegaard,,1,,5/24/2024 17:53
+ellemann,,Ellemann,,1,,5/24/2024 17:53
+elling,,Elling,,1,,5/24/2024 17:53
+ellison,,Ellison,,1,,5/24/2024 17:53
+elmersson,,Elmersson,,1,,5/24/2024 17:53
+elmsäter,,Elmsäter,,1,,5/24/2024 17:53
+elo,,Elo,,1,,5/24/2024 17:53
+elomaa,,Elomaa,,1,,5/24/2024 17:53
+eloranta,,Eloranta,,1,,5/24/2024 17:53
+elstelä,,Elstelä,,1,,5/24/2024 17:53
+elverum,,Elverum,,1,,5/24/2024 17:53
+elvestad,,Elvestad,,1,,5/24/2024 17:53
+elvik,,Elvik,,1,,5/24/2024 17:53
+enbom,,Enbom,,1,,5/24/2024 17:53
+enckell,,Enckell,,1,,5/24/2024 17:53
+endreson,,Endreson,,1,,5/24/2024 17:53
+eng,,Eng,,1,,5/24/2024 17:53
+engberg,,Engberg,,1,,5/24/2024 17:53
+engdahl,,Engdahl,,1,,5/24/2024 17:53
+engebretsen,,Engebretsen,,1,,5/24/2024 17:53
+engelbrektsson,,Engelbrektsson,,1,,5/24/2024 17:53
+engelstad,,Engelstad,,1,,5/24/2024 17:53
+engen,,Engen,,1,,5/24/2024 17:53
+enger,,Enger,,1,,5/24/2024 17:53
+englund,,Englund,,1,,5/24/2024 17:53
+engman,,Engman,,1,,5/24/2024 17:53
+engström,,Engström,,1,,5/24/2024 17:53
+enlund,,Enlund,,1,,5/24/2024 17:53
+enoksen,,Enoksen,,1,,5/24/2024 17:53
+enquist,,Enquist,,1,,5/24/2024 17:53
+erichsen,,Erichsen,,1,,5/24/2024 17:53
+ericson,,Ericson,,1,,5/24/2024 17:53
+ericsson,,Ericsson,,1,,5/24/2024 17:53
+erkkilä,,Erkkilä,,1,,5/24/2024 17:53
+erlandson,,Erlandson,,1,,5/24/2024 17:53
+erlandsson,,Erlandsson,,1,,5/24/2024 17:53
+ernman,,Ernman,,1,,5/24/2024 17:53
+ernst,,Ernst,,1,,5/24/2024 17:53
+erola,,Erola,,1,,5/24/2024 17:53
+eronen,,Eronen,,1,,5/24/2024 17:53
+erstad,,Erstad,,1,,5/24/2024 17:53
+eskeland,,Eskeland,,1,,5/24/2024 17:53
+eskelinen,,Eskelinen,,1,,5/24/2024 17:53
+eskell,,Eskell,,1,,5/24/2024 17:53
+eskildsen,,Eskildsen,,1,,5/24/2024 17:53
+esko,,Esko,,1,,5/24/2024 17:53
+eskola,,Eskola,,1,,5/24/2024 17:53
+esmark,,Esmark,,1,,5/24/2024 17:53
+espeland,,Espeland,,1,,5/24/2024 17:53
+espelid,,Espelid,,1,,5/24/2024 17:53
+espensen,,Espensen,,1,,5/24/2024 17:53
+espenson,,Espenson,,1,,5/24/2024 17:53
+espersen,,Espersen,,1,,5/24/2024 17:53
+espeseth,,Espeseth,,1,,5/24/2024 17:53
+evang,,Evang,,1,,5/24/2024 17:53
+evensen,,Evensen,,1,,5/24/2024 17:53
+evju,,Evju,,1,,5/24/2024 17:53
+eyjólfsson,,Eyjólfsson,,1,,5/24/2024 17:53
+faarlund,,Faarlund,,1,,5/24/2024 17:53
+fagerholm,,Fagerholm,,1,,5/24/2024 17:53
+fagerudd,,Fagerudd,,1,,5/24/2024 17:53
+fahlén,,Fahlén,,1,,5/24/2024 17:53
+faldbakken,,Faldbakken,,1,,5/24/2024 17:53
+falk,,Falk,,1,,5/24/2024 17:53
+falkanger,,Falkanger,,1,,5/24/2024 17:53
+falkberget,,Falkberget,,1,,5/24/2024 17:53
+fallesen,,Fallesen,,1,,5/24/2024 17:53
+fällman,,Fällman,,1,,5/24/2024 17:53
+fältskog,,Fältskog,,1,,5/24/2024 17:53
+farnerud,,Farnerud,,1,,5/24/2024 17:53
+fauchald,,Fauchald,,1,,5/24/2024 17:53
+faxén,,Faxén,,1,,5/24/2024 17:53
+fegth,,Fegth,,1,,5/24/2024 17:53
+feld,,Feld,,1,,5/24/2024 17:53
+feldt,,Feldt,,1,,5/24/2024 17:53
+fernholm,,Fernholm,,1,,5/24/2024 17:53
+feyling,,Feyling,,1,,5/24/2024 17:53
+filemonsen,,Filemonsen,,1,,5/24/2024 17:53
+filppula,,Filppula,,1,,5/24/2024 17:53
+fimland,,Fimland,,1,,5/24/2024 17:53
+fingerroos,,Fingerroos,,1,,5/24/2024 17:53
+finnbogason,,Finnbogason,,1,,5/24/2024 17:53
+finsen,,Finsen,,1,,5/24/2024 17:53
+fisker,,Fisker,,1,,5/24/2024 17:53
+fjærvoll,,Fjærvoll,,1,,5/24/2024 17:53
+fjelde,,Fjelde,,1,,5/24/2024 17:53
+fjeldstad,,Fjeldstad,,1,,5/24/2024 17:53
+fjellheim,,Fjellheim,,1,,5/24/2024 17:53
+fjellner,,Fjellner,,1,,5/24/2024 17:53
+fjermeros,,Fjermeros,,1,,5/24/2024 17:53
+fladmark,,Fladmark,,1,,5/24/2024 17:53
+flagstad,,Flagstad,,1,,5/24/2024 17:53
+flakne,,Flakne,,1,,5/24/2024 17:53
+flatabø,,Flatabø,,1,,5/24/2024 17:53
+fleischer,,Fleischer,,1,,5/24/2024 17:53
+flikke,,Flikke,,1,,5/24/2024 17:53
+flink,,Flink,,1,,5/24/2024 17:53
+flodqvist,,Flodqvist,,1,,5/24/2024 17:53
+fløgstad,,Fløgstad,,1,,5/24/2024 17:53
+fly,,Fly,,1,,5/24/2024 17:53
+flygare,,Flygare,,1,,5/24/2024 17:53
+fofonoff,,Fofonoff,,1,,5/24/2024 17:53
+fogelberg,,Fogelberg,,1,,5/24/2024 17:53
+fogelklou,,Fogelklou,,1,,5/24/2024 17:53
+fønss,,Fønss,,1,,5/24/2024 17:53
+forchhammer,,Forchhammer,,1,,5/24/2024 17:53
+forfang,,Forfang,,1,,5/24/2024 17:53
+formoe,,Formoe,,1,,5/24/2024 17:53
+fornæss,,Fornæss,,1,,5/24/2024 17:53
+førre,,Førre,,1,,5/24/2024 17:53
+forsberg,,Forsberg,,1,,5/24/2024 17:53
+forsell,,Forsell,,1,,5/24/2024 17:53
+forselles,,Forselles,,1,,5/24/2024 17:53
+forseth,,Forseth,,1,,5/24/2024 17:53
+forsling,,Forsling,,1,,5/24/2024 17:53
+forslund,,Forslund,,1,,5/24/2024 17:53
+forsman,,Forsman,,1,,5/24/2024 17:53
+forsström,,Forsström,,1,,5/24/2024 17:53
+fosli,,Fosli,,1,,5/24/2024 17:53
+foss,,Foss,,1,,5/24/2024 17:53
+fossen,,Fossen,,1,,5/24/2024 17:53
+fossli,,Fossli,,1,,5/24/2024 17:53
+fossum,,Fossum,,1,,5/24/2024 17:53
+fostervoll,,Fostervoll,,1,,5/24/2024 17:53
+fougstedt,,Fougstedt,,1,,5/24/2024 17:53
+frandsen,,Frandsen,,1,,5/24/2024 17:53
+frank,,Frank,,1,,5/24/2024 17:53
+fransson,,Fransson,,1,,5/24/2024 17:53
+franzén,,Franzén,,1,,5/24/2024 17:53
+frederiksen,,Frederiksen,,1,,5/24/2024 17:53
+fredholm,,Fredholm,,1,,5/24/2024 17:53
+fredin,,Fredin,,1,,5/24/2024 17:53
+fredriksen,,Fredriksen,,1,,5/24/2024 17:53
+fredriksson,,Fredriksson,,1,,5/24/2024 17:53
+friberg,,Friberg,,1,,5/24/2024 17:53
+fridriksson,,Fridriksson,,1,,5/24/2024 17:53
+friele,,Friele,,1,,5/24/2024 17:53
+friis,,Friis,,1,,5/24/2024 17:53
+frisak,,Frisak,,1,,5/24/2024 17:53
+frisk,,Frisk,,1,,5/24/2024 17:53
+froseth,,Froseth,,1,,5/24/2024 17:53
+frumerie,,Frumerie,,1,,5/24/2024 17:53
+frydenberg,,Frydenberg,,1,,5/24/2024 17:53
+frykberg,,Frykberg,,1,,5/24/2024 17:53
+fuglestad,,Fuglestad,,1,,5/24/2024 17:53
+furre,,Furre,,1,,5/24/2024 17:53
+furuholmen,,Furuholmen,,1,,5/24/2024 17:53
+gaarder,,Gaarder,,1,,5/24/2024 17:53
+gabrielsen,,Gabrielsen,,1,,5/24/2024 17:53
+gabrielsson,,Gabrielsson,,1,,5/24/2024 17:53
+gadegaard,,Gadegaard,,1,,5/24/2024 17:53
+gallen,,Gallen,,1,,5/24/2024 17:53
+gammelgaard,,Gammelgaard,,1,,5/24/2024 17:53
+ganting,,Ganting,,1,,5/24/2024 17:53
+garborg,,Garborg,,1,,5/24/2024 17:53
+gardarsson,,Gardarsson,,1,,5/24/2024 17:53
+gårdinger,,Gårdinger,,1,,5/24/2024 17:53
+garfors,,Garfors,,1,,5/24/2024 17:53
+gaski,,Gaski,,1,,5/24/2024 17:53
+gáski,,Gáski,,1,,5/24/2024 17:53
+gauffin,,Gauffin,,1,,5/24/2024 17:53
+gaup,,Gaup,,1,,5/24/2024 17:53
+gauriloff,,Gauriloff,,1,,5/24/2024 17:53
+gauslaa,,Gauslaa,,1,,5/24/2024 17:53
+gaustad,,Gaustad,,1,,5/24/2024 17:53
+geijer,,Geijer,,1,,5/24/2024 17:53
+geirsson,,Geirsson,,1,,5/24/2024 17:53
+geisler,,Geisler,,1,,5/24/2024 17:53
+gejl,,Gejl,,1,,5/24/2024 17:53
+gemzøe,,Gemzøe,,1,,5/24/2024 17:53
+gentzel,,Gentzel,,1,,5/24/2024 17:53
+gerhardsson,,Gerhardsson,,1,,5/24/2024 17:53
+gestsson,,Gestsson,,1,,5/24/2024 17:53
+giæver,,Giæver,,1,,5/24/2024 17:53
+giertsen,,Giertsen,,1,,5/24/2024 17:53
+giese,,Giese,,1,,5/24/2024 17:53
+gilje,,Gilje,,1,,5/24/2024 17:53
+giørtz,,Giørtz,,1,,5/24/2024 17:53
+gísladóttir,,Gísladóttir,,1,,5/24/2024 17:53
+gíslason,,Gíslason,,1,,5/24/2024 17:53
+gislesen,,Gislesen,,1,,5/24/2024 17:53
+gissurarson,,Gissurarson,,1,,5/24/2024 17:53
+githmark,,Githmark,,1,,5/24/2024 17:53
+gjerdåker,,Gjerdåker,,1,,5/24/2024 17:53
+gjerset,,Gjerset,,1,,5/24/2024 17:53
+gjertsen,,Gjertsen,,1,,5/24/2024 17:53
+gjesdal,,Gjesdal,,1,,5/24/2024 17:53
+gjessing,,Gjessing,,1,,5/24/2024 17:53
+gjesteby,,Gjesteby,,1,,5/24/2024 17:53
+gjestvang,,Gjestvang,,1,,5/24/2024 17:53
+gjøstein,,Gjøstein,,1,,5/24/2024 17:53
+gleie,,Gleie,,1,,5/24/2024 17:53
+glerfoss,,Glerfoss,,1,,5/24/2024 17:53
+godal,,Godal,,1,,5/24/2024 17:53
+goksøyr,,Goksøyr,,1,,5/24/2024 17:53
+göransson,,Göransson,,1,,5/24/2024 17:53
+gotfredsen,,Gotfredsen,,1,,5/24/2024 17:53
+göthberg,,Göthberg,,1,,5/24/2024 17:53
+grafström,,Grafström,,1,,5/24/2024 17:53
+grahn,,Grahn,,1,,5/24/2024 17:53
+granath,,Granath,,1,,5/24/2024 17:53
+grandelius,,Grandelius,,1,,5/24/2024 17:53
+granheim,,Granheim,,1,,5/24/2024 17:53
+granholm,,Granholm,,1,,5/24/2024 17:53
+granli,,Granli,,1,,5/24/2024 17:53
+granqvist,,Granqvist,,1,,5/24/2024 17:53
+gravdahl,,Gravdahl,,1,,5/24/2024 17:53
+gregersen,,Gregersen,,1,,5/24/2024 17:53
+gregory,,Gregory,,1,,5/24/2024 17:53
+grepstad,,Grepstad,,1,,5/24/2024 17:53
+grétarsson,,Grétarsson,,1,,5/24/2024 17:53
+grieg,,Grieg,,1,,5/24/2024 17:53
+grimnes,,Grimnes,,1,,5/24/2024 17:53
+grímsson,,Grímsson,,1,,5/24/2024 17:53
+grimstad,,Grimstad,,1,,5/24/2024 17:53
+grini,,Grini,,1,,5/24/2024 17:53
+grön,,Grön,,1,,5/24/2024 17:53
+grøn,,Grøn,,1,,5/24/2024 17:53
+grönberg,,Grönberg,,1,,5/24/2024 17:53
+grönblom,,Grönblom,,1,,5/24/2024 17:53
+grønhaug,,Grønhaug,,1,,5/24/2024 17:53
+grönroos,,Grönroos,,1,,5/24/2024 17:53
+grönvall,,Grönvall,,1,,5/24/2024 17:53
+grønvold,,Grønvold,,1,,5/24/2024 17:53
+gudjohnsen,,Gudjohnsen,,1,,5/24/2024 17:53
+gudjónsson,,Gudjónsson,,1,,5/24/2024 17:53
+gudmundsdóttir,,Gudmundsdóttir,,1,,5/24/2024 17:53
+gudmundsson,,Gudmundsson,,1,,5/24/2024 17:53
+gudnason,,Gudnason,,1,,5/24/2024 17:53
+gulbrandsen,,Gulbrandsen,,1,,5/24/2024 17:53
+gulbranson,,Gulbranson,,1,,5/24/2024 17:53
+guldbrandsen,,Guldbrandsen,,1,,5/24/2024 17:53
+gulliksen,,Gulliksen,,1,,5/24/2024 17:53
+gundersen,,Gundersen,,1,,5/24/2024 17:53
+gunderson,,Gunderson,,1,,5/24/2024 17:53
+gunnarsdóttir,,Gunnarsdóttir,,1,,5/24/2024 17:53
+gunnarsen,,Gunnarsen,,1,,5/24/2024 17:53
+gunnarsson,,Gunnarsson,,1,,5/24/2024 17:53
+gunnlaugsson,,Gunnlaugsson,,1,,5/24/2024 17:53
+gunvaldsen,,Gunvaldsen,,1,,5/24/2024 17:53
+gustafson,,Gustafson,,1,,5/24/2024 17:53
+gustavsen,,Gustavsen,,1,,5/24/2024 17:53
+gustavsson,,Gustavsson,,1,,5/24/2024 17:53
+guttormsen,,Guttormsen,,1,,5/24/2024 17:53
+gyldenløve,,Gyldenløve,,1,,5/24/2024 17:53
+gylfason,,Gylfason,,1,,5/24/2024 17:53
+gyllenhaal,,Gyllenhaal,,1,,5/24/2024 17:53
+gyllenstierna,,Gyllenstierna,,1,,5/24/2024 17:53
+gylling,,Gylling,,1,,5/24/2024 17:53
+haagensen,,Haagensen,,1,,5/24/2024 17:53
+haakonsson,,Haakonsson,,1,,5/24/2024 17:53
+haaland,,Haaland,,1,,5/24/2024 17:53
+haalke,,Haalke,,1,,5/24/2024 17:53
+haanpää,,Haanpää,,1,,5/24/2024 17:53
+haapakoski,,Haapakoski,,1,,5/24/2024 17:53
+haapala,,Haapala,,1,,5/24/2024 17:53
+haapalainen,,Haapalainen,,1,,5/24/2024 17:53
+haapanen,,Haapanen,,1,,5/24/2024 17:53
+haapasalo,,Haapasalo,,1,,5/24/2024 17:53
+haapoja,,Haapoja,,1,,5/24/2024 17:53
+haarala,,Haarala,,1,,5/24/2024 17:53
+haataja,,Haataja,,1,,5/24/2024 17:53
+haavardsholm,,Haavardsholm,,1,,5/24/2024 17:53
+haavik,,Haavik,,1,,5/24/2024 17:53
+haavio,,Haavio,,1,,5/24/2024 17:53
+haavisto,,Haavisto,,1,,5/24/2024 17:53
+hækkerup,,Hækkerup,,1,,5/24/2024 17:53
+hænning,,Hænning,,1,,5/24/2024 17:53
+hæstad,,Hæstad,,1,,5/24/2024 17:53
+hætta,,Hætta,,1,,5/24/2024 17:53
+hafsteinsson,,Hafsteinsson,,1,,5/24/2024 17:53
+hafström,,Hafström,,1,,5/24/2024 17:53
+haga,,Haga,,1,,5/24/2024 17:53
+hagelin,,Hagelin,,1,,5/24/2024 17:53
+hagerstrom,,Hagerstrom,,1,,5/24/2024 17:53
+hägg,,Hägg,,1,,5/24/2024 17:53
+hägglund,,Hägglund,,1,,5/24/2024 17:53
+haglund,,Haglund,,1,,5/24/2024 17:53
+hagman,,Hagman,,1,,5/24/2024 17:53
+hagnell,,Hagnell,,1,,5/24/2024 17:53
+hagström,,Hagström,,1,,5/24/2024 17:53
+hagtvedt,,Hagtvedt,,1,,5/24/2024 17:53
+håheim,,Håheim,,1,,5/24/2024 17:53
+hakala,,Hakala,,1,,5/24/2024 17:53
+hakanen,,Hakanen,,1,,5/24/2024 17:53
+hakanpää,,Hakanpää,,1,,5/24/2024 17:53
+håkansson,,Håkansson,,1,,5/24/2024 17:53
+häkkänen,,Häkkänen,,1,,5/24/2024 17:53
+hakkarainen,,Hakkarainen,,1,,5/24/2024 17:53
+häkkinen,,Häkkinen,,1,,5/24/2024 17:53
+hakola,,Hakola,,1,,5/24/2024 17:53
+hakulinen,,Hakulinen,,1,,5/24/2024 17:53
+haldorsen,,Haldorsen,,1,,5/24/2024 17:53
+hall,,Hall,,1,,5/24/2024 17:53
+hallamaa,,Hallamaa,,1,,5/24/2024 17:53
+hallberg,,Hallberg,,1,,5/24/2024 17:53
+halldórsdóttir,,Halldórsdóttir,,1,,5/24/2024 17:53
+halldórsson,,Halldórsson,,1,,5/24/2024 17:53
+hallgren,,Hallgren,,1,,5/24/2024 17:53
+hallgrímsson,,Hallgrímsson,,1,,5/24/2024 17:53
+hallikainen,,Hallikainen,,1,,5/24/2024 17:53
+hallman,,Hallman,,1,,5/24/2024 17:53
+hallnäs,,Hallnäs,,1,,5/24/2024 17:53
+hallsten,,Hallsten,,1,,5/24/2024 17:53
+hallström,,Hallström,,1,,5/24/2024 17:53
+halme,,Halme,,1,,5/24/2024 17:53
+halonen,,Halonen,,1,,5/24/2024 17:53
+halttunen,,Halttunen,,1,,5/24/2024 17:53
+halvari,,Halvari,,1,,5/24/2024 17:53
+halvarsson,,Halvarsson,,1,,5/24/2024 17:53
+hämäläinen,,Hämäläinen,,1,,5/24/2024 17:53
+hambro,,Hambro,,1,,5/24/2024 17:53
+hämeen,,Hämeen,,1,,5/24/2024 17:53
+hammar,,Hammar,,1,,5/24/2024 17:53
+hammarberg,,Hammarberg,,1,,5/24/2024 17:53
+hammargren,,Hammargren,,1,,5/24/2024 17:53
+hammarlund,,Hammarlund,,1,,5/24/2024 17:53
+hammarström,,Hammarström,,1,,5/24/2024 17:53
+hammershaimb,,Hammershaimb,,1,,5/24/2024 17:53
+handegard,,Handegard,,1,,5/24/2024 17:53
+hanevold,,Hanevold,,1,,5/24/2024 17:53
+hangeland,,Hangeland,,1,,5/24/2024 17:53
+hannesson,,Hannesson,,1,,5/24/2024 17:53
+hannibalsson,,Hannibalsson,,1,,5/24/2024 17:53
+hannikainen,,Hannikainen,,1,,5/24/2024 17:53
+hänninen,,Hänninen,,1,,5/24/2024 17:53
+hannola,,Hannola,,1,,5/24/2024 17:53
+hannula,,Hannula,,1,,5/24/2024 17:53
+hansdotter,,Hansdotter,,1,,5/24/2024 17:53
+hanski,,Hanski,,1,,5/24/2024 17:53
+hanssen,,Hanssen,,1,,5/24/2024 17:53
+hanstveit,,Hanstveit,,1,,5/24/2024 17:53
+happonen,,Happonen,,1,,5/24/2024 17:53
+haraldsdóttir,,Haraldsdóttir,,1,,5/24/2024 17:53
+haraldsen,,Haraldsen,,1,,5/24/2024 17:53
+haraldseth,,Haraldseth,,1,,5/24/2024 17:53
+haraldsson,,Haraldsson,,1,,5/24/2024 17:53
+haraldstad,,Haraldstad,,1,,5/24/2024 17:53
+hardardóttir,,Hardardóttir,,1,,5/24/2024 17:53
+hardarson,,Hardarson,,1,,5/24/2024 17:53
+hareide,,Hareide,,1,,5/24/2024 17:53
+harjanne,,Harjanne,,1,,5/24/2024 17:53
+harju,,Harju,,1,,5/24/2024 17:53
+harjula,,Harjula,,1,,5/24/2024 17:53
+harkimo,,Harkimo,,1,,5/24/2024 17:53
+härkönen,,Härkönen,,1,,5/24/2024 17:53
+harmaajärvi,,Harmaajärvi,,1,,5/24/2024 17:53
+haroldson,,Haroldson,,1,,5/24/2024 17:53
+harry,,Harry,,1,,5/24/2024 17:53
+hart,,Hart,,1,,5/24/2024 17:53
+hartikainen,,Hartikainen,,1,,5/24/2024 17:53
+hartman,,Hartman,,1,,5/24/2024 17:53
+hartonen,,Hartonen,,1,,5/24/2024 17:53
+hartvig,,Hartvig,,1,,5/24/2024 17:53
+haslund,,Haslund,,1,,5/24/2024 17:53
+hassel,,Hassel,,1,,5/24/2024 17:53
+hasselgren,,Hasselgren,,1,,5/24/2024 17:53
+hassi,,Hassi,,1,,5/24/2024 17:53
+hassing,,Hassing,,1,,5/24/2024 17:53
+hastrup,,Hastrup,,1,,5/24/2024 17:53
+hasund,,Hasund,,1,,5/24/2024 17:53
+hatakka,,Hatakka,,1,,5/24/2024 17:53
+hattestad,,Hattestad,,1,,5/24/2024 17:53
+hátun,,Hátun,,1,,5/24/2024 17:53
+haugaard,,Haugaard,,1,,5/24/2024 17:53
+haugan,,Haugan,,1,,5/24/2024 17:53
+hauge,,Hauge,,1,,5/24/2024 17:53
+hauger,,Hauger,,1,,5/24/2024 17:53
+haugerud,,Haugerud,,1,,5/24/2024 17:53
+haugland,,Haugland,,1,,5/24/2024 17:53
+haugli,,Haugli,,1,,5/24/2024 17:53
+haugsgjerd,,Haugsgjerd,,1,,5/24/2024 17:53
+haugsrud,,Haugsrud,,1,,5/24/2024 17:53
+haugstad,,Haugstad,,1,,5/24/2024 17:53
+haugstvedt,,Haugstvedt,,1,,5/24/2024 17:53
+haukland,,Haukland,,1,,5/24/2024 17:53
+hauksdóttir,,Hauksdóttir,,1,,5/24/2024 17:53
+hauksson,,Hauksson,,1,,5/24/2024 17:53
+haukvik,,Haukvik,,1,,5/24/2024 17:53
+hautala,,Hautala,,1,,5/24/2024 17:53
+hautamäki,,Hautamäki,,1,,5/24/2024 17:53
+haverinen,,Haverinen,,1,,5/24/2024 17:53
+havrevold,,Havrevold,,1,,5/24/2024 17:53
+havulinna,,Havulinna,,1,,5/24/2024 17:53
+hawken,,Hawken,,1,,5/24/2024 17:53
+hedberg,,Hedberg,,1,,5/24/2024 17:53
+hedengård,,Hedengård,,1,,5/24/2024 17:53
+hedin,,Hedin,,1,,5/24/2024 17:53
+hedlund,,Hedlund,,1,,5/24/2024 17:53
+hedman,,Hedman,,1,,5/24/2024 17:53
+hedqvist,,Hedqvist,,1,,5/24/2024 17:53
+hedstrom,,Hedstrom,,1,,5/24/2024 17:53
+heffermehl,,Heffermehl,,1,,5/24/2024 17:53
+hegdal,,Hegdal,,1,,5/24/2024 17:53
+hegerberg,,Hegerberg,,1,,5/24/2024 17:53
+hegge,,Hegge,,1,,5/24/2024 17:53
+hegh,,Hegh,,1,,5/24/2024 17:53
+heiberg,,Heiberg,,1,,5/24/2024 17:53
+heidenstam,,Heidenstam,,1,,5/24/2024 17:53
+heikinheimo,,Heikinheimo,,1,,5/24/2024 17:53
+heikka,,Heikka,,1,,5/24/2024 17:53
+heikki,,Heikki,,1,,5/24/2024 17:53
+heikkilä,,Heikkilä,,1,,5/24/2024 17:53
+heikkinen,,Heikkinen,,1,,5/24/2024 17:53
+heilmann,,Heilmann,,1,,5/24/2024 17:53
+heimisson,,Heimisson,,1,,5/24/2024 17:53
+heimonen,,Heimonen,,1,,5/24/2024 17:53
+hein,,Hein,,1,,5/24/2024 17:53
+heinäluoma,,Heinäluoma,,1,,5/24/2024 17:53
+heinesen,,Heinesen,,1,,5/24/2024 17:53
+heininen,,Heininen,,1,,5/24/2024 17:53
+heino,,Heino,,1,,5/24/2024 17:53
+heinonen,,Heinonen,,1,,5/24/2024 17:53
+heiskanen,,Heiskanen,,1,,5/24/2024 17:53
+hejlsberg,,Hejlsberg,,1,,5/24/2024 17:53
+helgadóttir,,Helgadóttir,,1,,5/24/2024 17:53
+helgason,,Helgason,,1,,5/24/2024 17:53
+helgeland,,Helgeland,,1,,5/24/2024 17:53
+helgemo,,Helgemo,,1,,5/24/2024 17:53
+helgerson,,Helgerson,,1,,5/24/2024 17:53
+helgerud,,Helgerud,,1,,5/24/2024 17:53
+helgesen,,Helgesen,,1,,5/24/2024 17:53
+helgesson,,Helgesson,,1,,5/24/2024 17:53
+helland,,Helland,,1,,5/24/2024 17:53
+hellberg,,Hellberg,,1,,5/24/2024 17:53
+helle,,Helle,,1,,5/24/2024 17:53
+hellebust,,Hellebust,,1,,5/24/2024 17:53
+hellgren,,Hellgren,,1,,5/24/2024 17:53
+helliesen,,Helliesen,,1,,5/24/2024 17:53
+hellquist,,Hellquist,,1,,5/24/2024 17:53
+hellqvist,,Hellqvist,,1,,5/24/2024 17:53
+hellstedt,,Hellstedt,,1,,5/24/2024 17:53
+hellsten,,Hellsten,,1,,5/24/2024 17:53
+hellström,,Hellström,,1,,5/24/2024 17:53
+helminen,,Helminen,,1,,5/24/2024 17:53
+helseth,,Helseth,,1,,5/24/2024 17:53
+hemmestveit,,Hemmestveit,,1,,5/24/2024 17:53
+hemmingsen,,Hemmingsen,,1,,5/24/2024 17:53
+henningsen,,Henningsen,,1,,5/24/2024 17:53
+henningsmoen,,Henningsmoen,,1,,5/24/2024 17:53
+henningsson,,Henningsson,,1,,5/24/2024 17:53
+henriksen,,Henriksen,,1,,5/24/2024 17:53
+henriksson,,Henriksson,,1,,5/24/2024 17:53
+henttala,,Henttala,,1,,5/24/2024 17:53
+herbertson,,Herbertson,,1,,5/24/2024 17:53
+herbertsson,,Herbertsson,,1,,5/24/2024 17:53
+herbjørnsrud,,Herbjørnsrud,,1,,5/24/2024 17:53
+herlitz,,Herlitz,,1,,5/24/2024 17:53
+herlovsen,,Herlovsen,,1,,5/24/2024 17:53
+hermannsson,,Hermannsson,,1,,5/24/2024 17:53
+hermansen,,Hermansen,,1,,5/24/2024 17:53
+hermansson,,Hermansson,,1,,5/24/2024 17:53
+hernesniemi,,Hernesniemi,,1,,5/24/2024 17:53
+herranen,,Herranen,,1,,5/24/2024 17:53
+hertel,,Hertel,,1,,5/24/2024 17:53
+hervardr,,Hervardr,,1,,5/24/2024 17:53
+herzsprung,,Herzsprung,,1,,5/24/2024 17:53
+hestenes,,Hestenes,,1,,5/24/2024 17:53
+hestetun,,Hestetun,,1,,5/24/2024 17:53
+hestnes,,Hestnes,,1,,5/24/2024 17:53
+heurlin,,Heurlin,,1,,5/24/2024 17:53
+heyerdahl,,Heyerdahl,,1,,5/24/2024 17:53
+hietala,,Hietala,,1,,5/24/2024 17:53
+hietalahti,,Hietalahti,,1,,5/24/2024 17:53
+hietanen,,Hietanen,,1,,5/24/2024 17:53
+hiidenheimo,,Hiidenheimo,,1,,5/24/2024 17:53
+hildebrand,,Hildebrand,,1,,5/24/2024 17:53
+hildrum,,Hildrum,,1,,5/24/2024 17:53
+hilmarsson,,Hilmarsson,,1,,5/24/2024 17:53
+hiltunen,,Hiltunen,,1,,5/24/2024 17:53
+himanen,,Himanen,,1,,5/24/2024 17:53
+hiorth,,Hiorth,,1,,5/24/2024 17:53
+hirdman,,Hirdman,,1,,5/24/2024 17:53
+hirvisaari,,Hirvisaari,,1,,5/24/2024 17:53
+hirvonen,,Hirvonen,,1,,5/24/2024 17:53
+hivju,,Hivju,,1,,5/24/2024 17:53
+hjalmarsson,,Hjalmarsson,,1,,5/24/2024 17:53
+hjartarson,,Hjartarson,,1,,5/24/2024 17:53
+hjelde,,Hjelde,,1,,5/24/2024 17:53
+hjeltnes,,Hjeltnes,,1,,5/24/2024 17:53
+hjermann,,Hjermann,,1,,5/24/2024 17:53
+hjertenes,,Hjertenes,,1,,5/24/2024 17:53
+hjertsson,,Hjertsson,,1,,5/24/2024 17:53
+hjort,,Hjort,,1,,5/24/2024 17:53
+hjortsberg,,Hjortsberg,,1,,5/24/2024 17:53
+hjortshøj,,Hjortshøj,,1,,5/24/2024 17:53
+hjulström,,Hjulström,,1,,5/24/2024 17:53
+hodne,,Hodne,,1,,5/24/2024 17:53
+hødnebø,,Hødnebø,,1,,5/24/2024 17:53
+hoen,,Hoen,,1,,5/24/2024 17:53
+høffding,,Høffding,,1,,5/24/2024 17:53
+hoffstad,,Hoffstad,,1,,5/24/2024 17:53
+hofgaard,,Hofgaard,,1,,5/24/2024 17:53
+hofmo,,Hofmo,,1,,5/24/2024 17:53
+högberg,,Högberg,,1,,5/24/2024 17:53
+höglund,,Höglund,,1,,5/24/2024 17:53
+høgnesen,,Høgnesen,,1,,5/24/2024 17:53
+høi,,Høi,,1,,5/24/2024 17:53
+høie,,Høie,,1,,5/24/2024 17:53
+høiland,,Høiland,,1,,5/24/2024 17:53
+højgaard,,Højgaard,,1,,5/24/2024 17:53
+hokkanen,,Hokkanen,,1,,5/24/2024 17:53
+hølaas,,Hølaas,,1,,5/24/2024 17:53
+holappa,,Holappa,,1,,5/24/2024 17:53
+holdremyr,,Holdremyr,,1,,5/24/2024 17:53
+holgersen,,Holgersen,,1,,5/24/2024 17:53
+holgersson,,Holgersson,,1,,5/24/2024 17:53
+hollo,,Hollo,,1,,5/24/2024 17:53
+holm,,Holm,,1,,5/24/2024 17:53
+holmås,,Holmås,,1,,5/24/2024 17:53
+holmberg,,Holmberg,,1,,5/24/2024 17:53
+holmdahl,,Holmdahl,,1,,5/24/2024 17:53
+holmgren,,Holmgren,,1,,5/24/2024 17:53
+holmlund,,Holmlund,,1,,5/24/2024 17:53
+holmquist,,Holmquist,,1,,5/24/2024 17:53
+holmqvist,,Holmqvist,,1,,5/24/2024 17:53
+holmsen,,Holmsen,,1,,5/24/2024 17:53
+holmström,,Holmström,,1,,5/24/2024 17:53
+holopainen,,Holopainen,,1,,5/24/2024 17:53
+holst,,Holst,,1,,5/24/2024 17:53
+holstein,,Holstein,,1,,5/24/2024 17:53
+holt,,Holt,,1,,5/24/2024 17:53
+holte,,Holte,,1,,5/24/2024 17:53
+hom,,Hom,,1,,5/24/2024 17:53
+honkala,,Honkala,,1,,5/24/2024 17:53
+honkanen,,Honkanen,,1,,5/24/2024 17:53
+honkasalo,,Honkasalo,,1,,5/24/2024 17:53
+honko,,Honko,,1,,5/24/2024 17:53
+honkonen,,Honkonen,,1,,5/24/2024 17:53
+horn,,Horn,,1,,5/24/2024 17:53
+hoskonen,,Hoskonen,,1,,5/24/2024 17:53
+hougaard,,Hougaard,,1,,5/24/2024 17:53
+hovdenak,,Hovdenak,,1,,5/24/2024 17:53
+hovig,,Hovig,,1,,5/24/2024 17:53
+hovind,,Hovind,,1,,5/24/2024 17:53
+hovinen,,Hovinen,,1,,5/24/2024 17:53
+hovland,,Hovland,,1,,5/24/2024 17:53
+høy,,Høy,,1,,5/24/2024 17:53
+hoydal,,Hoydal,,1,,5/24/2024 17:53
+hrafnsson,,Hrafnsson,,1,,5/24/2024 17:53
+hugosson,,Hugosson,,1,,5/24/2024 17:53
+huhtala,,Huhtala,,1,,5/24/2024 17:53
+huhtamo,,Huhtamo,,1,,5/24/2024 17:53
+huhtanen,,Huhtanen,,1,,5/24/2024 17:53
+huitfeldt,,Huitfeldt,,1,,5/24/2024 17:53
+hulbækmo,,Hulbækmo,,1,,5/24/2024 17:53
+huldahl,,Huldahl,,1,,5/24/2024 17:53
+hulkkonen,,Hulkkonen,,1,,5/24/2024 17:53
+hult,,Hult,,1,,5/24/2024 17:53
+hultén,,Hultén,,1,,5/24/2024 17:53
+hultgren,,Hultgren,,1,,5/24/2024 17:53
+hultin,,Hultin,,1,,5/24/2024 17:53
+hultman,,Hultman,,1,,5/24/2024 17:53
+hundstad,,Hundstad,,1,,5/24/2024 17:53
+huotari,,Huotari,,1,,5/24/2024 17:53
+huovinen,,Huovinen,,1,,5/24/2024 17:53
+hurme,,Hurme,,1,,5/24/2024 17:53
+hurmerinta,,Hurmerinta,,1,,5/24/2024 17:53
+hursti,,Hursti,,1,,5/24/2024 17:53
+hurtig,,Hurtig,,1,,5/24/2024 17:53
+huseklepp,,Huseklepp,,1,,5/24/2024 17:53
+hustad,,Hustad,,1,,5/24/2024 17:53
+huttunen,,Huttunen,,1,,5/24/2024 17:53
+huuhtanen,,Huuhtanen,,1,,5/24/2024 17:53
+huusko,,Huusko,,1,,5/24/2024 17:53
+huuskonen,,Huuskonen,,1,,5/24/2024 17:53
+hvammen,,Hvammen,,1,,5/24/2024 17:53
+hveding,,Hveding,,1,,5/24/2024 17:53
+hvidt,,Hvidt,,1,,5/24/2024 17:53
+hviid,,Hviid,,1,,5/24/2024 17:53
+hwasser,,Hwasser,,1,,5/24/2024 17:53
+hylander,,Hylander,,1,,5/24/2024 17:53
+hyldgaard,,Hyldgaard,,1,,5/24/2024 17:53
+hyllested,,Hyllested,,1,,5/24/2024 17:53
+hynninen,,Hynninen,,1,,5/24/2024 17:53
+hynynen,,Hynynen,,1,,5/24/2024 17:53
+hyökki,,Hyökki,,1,,5/24/2024 17:53
+hyppönen,,Hyppönen,,1,,5/24/2024 17:53
+hysén,,Hysén,,1,,5/24/2024 17:53
+hytönen,,Hytönen,,1,,5/24/2024 17:53
+hytta,,Hytta,,1,,5/24/2024 17:53
+hyvärinen,,Hyvärinen,,1,,5/24/2024 17:53
+hyvönen,,Hyvönen,,1,,5/24/2024 17:53
+hyypiä,,Hyypiä,,1,,5/24/2024 17:53
+hyyrynen,,Hyyrynen,,1,,5/24/2024 17:53
+hyytiä,,Hyytiä,,1,,5/24/2024 17:53
+hyytiäinen,,Hyytiäinen,,1,,5/24/2024 17:53
+ibsen,,Ibsen,,1,,5/24/2024 17:53
+idland,,Idland,,1,,5/24/2024 17:53
+igelström,,Igelström,,1,,5/24/2024 17:53
+ignatiussen,,Ignatiussen,,1,,5/24/2024 17:53
+ihalainen,,Ihalainen,,1,,5/24/2024 17:53
+ihamuotila,,Ihamuotila,,1,,5/24/2024 17:53
+ihlebæk,,Ihlebæk,,1,,5/24/2024 17:53
+iivari,,Iivari,,1,,5/24/2024 17:53
+iivonen,,Iivonen,,1,,5/24/2024 17:53
+ijäs,,Ijäs,,1,,5/24/2024 17:53
+ikäläinen,,Ikäläinen,,1,,5/24/2024 17:53
+ikävalko,,Ikävalko,,1,,5/24/2024 17:53
+ikonen,,Ikonen,,1,,5/24/2024 17:53
+ilmonen,,Ilmonen,,1,,5/24/2024 17:53
+ilsø,,Ilsø,,1,,5/24/2024 17:53
+ilves,,Ilves,,1,,5/24/2024 17:53
+ilvonen,,Ilvonen,,1,,5/24/2024 17:53
+immonen,,Immonen,,1,,5/24/2024 17:53
+impiö,,Impiö,,1,,5/24/2024 17:53
+ims,,Ims,,1,,5/24/2024 17:53
+ingadóttir,,Ingadóttir,,1,,5/24/2024 17:53
+ingebretsen,,Ingebretsen,,1,,5/24/2024 17:53
+ingelow,,Ingelow,,1,,5/24/2024 17:53
+ingesson,,Ingesson,,1,,5/24/2024 17:53
+ingólfsdóttir,,Ingólfsdóttir,,1,,5/24/2024 17:53
+ingólfsson,,Ingólfsson,,1,,5/24/2024 17:53
+ingvardsson,,Ingvardsson,,1,,5/24/2024 17:53
+ipsen,,Ipsen,,1,,5/24/2024 17:53
+irgens,,Irgens,,1,,5/24/2024 17:53
+irvoll,,Irvoll,,1,,5/24/2024 17:53
+isaksen,,Isaksen,,1,,5/24/2024 17:53
+isaksson,,Isaksson,,1,,5/24/2024 17:53
+isberg,,Isberg,,1,,5/24/2024 17:53
+ísleifsson,,Ísleifsson,,1,,5/24/2024 17:53
+isomäki,,Isomäki,,1,,5/24/2024 17:53
+isotalo,,Isotalo,,1,,5/24/2024 17:53
+israelsson,,Israelsson,,1,,5/24/2024 17:53
+itkonen,,Itkonen,,1,,5/24/2024 17:53
+ivars,,Ivars,,1,,5/24/2024 17:53
+ivarsson,,Ivarsson,,1,,5/24/2024 17:53
+iversen,,Iversen,,1,,5/24/2024 17:53
+jaakkola,,Jaakkola,,1,,5/24/2024 17:53
+jaakola,,Jaakola,,1,,5/24/2024 17:53
+jääskeläinen,,Jääskeläinen,,1,,5/24/2024 17:53
+jaatinen,,Jaatinen,,1,,5/24/2024 17:53
+jacobson,,Jacobson,,1,,5/24/2024 17:53
+jacobsson,,Jacobsson,,1,,5/24/2024 17:53
+jäderholm,,Jäderholm,,1,,5/24/2024 17:53
+jælker,,Jælker,,1,,5/24/2024 17:53
+jakhelln,,Jakhelln,,1,,5/24/2024 17:53
+jakobsen,,Jakobsen,,1,,5/24/2024 17:53
+jákupsson,,Jákupsson,,1,,5/24/2024 17:53
+jalas,,Jalas,,1,,5/24/2024 17:53
+jalava,,Jalava,,1,,5/24/2024 17:53
+jalkanen,,Jalkanen,,1,,5/24/2024 17:53
+jalo,,Jalo,,1,,5/24/2024 17:53
+jalonen,,Jalonen,,1,,5/24/2024 17:53
+janhonen,,Janhonen,,1,,5/24/2024 17:53
+janhunen,,Janhunen,,1,,5/24/2024 17:53
+jansen,,Jansen,,1,,5/24/2024 17:53
+janson,,Janson,,1,,5/24/2024 17:53
+jansrud,,Jansrud,,1,,5/24/2024 17:53
+jantunen,,Jantunen,,1,,5/24/2024 17:53
+jarlskog,,Jarlskog,,1,,5/24/2024 17:53
+järnefelt,,Järnefelt,,1,,5/24/2024 17:53
+järvelä,,Järvelä,,1,,5/24/2024 17:53
+järveläinen,,Järveläinen,,1,,5/24/2024 17:53
+järvenpää,,Järvenpää,,1,,5/24/2024 17:53
+järvi,,Järvi,,1,,5/24/2024 17:53
+järvinen,,Järvinen,,1,,5/24/2024 17:53
+jaskari,,Jaskari,,1,,5/24/2024 17:53
+jensdatter,,Jensdatter,,1,,5/24/2024 17:53
+jenson,,Jenson,,1,,5/24/2024 17:53
+jenssen,,Jenssen,,1,,5/24/2024 17:53
+jensson,,Jensson,,1,,5/24/2024 17:53
+jeppesen,,Jeppesen,,1,,5/24/2024 17:53
+jepsen,,Jepsen,,1,,5/24/2024 17:53
+jeremiassen,,Jeremiassen,,1,,5/24/2024 17:53
+jernberg,,Jernberg,,1,,5/24/2024 17:53
+jernstedt,,Jernstedt,,1,,5/24/2024 17:53
+jespersen,,Jespersen,,1,,5/24/2024 17:53
+jessen,,Jessen,,1,,5/24/2024 17:53
+jillker,,Jillker,,1,,5/24/2024 17:53
+jochnick,,Jochnick,,1,,5/24/2024 17:53
+jochumsen,,Jochumsen,,1,,5/24/2024 17:53
+joensen,,Joensen,,1,,5/24/2024 17:53
+joensuu,,Joensuu,,1,,5/24/2024 17:53
+johannesson,,Johannesson,,1,,5/24/2024 17:53
+jóhannsson,,Jóhannsson,,1,,5/24/2024 17:53
+jóhansen,,Jóhansen,,1,,5/24/2024 17:53
+johnsrud,,Johnsrud,,1,,5/24/2024 17:53
+johnsson,,Johnsson,,1,,5/24/2024 17:53
+jokela,,Jokela,,1,,5/24/2024 17:53
+jokelainen,,Jokelainen,,1,,5/24/2024 17:53
+jokila,,Jokila,,1,,5/24/2024 17:53
+jokinen,,Jokinen,,1,,5/24/2024 17:53
+joks,,Joks,,1,,5/24/2024 17:53
+jokumsen,,Jokumsen,,1,,5/24/2024 17:53
+jonasen,,Jonasen,,1,,5/24/2024 17:53
+jonasson,,Jonasson,,1,,5/24/2024 17:53
+jónsdóttir,,Jónsdóttir,,1,,5/24/2024 17:53
+jonsmoen,,Jonsmoen,,1,,5/24/2024 17:53
+jónsson,,Jónsson,,1,,5/24/2024 17:53
+jorgensen,,Jorgensen,,1,,5/24/2024 17:53
+josefsen,,Josefsen,,1,,5/24/2024 17:53
+josefsson,,Josefsson,,1,,5/24/2024 17:53
+joutsen,,Joutsen,,1,,5/24/2024 17:53
+joux,,Joux,,1,,5/24/2024 17:53
+juhlin,,Juhlin,,1,,5/24/2024 17:53
+juhola,,Juhola,,1,,5/24/2024 17:53
+juliussen,,Juliussen,,1,,5/24/2024 17:53
+junnila,,Junnila,,1,,5/24/2024 17:53
+junttila,,Junttila,,1,,5/24/2024 17:53
+juntunen,,Juntunen,,1,,5/24/2024 17:53
+jurgensen,,Jurgensen,,1,,5/24/2024 17:53
+jurkka,,Jurkka,,1,,5/24/2024 17:53
+jussila,,Jussila,,1,,5/24/2024 17:53
+justad,,Justad,,1,,5/24/2024 17:53
+justinussen,,Justinussen,,1,,5/24/2024 17:53
+justum,,Justum,,1,,5/24/2024 17:53
+jutila,,Jutila,,1,,5/24/2024 17:53
+juurikkala,,Juurikkala,,1,,5/24/2024 17:53
+juuso,,Juuso,,1,,5/24/2024 17:53
+juutilainen,,Juutilainen,,1,,5/24/2024 17:53
+juva,,Juva,,1,,5/24/2024 17:53
+juvonen,,Juvonen,,1,,5/24/2024 17:53
+kaarbø,,Kaarbø,,1,,5/24/2024 17:53
+kaas,,Kaas,,1,,5/24/2024 17:53
+kaasa,,Kaasa,,1,,5/24/2024 17:53
+kaasalainen,,Kaasalainen,,1,,5/24/2024 17:53
+kähkönen,,Kähkönen,,1,,5/24/2024 17:53
+kaijomaa,,Kaijomaa,,1,,5/24/2024 17:53
+kaila,,Kaila,,1,,5/24/2024 17:53
+kailajärvi,,Kailajärvi,,1,,5/24/2024 17:53
+kainulainen,,Kainulainen,,1,,5/24/2024 17:53
+kaipainen,,Kaipainen,,1,,5/24/2024 17:53
+kairamo,,Kairamo,,1,,5/24/2024 17:53
+kajava,,Kajava,,1,,5/24/2024 17:53
+kakko,,Kakko,,1,,5/24/2024 17:53
+kaldhol,,Kaldhol,,1,,5/24/2024 17:53
+kallela,,Kallela,,1,,5/24/2024 17:53
+kalliala,,Kalliala,,1,,5/24/2024 17:53
+kallio,,Kallio,,1,,5/24/2024 17:53
+kalliomäki,,Kalliomäki,,1,,5/24/2024 17:53
+källström,,Källström,,1,,5/24/2024 17:53
+kamban,,Kamban,,1,,5/24/2024 17:53
+kamprad,,Kamprad,,1,,5/24/2024 17:53
+kananen,,Kananen,,1,,5/24/2024 17:53
+kanerva,,Kanerva,,1,,5/24/2024 17:53
+kanervo,,Kanervo,,1,,5/24/2024 17:53
+kangas,,Kangas,,1,,5/24/2024 17:53
+kangaskorpi,,Kangaskorpi,,1,,5/24/2024 17:53
+kangasmäki,,Kangasmäki,,1,,5/24/2024 17:53
+kangasniemi,,Kangasniemi,,1,,5/24/2024 17:53
+kankaanranta,,Kankaanranta,,1,,5/24/2024 17:53
+kankkonen,,Kankkonen,,1,,5/24/2024 17:53
+kankkunen,,Kankkunen,,1,,5/24/2024 17:53
+kanniainen,,Kanniainen,,1,,5/24/2024 17:53
+kansikas,,Kansikas,,1,,5/24/2024 17:53
+kant,,Kant,,1,,5/24/2024 17:53
+kantee,,Kantee,,1,,5/24/2024 17:53
+kapanen,,Kapanen,,1,,5/24/2024 17:53
+kapstad,,Kapstad,,1,,5/24/2024 17:53
+kare,,Kare,,1,,5/24/2024 17:53
+karhu,,Karhu,,1,,5/24/2024 17:53
+karhunen,,Karhunen,,1,,5/24/2024 17:53
+kari,,Kari,,1,,5/24/2024 17:53
+karjalainen,,Karjalainen,,1,,5/24/2024 17:53
+kärkinen,,Kärkinen,,1,,5/24/2024 17:53
+kärkkäinen,,Kärkkäinen,,1,,5/24/2024 17:53
+karlen,,Karlen,,1,,5/24/2024 17:53
+karlsbakk,,Karlsbakk,,1,,5/24/2024 17:53
+karlsdotter,,Karlsdotter,,1,,5/24/2024 17:53
+karlsdóttir,,Karlsdóttir,,1,,5/24/2024 17:53
+karlström,,Karlström,,1,,5/24/2024 17:53
+kärnä,,Kärnä,,1,,5/24/2024 17:53
+karppinen,,Karppinen,,1,,5/24/2024 17:53
+karr,,Karr,,1,,5/24/2024 17:53
+karstensen,,Karstensen,,1,,5/24/2024 17:53
+karttunen,,Karttunen,,1,,5/24/2024 17:53
+karvinen,,Karvinen,,1,,5/24/2024 17:53
+karvonen,,Karvonen,,1,,5/24/2024 17:53
+kaski,,Kaski,,1,,5/24/2024 17:53
+kaspersen,,Kaspersen,,1,,5/24/2024 17:53
+katainen,,Katainen,,1,,5/24/2024 17:53
+kataja,,Kataja,,1,,5/24/2024 17:53
+katajisto,,Katajisto,,1,,5/24/2024 17:53
+kauhanen,,Kauhanen,,1,,5/24/2024 17:53
+kauppi,,Kauppi,,1,,5/24/2024 17:53
+kauppila,,Kauppila,,1,,5/24/2024 17:53
+kauppinen,,Kauppinen,,1,,5/24/2024 17:53
+kauranen,,Kauranen,,1,,5/24/2024 17:53
+kaurismäki,,Kaurismäki,,1,,5/24/2024 17:53
+kautto,,Kautto,,1,,5/24/2024 17:53
+käyhkö,,Käyhkö,,1,,5/24/2024 17:53
+keinänen,,Keinänen,,1,,5/24/2024 17:53
+keinonen,,Keinonen,,1,,5/24/2024 17:53
+kekkonen,,Kekkonen,,1,,5/24/2024 17:53
+kemppainen,,Kemppainen,,1,,5/24/2024 17:53
+kemppi,,Kemppi,,1,,5/24/2024 17:53
+keränen,,Keränen,,1,,5/24/2024 17:53
+kervinen,,Kervinen,,1,,5/24/2024 17:53
+keskinarkaus,,Keskinarkaus,,1,,5/24/2024 17:53
+keskinen,,Keskinen,,1,,5/24/2024 17:53
+keskisaari,,Keskisaari,,1,,5/24/2024 17:53
+keskitalo,,Keskitalo,,1,,5/24/2024 17:53
+ketelä,,Ketelä,,1,,5/24/2024 17:53
+ketola,,Ketola,,1,,5/24/2024 17:53
+ketonen,,Ketonen,,1,,5/24/2024 17:53
+kettunen,,Kettunen,,1,,5/24/2024 17:53
+kiærskou,,Kiærskou,,1,,5/24/2024 17:53
+kibsgaard,,Kibsgaard,,1,,5/24/2024 17:53
+kielberg,,Kielberg,,1,,5/24/2024 17:53
+kielland,,Kielland,,1,,5/24/2024 17:53
+kierkegaard,,Kierkegaard,,1,,5/24/2024 17:53
+kihle,,Kihle,,1,,5/24/2024 17:53
+kiiskinen,,Kiiskinen,,1,,5/24/2024 17:53
+kiljunen,,Kiljunen,,1,,5/24/2024 17:53
+kilpeläinen,,Kilpeläinen,,1,,5/24/2024 17:53
+kilpi,,Kilpi,,1,,5/24/2024 17:53
+kilpinen,,Kilpinen,,1,,5/24/2024 17:53
+kinberg,,Kinberg,,1,,5/24/2024 17:53
+kinnunen,,Kinnunen,,1,,5/24/2024 17:53
+kiprusoff,,Kiprusoff,,1,,5/24/2024 17:53
+kirkebjerg,,Kirkebjerg,,1,,5/24/2024 17:53
+kirkemo,,Kirkemo,,1,,5/24/2024 17:53
+kirvesniemi,,Kirvesniemi,,1,,5/24/2024 17:53
+kiuru,,Kiuru,,1,,5/24/2024 17:53
+kivelä,,Kivelä,,1,,5/24/2024 17:53
+kivi,,Kivi,,1,,5/24/2024 17:53
+kivijärvi,,Kivijärvi,,1,,5/24/2024 17:53
+kivimäki,,Kivimäki,,1,,5/24/2024 17:53
+kivinen,,Kivinen,,1,,5/24/2024 17:53
+kjaer,,Kjaer,,1,,5/24/2024 17:53
+kjærgaard,,Kjærgaard,,1,,5/24/2024 17:53
+kjeldgaard,,Kjeldgaard,,1,,5/24/2024 17:53
+kjeldsen,,Kjeldsen,,1,,5/24/2024 17:53
+kjeldstadli,,Kjeldstadli,,1,,5/24/2024 17:53
+kjellsby,,Kjellsby,,1,,5/24/2024 17:53
+kjellsson,,Kjellsson,,1,,5/24/2024 17:53
+kjellström,,Kjellström,,1,,5/24/2024 17:53
+kjer,,Kjer,,1,,5/24/2024 17:53
+kjersem,,Kjersem,,1,,5/24/2024 17:53
+kjerulf,,Kjerulf,,1,,5/24/2024 17:53
+kjølaas,,Kjølaas,,1,,5/24/2024 17:53
+kjus,,Kjus,,1,,5/24/2024 17:53
+klæbo,,Klæbo,,1,,5/24/2024 17:53
+klakegg,,Klakegg,,1,,5/24/2024 17:53
+klasson,,Klasson,,1,,5/24/2024 17:53
+klausen,,Klausen,,1,,5/24/2024 17:53
+klaveness,,Klaveness,,1,,5/24/2024 17:53
+kleist,,Kleist,,1,,5/24/2024 17:53
+kleiva,,Kleiva,,1,,5/24/2024 17:53
+klemelä,,Klemelä,,1,,5/24/2024 17:53
+klemetsen,,Klemetsen,,1,,5/24/2024 17:53
+klemetti,,Klemetti,,1,,5/24/2024 17:53
+kleppa,,Kleppa,,1,,5/24/2024 17:53
+kleveland,,Kleveland,,1,,5/24/2024 17:53
+kling,,Kling,,1,,5/24/2024 17:53
+klingspor,,Klingspor,,1,,5/24/2024 17:53
+klintberg,,Klintberg,,1,,5/24/2024 17:53
+klitgaard,,Klitgaard,,1,,5/24/2024 17:53
+kloster,,Kloster,,1,,5/24/2024 17:53
+knape,,Knape,,1,,5/24/2024 17:53
+knudsen,,Knudsen,,1,,5/24/2024 17:53
+knutsen,,Knutsen,,1,,5/24/2024 17:53
+knutson,,Knutson,,1,,5/24/2024 17:53
+knutsson,,Knutsson,,1,,5/24/2024 17:53
+knuutila,,Knuutila,,1,,5/24/2024 17:53
+knuuttila,,Knuuttila,,1,,5/24/2024 17:53
+koht,,Koht,,1,,5/24/2024 17:53
+koiso,,Koiso,,1,,5/24/2024 17:53
+koistinen,,Koistinen,,1,,5/24/2024 17:53
+koivisto,,Koivisto,,1,,5/24/2024 17:53
+koivu,,Koivu,,1,,5/24/2024 17:53
+koivula,,Koivula,,1,,5/24/2024 17:53
+koivumäki,,Koivumäki,,1,,5/24/2024 17:53
+koivunen,,Koivunen,,1,,5/24/2024 17:53
+koivuranta,,Koivuranta,,1,,5/24/2024 17:53
+kokko,,Kokko,,1,,5/24/2024 17:53
+kokkonen,,Kokkonen,,1,,5/24/2024 17:53
+kolberg,,Kolberg,,1,,5/24/2024 17:53
+kolehmainen,,Kolehmainen,,1,,5/24/2024 17:53
+kølle,,Kølle,,1,,5/24/2024 17:53
+kollerud,,Kollerud,,1,,5/24/2024 17:53
+kolstad,,Kolstad,,1,,5/24/2024 17:53
+komonen,,Komonen,,1,,5/24/2024 17:53
+komulainen,,Komulainen,,1,,5/24/2024 17:53
+köngäs,,Köngäs,,1,,5/24/2024 17:53
+kongshaug,,Kongshaug,,1,,5/24/2024 17:53
+könönen,,Könönen,,1,,5/24/2024 17:53
+kontinen,,Kontinen,,1,,5/24/2024 17:53
+konttinen,,Konttinen,,1,,5/24/2024 17:53
+kontula,,Kontula,,1,,5/24/2024 17:53
+koponen,,Koponen,,1,,5/24/2024 17:53
+koppel,,Koppel,,1,,5/24/2024 17:53
+korhonen,,Korhonen,,1,,5/24/2024 17:53
+korjus,,Korjus,,1,,5/24/2024 17:53
+kormákur,,Kormákur,,1,,5/24/2024 17:53
+kornerup,,Kornerup,,1,,5/24/2024 17:53
+korpela,,Korpela,,1,,5/24/2024 17:53
+korpi,,Korpi,,1,,5/24/2024 17:53
+korpisalo,,Korpisalo,,1,,5/24/2024 17:53
+korsvold,,Korsvold,,1,,5/24/2024 17:53
+kortelainen,,Kortelainen,,1,,5/24/2024 17:53
+koskela,,Koskela,,1,,5/24/2024 17:53
+koskelo,,Koskelo,,1,,5/24/2024 17:53
+koskenniemi,,Koskenniemi,,1,,5/24/2024 17:53
+koski,,Koski,,1,,5/24/2024 17:53
+koskinen,,Koskinen,,1,,5/24/2024 17:53
+kosonen,,Kosonen,,1,,5/24/2024 17:53
+kosunen,,Kosunen,,1,,5/24/2024 17:53
+kotka,,Kotka,,1,,5/24/2024 17:53
+kovanen,,Kovanen,,1,,5/24/2024 17:53
+krab,,Krab,,1,,5/24/2024 17:53
+kraggerud,,Kraggerud,,1,,5/24/2024 17:53
+kråik,,Kråik,,1,,5/24/2024 17:53
+kranck,,Kranck,,1,,5/24/2024 17:53
+krarup,,Krarup,,1,,5/24/2024 17:53
+krekula,,Krekula,,1,,5/24/2024 17:53
+kreuger,,Kreuger,,1,,5/24/2024 17:53
+kreutzmann,,Kreutzmann,,1,,5/24/2024 17:53
+kringen,,Kringen,,1,,5/24/2024 17:53
+kringlebotn,,Kringlebotn,,1,,5/24/2024 17:53
+kristensson,,Kristensson,,1,,5/24/2024 17:53
+kristinsson,,Kristinsson,,1,,5/24/2024 17:53
+kristjánsson,,Kristjánsson,,1,,5/24/2024 17:53
+kristoffersen,,Kristoffersen,,1,,5/24/2024 17:53
+kristoffersson,,Kristoffersson,,1,,5/24/2024 17:53
+krogh,,Krogh,,1,,5/24/2024 17:53
+krohg,,Krohg,,1,,5/24/2024 17:53
+kroik,,Kroik,,1,,5/24/2024 17:53
+kron,,Kron,,1,,5/24/2024 17:53
+kroon,,Kroon,,1,,5/24/2024 17:53
+kruse,,Kruse,,1,,5/24/2024 17:53
+kruus,,Kruus,,1,,5/24/2024 17:53
+krysi,,Krysi,,1,,5/24/2024 17:53
+kugelberg,,Kugelberg,,1,,5/24/2024 17:53
+kuisma,,Kuisma,,1,,5/24/2024 17:53
+kuivalainen,,Kuivalainen,,1,,5/24/2024 17:53
+kujala,,Kujala,,1,,5/24/2024 17:53
+kujanpää,,Kujanpää,,1,,5/24/2024 17:53
+kukkonen,,Kukkonen,,1,,5/24/2024 17:53
+kullander,,Kullander,,1,,5/24/2024 17:53
+kulldorff,,Kulldorff,,1,,5/24/2024 17:53
+kulmala,,Kulmala,,1,,5/24/2024 17:53
+kumpulainen,,Kumpulainen,,1,,5/24/2024 17:53
+kuningas,,Kuningas,,1,,5/24/2024 17:53
+kunnas,,Kunnas,,1,,5/24/2024 17:53
+kuokka,,Kuokka,,1,,5/24/2024 17:53
+kuokkanen,,Kuokkanen,,1,,5/24/2024 17:53
+kuoppala,,Kuoppala,,1,,5/24/2024 17:53
+kuoppamäki,,Kuoppamäki,,1,,5/24/2024 17:53
+kuosmanen,,Kuosmanen,,1,,5/24/2024 17:53
+kuparinen,,Kuparinen,,1,,5/24/2024 17:53
+kupiainen,,Kupiainen,,1,,5/24/2024 17:53
+kurikkala,,Kurikkala,,1,,5/24/2024 17:53
+kurki,,Kurki,,1,,5/24/2024 17:53
+kuronen,,Kuronen,,1,,5/24/2024 17:53
+kurttila,,Kurttila,,1,,5/24/2024 17:53
+kurvinen,,Kurvinen,,1,,5/24/2024 17:53
+kuula,,Kuula,,1,,5/24/2024 17:53
+kuusela,,Kuusela,,1,,5/24/2024 17:53
+kuusi,,Kuusi,,1,,5/24/2024 17:53
+kuusinen,,Kuusinen,,1,,5/24/2024 17:53
+kuusisto,,Kuusisto,,1,,5/24/2024 17:53
+kuustonen,,Kuustonen,,1,,5/24/2024 17:53
+kuvaja,,Kuvaja,,1,,5/24/2024 17:53
+kvalø,,Kvalø,,1,,5/24/2024 17:53
+kvaran,,Kvaran,,1,,5/24/2024 17:53
+kvarme,,Kvarme,,1,,5/24/2024 17:53
+kveli,,Kveli,,1,,5/24/2024 17:53
+kvernberg,,Kvernberg,,1,,5/24/2024 17:53
+kverneland,,Kverneland,,1,,5/24/2024 17:53
+kvint,,Kvint,,1,,5/24/2024 17:53
+kyllönen,,Kyllönen,,1,,5/24/2024 17:53
+kymäläinen,,Kymäläinen,,1,,5/24/2024 17:53
+kyöstilä,,Kyöstilä,,1,,5/24/2024 17:53
+laakkonen,,Laakkonen,,1,,5/24/2024 17:53
+laakonen,,Laakonen,,1,,5/24/2024 17:53
+laakso,,Laakso,,1,,5/24/2024 17:53
+laaksonen,,Laaksonen,,1,,5/24/2024 17:53
+laamanen,,Laamanen,,1,,5/24/2024 17:53
+lager,,Lager,,1,,5/24/2024 17:53
+lagerfeld,,Lagerfeld,,1,,5/24/2024 17:53
+lagergren,,Lagergren,,1,,5/24/2024 17:53
+lagerhjelm,,Lagerhjelm,,1,,5/24/2024 17:53
+lagerkvist,,Lagerkvist,,1,,5/24/2024 17:53
+lagerlöf,,Lagerlöf,,1,,5/24/2024 17:53
+lagesen,,Lagesen,,1,,5/24/2024 17:53
+lahdenmäki,,Lahdenmäki,,1,,5/24/2024 17:53
+lahlum,,Lahlum,,1,,5/24/2024 17:53
+lähteenmäki,,Lähteenmäki,,1,,5/24/2024 17:53
+lahtela,,Lahtela,,1,,5/24/2024 17:53
+lahti,,Lahti,,1,,5/24/2024 17:53
+lahtinen,,Lahtinen,,1,,5/24/2024 17:53
+laiho,,Laiho,,1,,5/24/2024 17:53
+laine,,Laine,,1,,5/24/2024 17:53
+laitinen,,Laitinen,,1,,5/24/2024 17:53
+lakomaa,,Lakomaa,,1,,5/24/2024 17:53
+laland,,Laland,,1,,5/24/2024 17:53
+lallukka,,Lallukka,,1,,5/24/2024 17:53
+lampi,,Lampi,,1,,5/24/2024 17:53
+lampinen,,Lampinen,,1,,5/24/2024 17:53
+landa,,Landa,,1,,5/24/2024 17:53
+landberg,,Landberg,,1,,5/24/2024 17:53
+landt,,Landt,,1,,5/24/2024 17:53
+landvik,,Landvik,,1,,5/24/2024 17:53
+lang,,Lang,,1,,5/24/2024 17:53
+lång,,Lång,,1,,5/24/2024 17:53
+lange,,Lange,,1,,5/24/2024 17:53
+langfeldt,,Langfeldt,,1,,5/24/2024 17:53
+langgaard,,Langgaard,,1,,5/24/2024 17:53
+langlo,,Langlo,,1,,5/24/2024 17:53
+langslet,,Langslet,,1,,5/24/2024 17:53
+lankinen,,Lankinen,,1,,5/24/2024 17:53
+länsivuori,,Länsivuori,,1,,5/24/2024 17:53
+lantz,,Lantz,,1,,5/24/2024 17:53
+lappalainen,,Lappalainen,,1,,5/24/2024 17:53
+lappi,,Lappi,,1,,5/24/2024 17:53
+larson,,Larson,,1,,5/24/2024 17:53
+lárusson,,Lárusson,,1,,5/24/2024 17:53
+lassen,,Lassen,,1,,5/24/2024 17:53
+lassila,,Lassila,,1,,5/24/2024 17:53
+lattu,,Lattu,,1,,5/24/2024 17:53
+latvala,,Latvala,,1,,5/24/2024 17:53
+laudrup,,Laudrup,,1,,5/24/2024 17:53
+lauge,,Lauge,,1,,5/24/2024 17:53
+laukkanen,,Laukkanen,,1,,5/24/2024 17:53
+lauri,,Lauri,,1,,5/24/2024 17:53
+lauridsen,,Lauridsen,,1,,5/24/2024 17:53
+laurikainen,,Laurikainen,,1,,5/24/2024 17:53
+laurila,,Laurila,,1,,5/24/2024 17:53
+lauring,,Lauring,,1,,5/24/2024 17:53
+lauritsen,,Lauritsen,,1,,5/24/2024 17:53
+laursen,,Laursen,,1,,5/24/2024 17:53
+lavonen,,Lavonen,,1,,5/24/2024 17:53
+laxman,,Laxman,,1,,5/24/2024 17:53
+lehikoinen,,Lehikoinen,,1,,5/24/2024 17:53
+lehkonen,,Lehkonen,,1,,5/24/2024 17:53
+lehmus,,Lehmus,,1,,5/24/2024 17:53
+lehti,,Lehti,,1,,5/24/2024 17:53
+lehtinen,,Lehtinen,,1,,5/24/2024 17:53
+lehto,,Lehto,,1,,5/24/2024 17:53
+lehtola,,Lehtola,,1,,5/24/2024 17:53
+lehtonen,,Lehtonen,,1,,5/24/2024 17:53
+lehtovaara,,Lehtovaara,,1,,5/24/2024 17:53
+leifsson,,Leifsson,,1,,5/24/2024 17:53
+leijonhufvud,,Leijonhufvud,,1,,5/24/2024 17:53
+leikvoll,,Leikvoll,,1,,5/24/2024 17:53
+leimu,,Leimu,,1,,5/24/2024 17:53
+leino,,Leino,,1,,5/24/2024 17:53
+leinonen,,Leinonen,,1,,5/24/2024 17:53
+leiviskä,,Leiviskä,,1,,5/24/2024 17:53
+lejon,,Lejon,,1,,5/24/2024 17:53
+leminen,,Leminen,,1,,5/24/2024 17:53
+lennartsson,,Lennartsson,,1,,5/24/2024 17:53
+lennert,,Lennert,,1,,5/24/2024 17:53
+lenngren,,Lenngren,,1,,5/24/2024 17:53
+leonardsen,,Leonardsen,,1,,5/24/2024 17:53
+leonardsson,,Leonardsson,,1,,5/24/2024 17:53
+lepistö,,Lepistö,,1,,5/24/2024 17:53
+lepola,,Lepola,,1,,5/24/2024 17:53
+leppä,,Leppä,,1,,5/24/2024 17:53
+leppälä,,Leppälä,,1,,5/24/2024 17:53
+leppänen,,Leppänen,,1,,5/24/2024 17:53
+lerche,,Lerche,,1,,5/24/2024 17:53
+lerheim,,Lerheim,,1,,5/24/2024 17:53
+lerstad,,Lerstad,,1,,5/24/2024 17:53
+lervik,,Lervik,,1,,5/24/2024 17:53
+leskinen,,Leskinen,,1,,5/24/2024 17:53
+lestander,,Lestander,,1,,5/24/2024 17:53
+leth,,Leth,,1,,5/24/2024 17:53
+leuhusen,,Leuhusen,,1,,5/24/2024 17:53
+lidegaard,,Lidegaard,,1,,5/24/2024 17:53
+lidholm,,Lidholm,,1,,5/24/2024 17:53
+lie,,Lie,,1,,5/24/2024 17:53
+lien,,Lien,,1,,5/24/2024 17:53
+liimatainen,,Liimatainen,,1,,5/24/2024 17:53
+lilja,,Lilja,,1,,5/24/2024 17:53
+liljeroth,,Liljeroth,,1,,5/24/2024 17:53
+liljeström,,Liljeström,,1,,5/24/2024 17:53
+liltorp,,Liltorp,,1,,5/24/2024 17:53
+lind,,Lind,,1,,5/24/2024 17:53
+lindahl,,Lindahl,,1,,5/24/2024 17:53
+lindbeck,,Lindbeck,,1,,5/24/2024 17:53
+lindbergh,,Lindbergh,,1,,5/24/2024 17:53
+lindblad,,Lindblad,,1,,5/24/2024 17:53
+lindblom,,Lindblom,,1,,5/24/2024 17:53
+lindegaard,,Lindegaard,,1,,5/24/2024 17:53
+lindegren,,Lindegren,,1,,5/24/2024 17:53
+lindell,,Lindell,,1,,5/24/2024 17:53
+lindelöf,,Lindelöf,,1,,5/24/2024 17:53
+lindeman,,Lindeman,,1,,5/24/2024 17:53
+linden,,Linden,,1,,5/24/2024 17:53
+lindén,,Lindén,,1,,5/24/2024 17:53
+linderoth,,Linderoth,,1,,5/24/2024 17:53
+lindfors,,Lindfors,,1,,5/24/2024 17:53
+lindgren,,Lindgren,,1,,5/24/2024 17:53
+lindhardt,,Lindhardt,,1,,5/24/2024 17:53
+lindholm,,Lindholm,,1,,5/24/2024 17:53
+lindquist,,Lindquist,,1,,5/24/2024 17:53
+lindqvist,,Lindqvist,,1,,5/24/2024 17:53
+lindroos,,Lindroos,,1,,5/24/2024 17:53
+lindroth,,Lindroth,,1,,5/24/2024 17:53
+lindskog,,Lindskog,,1,,5/24/2024 17:53
+lindström,,Lindström,,1,,5/24/2024 17:53
+linkola,,Linkola,,1,,5/24/2024 17:53
+linna,,Linna,,1,,5/24/2024 17:53
+linnonmaa,,Linnonmaa,,1,,5/24/2024 17:53
+linroth,,Linroth,,1,,5/24/2024 17:53
+lintu,,Lintu,,1,,5/24/2024 17:53
+lipasti,,Lipasti,,1,,5/24/2024 17:53
+lippestad,,Lippestad,,1,,5/24/2024 17:53
+lipponen,,Lipponen,,1,,5/24/2024 17:53
+lipsanen,,Lipsanen,,1,,5/24/2024 17:53
+lisberg,,Lisberg,,1,,5/24/2024 17:53
+litmanen,,Litmanen,,1,,5/24/2024 17:53
+liukkonen,,Liukkonen,,1,,5/24/2024 17:53
+ljung,,Ljung,,1,,5/24/2024 17:53
+ljungberg,,Ljungberg,,1,,5/24/2024 17:53
+ljungborg,,Ljungborg,,1,,5/24/2024 17:53
+ljungdahl,,Ljungdahl,,1,,5/24/2024 17:53
+ljunggren,,Ljunggren,,1,,5/24/2024 17:53
+ljungkvist,,Ljungkvist,,1,,5/24/2024 17:53
+ljungman,,Ljungman,,1,,5/24/2024 17:53
+ljungqvist,,Ljungqvist,,1,,5/24/2024 17:53
+ljungstrand,,Ljungstrand,,1,,5/24/2024 17:53
+lødøen,,Lødøen,,1,,5/24/2024 17:53
+lødrup,,Lødrup,,1,,5/24/2024 17:53
+löfgren,,Löfgren,,1,,5/24/2024 17:53
+løfsgaard,,Løfsgaard,,1,,5/24/2024 17:53
+lofterød,,Lofterød,,1,,5/24/2024 17:53
+lohi,,Lohi,,1,,5/24/2024 17:53
+lohikoski,,Lohikoski,,1,,5/24/2024 17:53
+løke,,Løke,,1,,5/24/2024 17:53
+løken,,Løken,,1,,5/24/2024 17:53
+løkkeberg,,Løkkeberg,,1,,5/24/2024 17:53
+lommi,,Lommi,,1,,5/24/2024 17:53
+long,,Long,,1,,5/24/2024 17:53
+lønningdal,,Lønningdal,,1,,5/24/2024 17:53
+lorck,,Lorck,,1,,5/24/2024 17:53
+lorenzen,,Lorenzen,,1,,5/24/2024 17:53
+løseth,,Løseth,,1,,5/24/2024 17:53
+losnedahl,,Losnedahl,,1,,5/24/2024 17:53
+lötvall,,Lötvall,,1,,5/24/2024 17:53
+louhivuori,,Louhivuori,,1,,5/24/2024 17:53
+löve,,Löve,,1,,5/24/2024 17:53
+løvenkrands,,Løvenkrands,,1,,5/24/2024 17:53
+løvland,,Løvland,,1,,5/24/2024 17:53
+løvset,,Løvset,,1,,5/24/2024 17:53
+löwenadler,,Löwenadler,,1,,5/24/2024 17:53
+löwenberg,,Löwenberg,,1,,5/24/2024 17:53
+ludvigsen,,Ludvigsen,,1,,5/24/2024 17:53
+ludvigsson,,Ludvigsson,,1,,5/24/2024 17:53
+lugn,,Lugn,,1,,5/24/2024 17:53
+luiro,,Luiro,,1,,5/24/2024 17:53
+lukkari,,Lukkari,,1,,5/24/2024 17:53
+lukkarinen,,Lukkarinen,,1,,5/24/2024 17:53
+lumbye,,Lumbye,,1,,5/24/2024 17:53
+lund,,Lund,,1,,5/24/2024 17:53
+lundbäck,,Lundbäck,,1,,5/24/2024 17:53
+lundberg,,Lundberg,,1,,5/24/2024 17:53
+lundblad,,Lundblad,,1,,5/24/2024 17:53
+lunde,,Lunde,,1,,5/24/2024 17:53
+lundeberg,,Lundeberg,,1,,5/24/2024 17:53
+lundell,,Lundell,,1,,5/24/2024 17:53
+lundgren,,Lundgren,,1,,5/24/2024 17:53
+lundin,,Lundin,,1,,5/24/2024 17:53
+lundmark,,Lundmark,,1,,5/24/2024 17:53
+lundquist,,Lundquist,,1,,5/24/2024 17:53
+lundqvist,,Lundqvist,,1,,5/24/2024 17:53
+lundström,,Lundström,,1,,5/24/2024 17:53
+lundvall,,Lundvall,,1,,5/24/2024 17:53
+lundvik,,Lundvik,,1,,5/24/2024 17:53
+lunnan,,Lunnan,,1,,5/24/2024 17:53
+luolajan,,Luolajan,,1,,5/24/2024 17:53
+luoma,,Luoma,,1,,5/24/2024 17:53
+luostarinen,,Luostarinen,,1,,5/24/2024 17:53
+luoto,,Luoto,,1,,5/24/2024 17:53
+lütken,,Lütken,,1,,5/24/2024 17:53
+lützen,,Lützen,,1,,5/24/2024 17:53
+luukkanen,,Luukkanen,,1,,5/24/2024 17:53
+luukkonen,,Luukkonen,,1,,5/24/2024 17:53
+lyberth,,Lyberth,,1,,5/24/2024 17:53
+lykke,,Lykke,,1,,5/24/2024 17:53
+lyngbye,,Lyngbye,,1,,5/24/2024 17:53
+lynge,,Lynge,,1,,5/24/2024 17:53
+lynggaard,,Lynggaard,,1,,5/24/2024 17:53
+lyngstad,,Lyngstad,,1,,5/24/2024 17:53
+lyytikäinen,,Lyytikäinen,,1,,5/24/2024 17:53
+lyytinen,,Lyytinen,,1,,5/24/2024 17:53
+maaranen,,Maaranen,,1,,5/24/2024 17:53
+maaseide,,Maaseide,,1,,5/24/2024 17:53
+määttä,,Määttä,,1,,5/24/2024 17:53
+mæland,,Mæland,,1,,5/24/2024 17:53
+mäenpää,,Mäenpää,,1,,5/24/2024 17:53
+magdahl,,Magdahl,,1,,5/24/2024 17:53
+magistad,,Magistad,,1,,5/24/2024 17:53
+magnell,,Magnell,,1,,5/24/2024 17:53
+magnuson,,Magnuson,,1,,5/24/2024 17:53
+maijala,,Maijala,,1,,5/24/2024 17:53
+majuri,,Majuri,,1,,5/24/2024 17:53
+mäkäräinen,,Mäkäräinen,,1,,5/24/2024 17:53
+mäkelä,,Mäkelä,,1,,5/24/2024 17:53
+mäkeläinen,,Mäkeläinen,,1,,5/24/2024 17:53
+mäkelin,,Mäkelin,,1,,5/24/2024 17:53
+mäki,,Mäki,,1,,5/24/2024 17:53
+mäkilä,,Mäkilä,,1,,5/24/2024 17:53
+mäkinen,,Mäkinen,,1,,5/24/2024 17:53
+mäkipää,,Mäkipää,,1,,5/24/2024 17:53
+mäkitalo,,Mäkitalo,,1,,5/24/2024 17:53
+makkonen,,Makkonen,,1,,5/24/2024 17:53
+mäkynen,,Mäkynen,,1,,5/24/2024 17:53
+malinen,,Malinen,,1,,5/24/2024 17:53
+malkamäki,,Malkamäki,,1,,5/24/2024 17:53
+malling,,Malling,,1,,5/24/2024 17:53
+malmberg,,Malmberg,,1,,5/24/2024 17:53
+malmborg,,Malmborg,,1,,5/24/2024 17:53
+malmgren,,Malmgren,,1,,5/24/2024 17:53
+malmivaara,,Malmivaara,,1,,5/24/2024 17:53
+malmkvist,,Malmkvist,,1,,5/24/2024 17:53
+malmquist,,Malmquist,,1,,5/24/2024 17:53
+malmqvist,,Malmqvist,,1,,5/24/2024 17:53
+malmsten,,Malmsten,,1,,5/24/2024 17:53
+malmstrom,,Malmstrom,,1,,5/24/2024 17:53
+manner,,Manner,,1,,5/24/2024 17:53
+mannermaa,,Mannermaa,,1,,5/24/2024 17:53
+manniche,,Manniche,,1,,5/24/2024 17:53
+männikkö,,Männikkö,,1,,5/24/2024 17:53
+manninen,,Manninen,,1,,5/24/2024 17:53
+mannsåker,,Mannsåker,,1,,5/24/2024 17:53
+månsdotter,,Månsdotter,,1,,5/24/2024 17:53
+mansikka,,Mansikka,,1,,5/24/2024 17:53
+månsson,,Månsson,,1,,5/24/2024 17:53
+mantila,,Mantila,,1,,5/24/2024 17:53
+mänttäri,,Mänttäri,,1,,5/24/2024 17:53
+mäntylä,,Mäntylä,,1,,5/24/2024 17:53
+marcussen,,Marcussen,,1,,5/24/2024 17:53
+mårdalen,,Mårdalen,,1,,5/24/2024 17:53
+mårdh,,Mårdh,,1,,5/24/2024 17:53
+marhaug,,Marhaug,,1,,5/24/2024 17:53
+mark,,Mark,,1,,5/24/2024 17:53
+markkanen,,Markkanen,,1,,5/24/2024 17:53
+markkula,,Markkula,,1,,5/24/2024 17:53
+marklund,,Marklund,,1,,5/24/2024 17:53
+markström,,Markström,,1,,5/24/2024 17:53
+markusson,,Markusson,,1,,5/24/2024 17:53
+marstrand,,Marstrand,,1,,5/24/2024 17:53
+marteinsson,,Marteinsson,,1,,5/24/2024 17:53
+mårtensson,,Mårtensson,,1,,5/24/2024 17:53
+martikainen,,Martikainen,,1,,5/24/2024 17:53
+martin,,Martin,,1,,5/24/2024 17:53
+martinsen,,Martinsen,,1,,5/24/2024 17:53
+martinson,,Martinson,,1,,5/24/2024 17:53
+martinsson,,Martinsson,,1,,5/24/2024 17:53
+marttila,,Marttila,,1,,5/24/2024 17:53
+marttinen,,Marttinen,,1,,5/24/2024 17:53
+mathiasen,,Mathiasen,,1,,5/24/2024 17:53
+mathiassen,,Mathiassen,,1,,5/24/2024 17:53
+mathiesen,,Mathiesen,,1,,5/24/2024 17:53
+mathisen,,Mathisen,,1,,5/24/2024 17:53
+matikainen,,Matikainen,,1,,5/24/2024 17:53
+matilainen,,Matilainen,,1,,5/24/2024 17:53
+matras,,Matras,,1,,5/24/2024 17:53
+matsson,,Matsson,,1,,5/24/2024 17:53
+matthiasen,,Matthiasen,,1,,5/24/2024 17:53
+matthiessen,,Matthiessen,,1,,5/24/2024 17:53
+mattila,,Mattila,,1,,5/24/2024 17:53
+mattinen,,Mattinen,,1,,5/24/2024 17:53
+mattisson,,Mattisson,,1,,5/24/2024 17:53
+mattson,,Mattson,,1,,5/24/2024 17:53
+mattsson,,Mattsson,,1,,5/24/2024 17:53
+maunu,,Maunu,,1,,5/24/2024 17:53
+mauritzen,,Mauritzen,,1,,5/24/2024 17:53
+maurud,,Maurud,,1,,5/24/2024 17:53
+medwik,,Medwik,,1,,5/24/2024 17:53
+meilvang,,Meilvang,,1,,5/24/2024 17:53
+melartin,,Melartin,,1,,5/24/2024 17:53
+meldgaard,,Meldgaard,,1,,5/24/2024 17:53
+mellgren,,Mellgren,,1,,5/24/2024 17:53
+melsted,,Melsted,,1,,5/24/2024 17:53
+meri,,Meri,,1,,5/24/2024 17:53
+merikanto,,Merikanto,,1,,5/24/2024 17:53
+meriläinen,,Meriläinen,,1,,5/24/2024 17:53
+meriluoto,,Meriluoto,,1,,5/24/2024 17:53
+mertanen,,Mertanen,,1,,5/24/2024 17:53
+mestad,,Mestad,,1,,5/24/2024 17:53
+methling,,Methling,,1,,5/24/2024 17:53
+metso,,Metso,,1,,5/24/2024 17:53
+metsola,,Metsola,,1,,5/24/2024 17:53
+michaelsen,,Michaelsen,,1,,5/24/2024 17:53
+michelsen,,Michelsen,,1,,5/24/2024 17:53
+mickelson,,Mickelson,,1,,5/24/2024 17:53
+mienna,,Mienna,,1,,5/24/2024 17:53
+mienná,,Mienná,,1,,5/24/2024 17:53
+miettinen,,Miettinen,,1,,5/24/2024 17:53
+mikaelsen,,Mikaelsen,,1,,5/24/2024 17:53
+mikaelsson,,Mikaelsson,,1,,5/24/2024 17:53
+mikines,,Mikines,,1,,5/24/2024 17:53
+mikkelsen,,Mikkelsen,,1,,5/24/2024 17:53
+mikkelson,,Mikkelson,,1,,5/24/2024 17:53
+mikkelsplass,,Mikkelsplass,,1,,5/24/2024 17:53
+mikkola,,Mikkola,,1,,5/24/2024 17:53
+mikkolainen,,Mikkolainen,,1,,5/24/2024 17:53
+mikkonen,,Mikkonen,,1,,5/24/2024 17:53
+minkkinen,,Minkkinen,,1,,5/24/2024 17:53
+mjøs,,Mjøs,,1,,5/24/2024 17:53
+moe,,Moe,,1,,5/24/2024 17:53
+moen,,Moen,,1,,5/24/2024 17:53
+mogensen,,Mogensen,,1,,5/24/2024 17:53
+møgster,,Møgster,,1,,5/24/2024 17:53
+mohn,,Mohn,,1,,5/24/2024 17:53
+mohr,,Mohr,,1,,5/24/2024 17:53
+moilanen,,Moilanen,,1,,5/24/2024 17:53
+moland,,Moland,,1,,5/24/2024 17:53
+molander,,Molander,,1,,5/24/2024 17:53
+moldskred,,Moldskred,,1,,5/24/2024 17:53
+mølgaard,,Mølgaard,,1,,5/24/2024 17:53
+moller,,Moller,,1,,5/24/2024 17:53
+möller,,Möller,,1,,5/24/2024 17:53
+mollerup,,Mollerup,,1,,5/24/2024 17:53
+monberg,,Monberg,,1,,5/24/2024 17:53
+mönkkönen,,Mönkkönen,,1,,5/24/2024 17:53
+mononen,,Mononen,,1,,5/24/2024 17:53
+montonen,,Montonen,,1,,5/24/2024 17:53
+morberg,,Morberg,,1,,5/24/2024 17:53
+morgenlien,,Morgenlien,,1,,5/24/2024 17:53
+mörner,,Mörner,,1,,5/24/2024 17:53
+morottaja,,Morottaja,,1,,5/24/2024 17:53
+mortensen,,Mortensen,,1,,5/24/2024 17:53
+mosander,,Mosander,,1,,5/24/2024 17:53
+mottola,,Mottola,,1,,5/24/2024 17:53
+motzfeldt,,Motzfeldt,,1,,5/24/2024 17:53
+moxnes,,Moxnes,,1,,5/24/2024 17:53
+muinonen,,Muinonen,,1,,5/24/2024 17:53
+müller,,Müller,,1,,5/24/2024 17:53
+munch,,Munch,,1,,5/24/2024 17:53
+mustajärvi,,Mustajärvi,,1,,5/24/2024 17:53
+mustonen,,Mustonen,,1,,5/24/2024 17:53
+mutanen,,Mutanen,,1,,5/24/2024 17:53
+mutru,,Mutru,,1,,5/24/2024 17:53
+muurinen,,Muurinen,,1,,5/24/2024 17:53
+myhre,,Myhre,,1,,5/24/2024 17:53
+mykkänen,,Mykkänen,,1,,5/24/2024 17:53
+mylläri,,Mylläri,,1,,5/24/2024 17:53
+myllylä,,Myllylä,,1,,5/24/2024 17:53
+myyryläinen,,Myyryläinen,,1,,5/24/2024 17:53
+næsheim,,Næsheim,,1,,5/24/2024 17:53
+naess,,Naess,,1,,5/24/2024 17:53
+nafstad,,Nafstad,,1,,5/24/2024 17:53
+nakkim,,Nakkim,,1,,5/24/2024 17:53
+namtvedt,,Namtvedt,,1,,5/24/2024 17:53
+nansen,,Nansen,,1,,5/24/2024 17:53
+närhi,,Närhi,,1,,5/24/2024 17:53
+narud,,Narud,,1,,5/24/2024 17:53
+näslund,,Näslund,,1,,5/24/2024 17:53
+nass,,Nass,,1,,5/24/2024 17:53
+nätterqvist,,Nätterqvist,,1,,5/24/2024 17:53
+nättinen,,Nättinen,,1,,5/24/2024 17:53
+neergaard,,Neergaard,,1,,5/24/2024 17:53
+nelimarkka,,Nelimarkka,,1,,5/24/2024 17:53
+nellemose,,Nellemose,,1,,5/24/2024 17:53
+nelson,,Nelson,,1,,5/24/2024 17:53
+nenonen,,Nenonen,,1,,5/24/2024 17:53
+nergaard,,Nergaard,,1,,5/24/2024 17:53
+nesbø,,Nesbø,,1,,5/24/2024 17:53
+ness,,Ness,,1,,5/24/2024 17:53
+neuvonen,,Neuvonen,,1,,5/24/2024 17:53
+nevala,,Nevala,,1,,5/24/2024 17:53
+nevalainen,,Nevalainen,,1,,5/24/2024 17:53
+nicklasson,,Nicklasson,,1,,5/24/2024 17:53
+niclasen,,Niclasen,,1,,5/24/2024 17:53
+nicolaysen,,Nicolaysen,,1,,5/24/2024 17:53
+niemelä,,Niemelä,,1,,5/24/2024 17:53
+niemeläinen,,Niemeläinen,,1,,5/24/2024 17:53
+niemi,,Niemi,,1,,5/24/2024 17:53
+nieminen,,Nieminen,,1,,5/24/2024 17:53
+niinistö,,Niinistö,,1,,5/24/2024 17:53
+nikkanen,,Nikkanen,,1,,5/24/2024 17:53
+nikkilä,,Nikkilä,,1,,5/24/2024 17:53
+nikkola,,Nikkola,,1,,5/24/2024 17:53
+niklasson,,Niklasson,,1,,5/24/2024 17:53
+nikolajsen,,Nikolajsen,,1,,5/24/2024 17:53
+nikula,,Nikula,,1,,5/24/2024 17:53
+nilssen,,Nilssen,,1,,5/24/2024 17:53
+nirvi,,Nirvi,,1,,5/24/2024 17:53
+niska,,Niska,,1,,5/24/2024 17:53
+niskala,,Niskala,,1,,5/24/2024 17:53
+niskanen,,Niskanen,,1,,5/24/2024 17:53
+nissen,,Nissen,,1,,5/24/2024 17:53
+nissinen,,Nissinen,,1,,5/24/2024 17:53
+njerve,,Njerve,,1,,5/24/2024 17:53
+nolsøe,,Nolsøe,,1,,5/24/2024 17:53
+nólsoy,,Nólsoy,,1,,5/24/2024 17:53
+norbäck,,Norbäck,,1,,5/24/2024 17:53
+norberg,,Norberg,,1,,5/24/2024 17:53
+nordahl,,Nordahl,,1,,5/24/2024 17:53
+nordberg,,Nordberg,,1,,5/24/2024 17:53
+norddahl,,Norddahl,,1,,5/24/2024 17:53
+nordenfalk,,Nordenfalk,,1,,5/24/2024 17:53
+nordengrip,,Nordengrip,,1,,5/24/2024 17:53
+nordgren,,Nordgren,,1,,5/24/2024 17:53
+nordhagen,,Nordhagen,,1,,5/24/2024 17:53
+nordhaug,,Nordhaug,,1,,5/24/2024 17:53
+nordhus,,Nordhus,,1,,5/24/2024 17:53
+nordin,,Nordin,,1,,5/24/2024 17:53
+nordlander,,Nordlander,,1,,5/24/2024 17:53
+nordli,,Nordli,,1,,5/24/2024 17:53
+nordlie,,Nordlie,,1,,5/24/2024 17:53
+nordling,,Nordling,,1,,5/24/2024 17:53
+nordlund,,Nordlund,,1,,5/24/2024 17:53
+nordquist,,Nordquist,,1,,5/24/2024 17:53
+nordrum,,Nordrum,,1,,5/24/2024 17:53
+nordseth,,Nordseth,,1,,5/24/2024 17:53
+nordskov,,Nordskov,,1,,5/24/2024 17:53
+nordstoga,,Nordstoga,,1,,5/24/2024 17:53
+nordstrom,,Nordstrom,,1,,5/24/2024 17:53
+nordström,,Nordström,,1,,5/24/2024 17:53
+nordwall,,Nordwall,,1,,5/24/2024 17:53
+norelius,,Norelius,,1,,5/24/2024 17:53
+noren,,Noren,,1,,5/24/2024 17:53
+nørgaard,,Nørgaard,,1,,5/24/2024 17:53
+norin,,Norin,,1,,5/24/2024 17:53
+norlén,,Norlén,,1,,5/24/2024 17:53
+norling,,Norling,,1,,5/24/2024 17:53
+noronen,,Noronen,,1,,5/24/2024 17:53
+norrman,,Norrman,,1,,5/24/2024 17:53
+norström,,Norström,,1,,5/24/2024 17:53
+norup,,Norup,,1,,5/24/2024 17:53
+nørup,,Nørup,,1,,5/24/2024 17:53
+norvoll,,Norvoll,,1,,5/24/2024 17:53
+nousiainen,,Nousiainen,,1,,5/24/2024 17:53
+nummedal,,Nummedal,,1,,5/24/2024 17:53
+nummelin,,Nummelin,,1,,5/24/2024 17:53
+numminen,,Numminen,,1,,5/24/2024 17:53
+nurmela,,Nurmela,,1,,5/24/2024 17:53
+nurmesniemi,,Nurmesniemi,,1,,5/24/2024 17:53
+nurmi,,Nurmi,,1,,5/24/2024 17:53
+nurminen,,Nurminen,,1,,5/24/2024 17:53
+nurmio,,Nurmio,,1,,5/24/2024 17:53
+nuutinen,,Nuutinen,,1,,5/24/2024 17:53
+nyberg,,Nyberg,,1,,5/24/2024 17:53
+nygaard,,Nygaard,,1,,5/24/2024 17:53
+nygård,,Nygård,,1,,5/24/2024 17:53
+nyhamar,,Nyhamar,,1,,5/24/2024 17:53
+nykänen,,Nykänen,,1,,5/24/2024 17:53
+nykopp,,Nykopp,,1,,5/24/2024 17:53
+nykvist,,Nykvist,,1,,5/24/2024 17:53
+nylund,,Nylund,,1,,5/24/2024 17:53
+nyman,,Nyman,,1,,5/24/2024 17:53
+nymo,,Nymo,,1,,5/24/2024 17:53
+nypan,,Nypan,,1,,5/24/2024 17:53
+nyquist,,Nyquist,,1,,5/24/2024 17:53
+nyqvist,,Nyqvist,,1,,5/24/2024 17:53
+nystedt,,Nystedt,,1,,5/24/2024 17:53
+nystrom,,Nystrom,,1,,5/24/2024 17:53
+nyström,,Nyström,,1,,5/24/2024 17:53
+nyyssönen,,Nyyssönen,,1,,5/24/2024 17:53
+öberg,,Öberg,,1,,5/24/2024 17:53
+obrestad,,Obrestad,,1,,5/24/2024 17:53
+odegaard,,Odegaard,,1,,5/24/2024 17:53
+odenberg,,Odenberg,,1,,5/24/2024 17:53
+odhner,,Odhner,,1,,5/24/2024 17:53
+øgaard,,Øgaard,,1,,5/24/2024 17:53
+øglænd,,Øglænd,,1,,5/24/2024 17:53
+øgrim,,Øgrim,,1,,5/24/2024 17:53
+ohlin,,Ohlin,,1,,5/24/2024 17:53
+ohlson,,Ohlson,,1,,5/24/2024 17:53
+ohlsson,,Ohlsson,,1,,5/24/2024 17:53
+ohly,,Ohly,,1,,5/24/2024 17:53
+oikarinen,,Oikarinen,,1,,5/24/2024 17:53
+oinas,,Oinas,,1,,5/24/2024 17:53
+oinonen,,Oinonen,,1,,5/24/2024 17:53
+øisang,,Øisang,,1,,5/24/2024 17:53
+øiseth,,Øiseth,,1,,5/24/2024 17:53
+oiva,,Oiva,,1,,5/24/2024 17:53
+oja,,Oja,,1,,5/24/2024 17:53
+ojala,,Ojala,,1,,5/24/2024 17:53
+ojanen,,Ojanen,,1,,5/24/2024 17:53
+ojanperä,,Ojanperä,,1,,5/24/2024 17:53
+okkonen,,Okkonen,,1,,5/24/2024 17:53
+oksanen,,Oksanen,,1,,5/24/2024 17:53
+øksendal,,Øksendal,,1,,5/24/2024 17:53
+øksnevad,,Øksnevad,,1,,5/24/2024 17:53
+ólafsson,,Ólafsson,,1,,5/24/2024 17:53
+olander,,Olander,,1,,5/24/2024 17:53
+ólavsson,,Ólavsson,,1,,5/24/2024 17:53
+olderman,,Olderman,,1,,5/24/2024 17:53
+olesen,,Olesen,,1,,5/24/2024 17:53
+oliversen,,Oliversen,,1,,5/24/2024 17:53
+oliversson,,Oliversson,,1,,5/24/2024 17:53
+olkkonen,,Olkkonen,,1,,5/24/2024 17:53
+olli,,Olli,,1,,5/24/2024 17:53
+ollikainen,,Ollikainen,,1,,5/24/2024 17:53
+ollila,,Ollila,,1,,5/24/2024 17:53
+olofsdotter,,Olofsdotter,,1,,5/24/2024 17:53
+olson,,Olson,,1,,5/24/2024 17:53
+ölvirsson,,Ölvirsson,,1,,5/24/2024 17:53
+öman,,Öman,,1,,5/24/2024 17:53
+ómarsdóttir,,Ómarsdóttir,,1,,5/24/2024 17:53
+omdahl,,Omdahl,,1,,5/24/2024 17:53
+onarheim,,Onarheim,,1,,5/24/2024 17:53
+onstad,,Onstad,,1,,5/24/2024 17:53
+opsahl,,Opsahl,,1,,5/24/2024 17:53
+opseth,,Opseth,,1,,5/24/2024 17:53
+opstad,,Opstad,,1,,5/24/2024 17:53
+ørnskov,,Ørnskov,,1,,5/24/2024 17:53
+ørskov,,Ørskov,,1,,5/24/2024 17:53
+ortmark,,Ortmark,,1,,5/24/2024 17:53
+óskarsdóttir,,Óskarsdóttir,,1,,5/24/2024 17:53
+oskarsson,,Oskarsson,,1,,5/24/2024 17:53
+ossler,,Ossler,,1,,5/24/2024 17:53
+östberg,,Östberg,,1,,5/24/2024 17:53
+østberg,,Østberg,,1,,5/24/2024 17:53
+öste,,Öste,,1,,5/24/2024 17:53
+øster,,Øster,,1,,5/24/2024 17:53
+österberg,,Österberg,,1,,5/24/2024 17:53
+østerberg,,Østerberg,,1,,5/24/2024 17:53
+østergaard,,Østergaard,,1,,5/24/2024 17:53
+østergård,,Østergård,,1,,5/24/2024 17:53
+östergren,,Östergren,,1,,5/24/2024 17:53
+osterlund,,Osterlund,,1,,5/24/2024 17:53
+österman,,Österman,,1,,5/24/2024 17:53
+ostlund,,Ostlund,,1,,5/24/2024 17:53
+östman,,Östman,,1,,5/24/2024 17:53
+ostrom,,Ostrom,,1,,5/24/2024 17:53
+ottesen,,Ottesen,,1,,5/24/2024 17:53
+ottosen,,Ottosen,,1,,5/24/2024 17:53
+ottosson,,Ottosson,,1,,5/24/2024 17:53
+ousdal,,Ousdal,,1,,5/24/2024 17:53
+outinen,,Outinen,,1,,5/24/2024 17:53
+ovaska,,Ovaska,,1,,5/24/2024 17:53
+øveraas,,Øveraas,,1,,5/24/2024 17:53
+overgaard,,Overgaard,,1,,5/24/2024 17:53
+overgard,,Overgard,,1,,5/24/2024 17:53
+övermark,,Övermark,,1,,5/24/2024 17:53
+ovesen,,Ovesen,,1,,5/24/2024 17:53
+owe,,Owe,,1,,5/24/2024 17:53
+paajanen,,Paajanen,,1,,5/24/2024 17:53
+pääkkönen,,Pääkkönen,,1,,5/24/2024 17:53
+paananen,,Paananen,,1,,5/24/2024 17:53
+paarma,,Paarma,,1,,5/24/2024 17:53
+paasche,,Paasche,,1,,5/24/2024 17:53
+paasikivi,,Paasikivi,,1,,5/24/2024 17:53
+paasilinna,,Paasilinna,,1,,5/24/2024 17:53
+paasio,,Paasio,,1,,5/24/2024 17:53
+paasivirta,,Paasivirta,,1,,5/24/2024 17:53
+paaso,,Paaso,,1,,5/24/2024 17:53
+paasonen,,Paasonen,,1,,5/24/2024 17:53
+paatelainen,,Paatelainen,,1,,5/24/2024 17:53
+paavilainen,,Paavilainen,,1,,5/24/2024 17:53
+paavola,,Paavola,,1,,5/24/2024 17:53
+paavolainen,,Paavolainen,,1,,5/24/2024 17:53
+påhlson,,Påhlson,,1,,5/24/2024 17:53
+påhlsson,,Påhlsson,,1,,5/24/2024 17:53
+päivärinta,,Päivärinta,,1,,5/24/2024 17:53
+pajari,,Pajari,,1,,5/24/2024 17:53
+pakarinen,,Pakarinen,,1,,5/24/2024 17:53
+pakkanen,,Pakkanen,,1,,5/24/2024 17:53
+palander,,Palander,,1,,5/24/2024 17:53
+pallesen,,Pallesen,,1,,5/24/2024 17:53
+palm,,Palm,,1,,5/24/2024 17:53
+palmberg,,Palmberg,,1,,5/24/2024 17:53
+palmcrantz,,Palmcrantz,,1,,5/24/2024 17:53
+palmgreen,,Palmgreen,,1,,5/24/2024 17:53
+palmgren,,Palmgren,,1,,5/24/2024 17:53
+palmquist,,Palmquist,,1,,5/24/2024 17:53
+palmroth,,Palmroth,,1,,5/24/2024 17:53
+palmstierna,,Palmstierna,,1,,5/24/2024 17:53
+palmstrøm,,Palmstrøm,,1,,5/24/2024 17:53
+palmstruch,,Palmstruch,,1,,5/24/2024 17:53
+palo,,Palo,,1,,5/24/2024 17:53
+paloheimo,,Paloheimo,,1,,5/24/2024 17:53
+paloniemi,,Paloniemi,,1,,5/24/2024 17:53
+palosaari,,Palosaari,,1,,5/24/2024 17:53
+pålson,,Pålson,,1,,5/24/2024 17:53
+pálsson,,Pálsson,,1,,5/24/2024 17:53
+pålsson,,Pålsson,,1,,5/24/2024 17:53
+parikka,,Parikka,,1,,5/24/2024 17:53
+parkkinen,,Parkkinen,,1,,5/24/2024 17:53
+parkkonen,,Parkkonen,,1,,5/24/2024 17:53
+parpola,,Parpola,,1,,5/24/2024 17:53
+pärssinen,,Pärssinen,,1,,5/24/2024 17:53
+partanen,,Partanen,,1,,5/24/2024 17:53
+parviainen,,Parviainen,,1,,5/24/2024 17:53
+parvilahti,,Parvilahti,,1,,5/24/2024 17:53
+pasanen,,Pasanen,,1,,5/24/2024 17:53
+patriksson,,Patriksson,,1,,5/24/2024 17:53
+patursson,,Patursson,,1,,5/24/2024 17:53
+paukku,,Paukku,,1,,5/24/2024 17:53
+paulsen,,Paulsen,,1,,5/24/2024 17:53
+paulsson,,Paulsson,,1,,5/24/2024 17:53
+paunu,,Paunu,,1,,5/24/2024 17:53
+pauss,,Pauss,,1,,5/24/2024 17:53
+pehkonen,,Pehkonen,,1,,5/24/2024 17:53
+peiponen,,Peiponen,,1,,5/24/2024 17:53
+pekkala,,Pekkala,,1,,5/24/2024 17:53
+pekkanen,,Pekkanen,,1,,5/24/2024 17:53
+pekkarinen,,Pekkarinen,,1,,5/24/2024 17:53
+pekonen,,Pekonen,,1,,5/24/2024 17:53
+pekuri,,Pekuri,,1,,5/24/2024 17:53
+pelkonen,,Pelkonen,,1,,5/24/2024 17:53
+pellinen,,Pellinen,,1,,5/24/2024 17:53
+peltola,,Peltola,,1,,5/24/2024 17:53
+peltomaa,,Peltomaa,,1,,5/24/2024 17:53
+peltonen,,Peltonen,,1,,5/24/2024 17:53
+peltoniemi,,Peltoniemi,,1,,5/24/2024 17:53
+pennanen,,Pennanen,,1,,5/24/2024 17:53
+pentikäinen,,Pentikäinen,,1,,5/24/2024 17:53
+pentti,,Pentti,,1,,5/24/2024 17:53
+penttilä,,Penttilä,,1,,5/24/2024 17:53
+penttinen,,Penttinen,,1,,5/24/2024 17:53
+perälä,,Perälä,,1,,5/24/2024 17:53
+persen,,Persen,,1,,5/24/2024 17:53
+perttilä,,Perttilä,,1,,5/24/2024 17:53
+perttula,,Perttula,,1,,5/24/2024 17:53
+perttunen,,Perttunen,,1,,5/24/2024 17:53
+pesonen,,Pesonen,,1,,5/24/2024 17:53
+petäjä,,Petäjä,,1,,5/24/2024 17:53
+petersson,,Petersson,,1,,5/24/2024 17:53
+pettinen,,Pettinen,,1,,5/24/2024 17:53
+pétursson,,Pétursson,,1,,5/24/2024 17:53
+peura,,Peura,,1,,5/24/2024 17:53
+philipsen,,Philipsen,,1,,5/24/2024 17:53
+pietarila,,Pietarila,,1,,5/24/2024 17:53
+pietarinen,,Pietarinen,,1,,5/24/2024 17:53
+pietikäinen,,Pietikäinen,,1,,5/24/2024 17:53
+pietilä,,Pietilä,,1,,5/24/2024 17:53
+pihl,,Pihl,,1,,5/24/2024 17:53
+pihlajamäki,,Pihlajamäki,,1,,5/24/2024 17:53
+piipponen,,Piipponen,,1,,5/24/2024 17:53
+piirainen,,Piirainen,,1,,5/24/2024 17:53
+piironen,,Piironen,,1,,5/24/2024 17:53
+piispanen,,Piispanen,,1,,5/24/2024 17:53
+pikkarainen,,Pikkarainen,,1,,5/24/2024 17:53
+pilkvist,,Pilkvist,,1,,5/24/2024 17:53
+pirhonen,,Pirhonen,,1,,5/24/2024 17:53
+pirinen,,Pirinen,,1,,5/24/2024 17:53
+pirkkiö,,Pirkkiö,,1,,5/24/2024 17:53
+pitkämäki,,Pitkämäki,,1,,5/24/2024 17:53
+pitkänen,,Pitkänen,,1,,5/24/2024 17:53
+plahte,,Plahte,,1,,5/24/2024 17:53
+pløyen,,Pløyen,,1,,5/24/2024 17:53
+pohjala,,Pohjala,,1,,5/24/2024 17:53
+pohjanen,,Pohjanen,,1,,5/24/2024 17:53
+pohjanheimo,,Pohjanheimo,,1,,5/24/2024 17:53
+pohjanpää,,Pohjanpää,,1,,5/24/2024 17:53
+pohjanpalo,,Pohjanpalo,,1,,5/24/2024 17:53
+pohjola,,Pohjola,,1,,5/24/2024 17:53
+pohjonen,,Pohjonen,,1,,5/24/2024 17:53
+poikolainen,,Poikolainen,,1,,5/24/2024 17:53
+polkunen,,Polkunen,,1,,5/24/2024 17:53
+pöllänen,,Pöllänen,,1,,5/24/2024 17:53
+porkka,,Porkka,,1,,5/24/2024 17:53
+posse,,Posse,,1,,5/24/2024 17:53
+potila,,Potila,,1,,5/24/2024 17:53
+pousette,,Pousette,,1,,5/24/2024 17:53
+poutanen,,Poutanen,,1,,5/24/2024 17:53
+poutiainen,,Poutiainen,,1,,5/24/2024 17:53
+povlsen,,Povlsen,,1,,5/24/2024 17:53
+pöyhönen,,Pöyhönen,,1,,5/24/2024 17:53
+pöyry,,Pöyry,,1,,5/24/2024 17:53
+pöysti,,Pöysti,,1,,5/24/2024 17:53
+prebensen,,Prebensen,,1,,5/24/2024 17:53
+prestrud,,Prestrud,,1,,5/24/2024 17:53
+preus,,Preus,,1,,5/24/2024 17:53
+pryser,,Pryser,,1,,5/24/2024 17:53
+puhakka,,Puhakka,,1,,5/24/2024 17:53
+pulkkinen,,Pulkkinen,,1,,5/24/2024 17:53
+pulliainen,,Pulliainen,,1,,5/24/2024 17:53
+pullinen,,Pullinen,,1,,5/24/2024 17:53
+puranen,,Puranen,,1,,5/24/2024 17:53
+puro,,Puro,,1,,5/24/2024 17:53
+putaansuu,,Putaansuu,,1,,5/24/2024 17:53
+putkonen,,Putkonen,,1,,5/24/2024 17:53
+puujalka,,Puujalka,,1,,5/24/2024 17:53
+puumalainen,,Puumalainen,,1,,5/24/2024 17:53
+puustinen,,Puustinen,,1,,5/24/2024 17:53
+pylkkänen,,Pylkkänen,,1,,5/24/2024 17:53
+pystynen,,Pystynen,,1,,5/24/2024 17:53
+pyykkö,,Pyykkö,,1,,5/24/2024 17:53
+pyykkönen,,Pyykkönen,,1,,5/24/2024 17:53
+qillah,,Qillah,,1,,5/24/2024 17:53
+quicklund,,Quicklund,,1,,5/24/2024 17:53
+quist,,Quist,,1,,5/24/2024 17:53
+qvigstad,,Qvigstad,,1,,5/24/2024 17:53
+qvist,,Qvist,,1,,5/24/2024 17:53
+qvistgaard,,Qvistgaard,,1,,5/24/2024 17:53
+raatikainen,,Raatikainen,,1,,5/24/2024 17:53
+råberg,,Råberg,,1,,5/24/2024 17:53
+rådström,,Rådström,,1,,5/24/2024 17:53
+rafn,,Rafn,,1,,5/24/2024 17:53
+ragnvaldsson,,Ragnvaldsson,,1,,5/24/2024 17:53
+råik,,Råik,,1,,5/24/2024 17:53
+räikkönen,,Räikkönen,,1,,5/24/2024 17:53
+railio,,Railio,,1,,5/24/2024 17:53
+rainio,,Rainio,,1,,5/24/2024 17:53
+räisänen,,Räisänen,,1,,5/24/2024 17:53
+raita,,Raita,,1,,5/24/2024 17:53
+raivio,,Raivio,,1,,5/24/2024 17:53
+rajala,,Rajala,,1,,5/24/2024 17:53
+rakell,,Rakell,,1,,5/24/2024 17:53
+rämö,,Rämö,,1,,5/24/2024 17:53
+randrup,,Randrup,,1,,5/24/2024 17:53
+rangdag,,Rangdag,,1,,5/24/2024 17:53
+rannikko,,Rannikko,,1,,5/24/2024 17:53
+ranta,,Ranta,,1,,5/24/2024 17:53
+rantala,,Rantala,,1,,5/24/2024 17:53
+rantanen,,Rantanen,,1,,5/24/2024 17:53
+rantasila,,Rantasila,,1,,5/24/2024 17:53
+rapp,,Rapp,,1,,5/24/2024 17:53
+räsänen,,Räsänen,,1,,5/24/2024 17:53
+rasch,,Rasch,,1,,5/24/2024 17:53
+rask,,Rask,,1,,5/24/2024 17:53
+rathsack,,Rathsack,,1,,5/24/2024 17:53
+rathsman,,Rathsman,,1,,5/24/2024 17:53
+räty,,Räty,,1,,5/24/2024 17:53
+rauhala,,Rauhala,,1,,5/24/2024 17:53
+rautanen,,Rautanen,,1,,5/24/2024 17:53
+rautiainen,,Rautiainen,,1,,5/24/2024 17:53
+rautio,,Rautio,,1,,5/24/2024 17:53
+ravn,,Ravn,,1,,5/24/2024 17:53
+reenaas,,Reenaas,,1,,5/24/2024 17:53
+reenberg,,Reenberg,,1,,5/24/2024 17:53
+refshauge,,Refshauge,,1,,5/24/2024 17:53
+reginsson,,Reginsson,,1,,5/24/2024 17:53
+regnell,,Regnell,,1,,5/24/2024 17:53
+rehn,,Rehn,,1,,5/24/2024 17:53
+rehnquist,,Rehnquist,,1,,5/24/2024 17:53
+reijonen,,Reijonen,,1,,5/24/2024 17:53
+reikvam,,Reikvam,,1,,5/24/2024 17:53
+reinert,,Reinert,,1,,5/24/2024 17:53
+reinertsen,,Reinertsen,,1,,5/24/2024 17:53
+reini,,Reini,,1,,5/24/2024 17:53
+reinikainen,,Reinikainen,,1,,5/24/2024 17:53
+reinikka,,Reinikka,,1,,5/24/2024 17:53
+reistrup,,Reistrup,,1,,5/24/2024 17:53
+rekola,,Rekola,,1,,5/24/2024 17:53
+rekonen,,Rekonen,,1,,5/24/2024 17:53
+reksten,,Reksten,,1,,5/24/2024 17:53
+renlund,,Renlund,,1,,5/24/2024 17:53
+repo,,Repo,,1,,5/24/2024 17:53
+reponen,,Reponen,,1,,5/24/2024 17:53
+restorff,,Restorff,,1,,5/24/2024 17:53
+rheborg,,Rheborg,,1,,5/24/2024 17:53
+riber,,Riber,,1,,5/24/2024 17:53
+richardsson,,Richardsson,,1,,5/24/2024 17:53
+rickardsson,,Rickardsson,,1,,5/24/2024 17:53
+rieber,,Rieber,,1,,5/24/2024 17:53
+riekkinen,,Riekkinen,,1,,5/24/2024 17:53
+riihijärvi,,Riihijärvi,,1,,5/24/2024 17:53
+riikola,,Riikola,,1,,5/24/2024 17:53
+riis,,Riis,,1,,5/24/2024 17:53
+riise,,Riise,,1,,5/24/2024 17:53
+rimminen,,Rimminen,,1,,5/24/2024 17:53
+rindborg,,Rindborg,,1,,5/24/2024 17:53
+ringdal,,Ringdal,,1,,5/24/2024 17:53
+ringvold,,Ringvold,,1,,5/24/2024 17:53
+rinnan,,Rinnan,,1,,5/24/2024 17:53
+rinne,,Rinne,,1,,5/24/2024 17:53
+rintala,,Rintala,,1,,5/24/2024 17:53
+ripatti,,Ripatti,,1,,5/24/2024 17:53
+risberg,,Risberg,,1,,5/24/2024 17:53
+rislakki,,Rislakki,,1,,5/24/2024 17:53
+rissanen,,Rissanen,,1,,5/24/2024 17:53
+rist,,Rist,,1,,5/24/2024 17:53
+ristola,,Ristola,,1,,5/24/2024 17:53
+ritland,,Ritland,,1,,5/24/2024 17:53
+ritola,,Ritola,,1,,5/24/2024 17:53
+robertsen,,Robertsen,,1,,5/24/2024 17:53
+robertsson,,Robertsson,,1,,5/24/2024 17:53
+róbertsson,,Róbertsson,,1,,5/24/2024 17:53
+rodahl,,Rodahl,,1,,5/24/2024 17:53
+røen,,Røen,,1,,5/24/2024 17:53
+røgeberg,,Røgeberg,,1,,5/24/2024 17:53
+rognlien,,Rognlien,,1,,5/24/2024 17:53
+rohtez,,Rohtez,,1,,5/24/2024 17:53
+roinestad,,Roinestad,,1,,5/24/2024 17:53
+røiseland,,Røiseland,,1,,5/24/2024 17:53
+røkke,,Røkke,,1,,5/24/2024 17:53
+rokne,,Rokne,,1,,5/24/2024 17:53
+rolfsen,,Rolfsen,,1,,5/24/2024 17:53
+rolvaag,,Rolvaag,,1,,5/24/2024 17:53
+rolvsson,,Rolvsson,,1,,5/24/2024 17:53
+rommedahl,,Rommedahl,,1,,5/24/2024 17:53
+romundstad,,Romundstad,,1,,5/24/2024 17:53
+ronkainen,,Ronkainen,,1,,5/24/2024 17:53
+rönnberg,,Rönnberg,,1,,5/24/2024 17:53
+rønne,,Rønne,,1,,5/24/2024 17:53
+rønneberg,,Rønneberg,,1,,5/24/2024 17:53
+rønning,,Rønning,,1,,5/24/2024 17:53
+rønningen,,Rønningen,,1,,5/24/2024 17:53
+rönnlund,,Rönnlund,,1,,5/24/2024 17:53
+rønnow,,Rønnow,,1,,5/24/2024 17:53
+rönström,,Rönström,,1,,5/24/2024 17:53
+roos,,Roos,,1,,5/24/2024 17:53
+roponen,,Roponen,,1,,5/24/2024 17:53
+rosander,,Rosander,,1,,5/24/2024 17:53
+rosén,,Rosén,,1,,5/24/2024 17:53
+rosenberg,,Rosenberg,,1,,5/24/2024 17:53
+rosenblad,,Rosenblad,,1,,5/24/2024 17:53
+rosengren,,Rosengren,,1,,5/24/2024 17:53
+rosenius,,Rosenius,,1,,5/24/2024 17:53
+rosenmeyer,,Rosenmeyer,,1,,5/24/2024 17:53
+rosenquist,,Rosenquist,,1,,5/24/2024 17:53
+rosenqvist,,Rosenqvist,,1,,5/24/2024 17:53
+rosing,,Rosing,,1,,5/24/2024 17:53
+rosted,,Rosted,,1,,5/24/2024 17:53
+rötkö,,Rötkö,,1,,5/24/2024 17:53
+rovanperä,,Rovanperä,,1,,5/24/2024 17:53
+rovelstad,,Rovelstad,,1,,5/24/2024 17:53
+rudström,,Rudström,,1,,5/24/2024 17:53
+rundström,,Rundström,,1,,5/24/2024 17:53
+runesson,,Runesson,,1,,5/24/2024 17:53
+ruoho,,Ruoho,,1,,5/24/2024 17:53
+ruohonen,,Ruohonen,,1,,5/24/2024 17:53
+ruotsalainen,,Ruotsalainen,,1,,5/24/2024 17:53
+rustadstuen,,Rustadstuen,,1,,5/24/2024 17:53
+rutanen,,Rutanen,,1,,5/24/2024 17:53
+ruud,,Ruud,,1,,5/24/2024 17:53
+ruuska,,Ruuska,,1,,5/24/2024 17:53
+ruuskanen,,Ruuskanen,,1,,5/24/2024 17:53
+ruusuvuori,,Ruusuvuori,,1,,5/24/2024 17:53
+ruuth,,Ruuth,,1,,5/24/2024 17:53
+ruuttu,,Ruuttu,,1,,5/24/2024 17:53
+ruutu,,Ruutu,,1,,5/24/2024 17:53
+ryberg,,Ryberg,,1,,5/24/2024 17:53
+ryssdal,,Ryssdal,,1,,5/24/2024 17:53
+rytkönen,,Rytkönen,,1,,5/24/2024 17:53
+rytky,,Rytky,,1,,5/24/2024 17:53
+saabye,,Saabye,,1,,5/24/2024 17:53
+saarela,,Saarela,,1,,5/24/2024 17:53
+saarelainen,,Saarelainen,,1,,5/24/2024 17:53
+saarenpää,,Saarenpää,,1,,5/24/2024 17:53
+saari,,Saari,,1,,5/24/2024 17:53
+saarikoski,,Saarikoski,,1,,5/24/2024 17:53
+saarinen,,Saarinen,,1,,5/24/2024 17:53
+saario,,Saario,,1,,5/24/2024 17:53
+saaristo,,Saaristo,,1,,5/24/2024 17:53
+saastamoinen,,Saastamoinen,,1,,5/24/2024 17:53
+sæther,,Sæther,,1,,5/24/2024 17:53
+säfström,,Säfström,,1,,5/24/2024 17:53
+sagen,,Sagen,,1,,5/24/2024 17:53
+sagstuen,,Sagstuen,,1,,5/24/2024 17:53
+sahlberg,,Sahlberg,,1,,5/24/2024 17:53
+sahlin,,Sahlin,,1,,5/24/2024 17:53
+säilä,,Säilä,,1,,5/24/2024 17:53
+sairanen,,Sairanen,,1,,5/24/2024 17:53
+sajakorpi,,Sajakorpi,,1,,5/24/2024 17:53
+sakariassen,,Sakariassen,,1,,5/24/2024 17:53
+sakkinen,,Sakkinen,,1,,5/24/2024 17:53
+salbu,,Salbu,,1,,5/24/2024 17:53
+sallinen,,Sallinen,,1,,5/24/2024 17:53
+salling,,Salling,,1,,5/24/2024 17:53
+salmela,,Salmela,,1,,5/24/2024 17:53
+salmelainen,,Salmelainen,,1,,5/24/2024 17:53
+salmi,,Salmi,,1,,5/24/2024 17:53
+salminen,,Salminen,,1,,5/24/2024 17:53
+salo,,Salo,,1,,5/24/2024 17:53
+salomaa,,Salomaa,,1,,5/24/2024 17:53
+salomäki,,Salomäki,,1,,5/24/2024 17:53
+salomonsen,,Salomonsen,,1,,5/24/2024 17:53
+salonen,,Salonen,,1,,5/24/2024 17:53
+salovaara,,Salovaara,,1,,5/24/2024 17:53
+sammallahti,,Sammallahti,,1,,5/24/2024 17:53
+samøssen,,Samøssen,,1,,5/24/2024 17:53
+sampsted,,Sampsted,,1,,5/24/2024 17:53
+samuelsen,,Samuelsen,,1,,5/24/2024 17:53
+samuelsson,,Samuelsson,,1,,5/24/2024 17:53
+sand,,Sand,,1,,5/24/2024 17:53
+sandahl,,Sandahl,,1,,5/24/2024 17:53
+sandberg,,Sandberg,,1,,5/24/2024 17:53
+sandborg,,Sandborg,,1,,5/24/2024 17:53
+sandelin,,Sandelin,,1,,5/24/2024 17:53
+sandell,,Sandell,,1,,5/24/2024 17:53
+sandem,,Sandem,,1,,5/24/2024 17:53
+sander,,Sander,,1,,5/24/2024 17:53
+sandgreen,,Sandgreen,,1,,5/24/2024 17:53
+sandgren,,Sandgren,,1,,5/24/2024 17:53
+sandqvist,,Sandqvist,,1,,5/24/2024 17:53
+sandsdalen,,Sandsdalen,,1,,5/24/2024 17:53
+sandström,,Sandström,,1,,5/24/2024 17:53
+sandven,,Sandven,,1,,5/24/2024 17:53
+santavuori,,Santavuori,,1,,5/24/2024 17:53
+santesson,,Santesson,,1,,5/24/2024 17:53
+sara,,Sara,,1,,5/24/2024 17:53
+sárá,,Sárá,,1,,5/24/2024 17:53
+sarajärvi,,Sarajärvi,,1,,5/24/2024 17:53
+sarasvuo,,Sarasvuo,,1,,5/24/2024 17:53
+sariola,,Sariola,,1,,5/24/2024 17:53
+särkkä,,Särkkä,,1,,5/24/2024 17:53
+sarkkinen,,Sarkkinen,,1,,5/24/2024 17:53
+saugestad,,Saugestad,,1,,5/24/2024 17:53
+saugstad,,Saugstad,,1,,5/24/2024 17:53
+saukkonen,,Saukkonen,,1,,5/24/2024 17:53
+savela,,Savela,,1,,5/24/2024 17:53
+savilahti,,Savilahti,,1,,5/24/2024 17:53
+savola,,Savola,,1,,5/24/2024 17:53
+savolainen,,Savolainen,,1,,5/24/2024 17:53
+schal,,Schal,,1,,5/24/2024 17:53
+schanche,,Schanche,,1,,5/24/2024 17:53
+schanke,,Schanke,,1,,5/24/2024 17:53
+scheving,,Scheving,,1,,5/24/2024 17:53
+schierup,,Schierup,,1,,5/24/2024 17:53
+schjoldager,,Schjoldager,,1,,5/24/2024 17:53
+schjøll,,Schjøll,,1,,5/24/2024 17:53
+schøien,,Schøien,,1,,5/24/2024 17:53
+schousboe,,Schousboe,,1,,5/24/2024 17:53
+schram,,Schram,,1,,5/24/2024 17:53
+schriver,,Schriver,,1,,5/24/2024 17:53
+schrøder,,Schrøder,,1,,5/24/2024 17:53
+schrøter,,Schrøter,,1,,5/24/2024 17:53
+schulerud,,Schulerud,,1,,5/24/2024 17:53
+scogings,,Scogings,,1,,5/24/2024 17:53
+segerström,,Segerström,,1,,5/24/2024 17:53
+sehested,,Sehested,,1,,5/24/2024 17:53
+seikkula,,Seikkula,,1,,5/24/2024 17:53
+seip,,Seip,,1,,5/24/2024 17:53
+selander,,Selander,,1,,5/24/2024 17:53
+selbekk,,Selbekk,,1,,5/24/2024 17:53
+selberg,,Selberg,,1,,5/24/2024 17:53
+sellæg,,Sellæg,,1,,5/24/2024 17:53
+semmingsen,,Semmingsen,,1,,5/24/2024 17:53
+seppä,,Seppä,,1,,5/24/2024 17:53
+seppälä,,Seppälä,,1,,5/24/2024 17:53
+seppänen,,Seppänen,,1,,5/24/2024 17:53
+serck,,Serck,,1,,5/24/2024 17:53
+serlachius,,Serlachius,,1,,5/24/2024 17:53
+setälä,,Setälä,,1,,5/24/2024 17:53
+sibbern,,Sibbern,,1,,5/24/2024 17:53
+sigfússon,,Sigfússon,,1,,5/24/2024 17:53
+sigurbjörnsson,,Sigurbjörnsson,,1,,5/24/2024 17:53
+sigurdardóttir,,Sigurdardóttir,,1,,5/24/2024 17:53
+sigurdarson,,Sigurdarson,,1,,5/24/2024 17:53
+sigurdsson,,Sigurdsson,,1,,5/24/2024 17:53
+sihvo,,Sihvo,,1,,5/24/2024 17:53
+sihvola,,Sihvola,,1,,5/24/2024 17:53
+sihvonen,,Sihvonen,,1,,5/24/2024 17:53
+siirala,,Siirala,,1,,5/24/2024 17:53
+siitonen,,Siitonen,,1,,5/24/2024 17:53
+silfverstolpe,,Silfverstolpe,,1,,5/24/2024 17:53
+silje,,Silje,,1,,5/24/2024 17:53
+siljeström,,Siljeström,,1,,5/24/2024 17:53
+sillanpää,,Sillanpää,,1,,5/24/2024 17:53
+siltala,,Siltala,,1,,5/24/2024 17:53
+siltanen,,Siltanen,,1,,5/24/2024 17:53
+silvennoinen,,Silvennoinen,,1,,5/24/2024 17:53
+simensen,,Simensen,,1,,5/24/2024 17:53
+simola,,Simola,,1,,5/24/2024 17:53
+simonen,,Simonen,,1,,5/24/2024 17:53
+simonsen,,Simonsen,,1,,5/24/2024 17:53
+simonsson,,Simonsson,,1,,5/24/2024 17:53
+sinervo,,Sinervo,,1,,5/24/2024 17:53
+sinisalo,,Sinisalo,,1,,5/24/2024 17:53
+sinkkonen,,Sinkkonen,,1,,5/24/2024 17:53
+sipilä,,Sipilä,,1,,5/24/2024 17:53
+sirkiä,,Sirkiä,,1,,5/24/2024 17:53
+sirkka,,Sirkka,,1,,5/24/2024 17:53
+sirola,,Sirola,,1,,5/24/2024 17:53
+sironen,,Sironen,,1,,5/24/2024 17:53
+sirviö,,Sirviö,,1,,5/24/2024 17:53
+sivertsen,,Sivertsen,,1,,5/24/2024 17:53
+sjöberg,,Sjöberg,,1,,5/24/2024 17:53
+sjöblom,,Sjöblom,,1,,5/24/2024 17:53
+sjödin,,Sjödin,,1,,5/24/2024 17:53
+sjögren,,Sjögren,,1,,5/24/2024 17:53
+sjöholm,,Sjöholm,,1,,5/24/2024 17:53
+sjøkvist,,Sjøkvist,,1,,5/24/2024 17:53
+sjøli,,Sjøli,,1,,5/24/2024 17:53
+sjølie,,Sjølie,,1,,5/24/2024 17:53
+sjölin,,Sjölin,,1,,5/24/2024 17:53
+sjölund,,Sjölund,,1,,5/24/2024 17:53
+sjöman,,Sjöman,,1,,5/24/2024 17:53
+sjöqvist,,Sjöqvist,,1,,5/24/2024 17:53
+sjöstedt,,Sjöstedt,,1,,5/24/2024 17:53
+sjöström,,Sjöström,,1,,5/24/2024 17:53
+sjøvold,,Sjøvold,,1,,5/24/2024 17:53
+skaarseth,,Skaarseth,,1,,5/24/2024 17:53
+skalvig,,Skalvig,,1,,5/24/2024 17:53
+skånberg,,Skånberg,,1,,5/24/2024 17:53
+skar,,Skar,,1,,5/24/2024 17:53
+skarbø,,Skarbø,,1,,5/24/2024 17:53
+skårdal,,Skårdal,,1,,5/24/2024 17:53
+skarsfjord,,Skarsfjord,,1,,5/24/2024 17:53
+skattum,,Skattum,,1,,5/24/2024 17:53
+skau,,Skau,,1,,5/24/2024 17:53
+skaugstad,,Skaugstad,,1,,5/24/2024 17:53
+skeie,,Skeie,,1,,5/24/2024 17:53
+skifte,,Skifte,,1,,5/24/2024 17:53
+skiöld,,Skiöld,,1,,5/24/2024 17:53
+skjælaaen,,Skjælaaen,,1,,5/24/2024 17:53
+skjærpe,,Skjærpe,,1,,5/24/2024 17:53
+skjærvik,,Skjærvik,,1,,5/24/2024 17:53
+skjæveland,,Skjæveland,,1,,5/24/2024 17:53
+skjeggestad,,Skjeggestad,,1,,5/24/2024 17:53
+skjelbred,,Skjelbred,,1,,5/24/2024 17:53
+skjeldal,,Skjeldal,,1,,5/24/2024 17:53
+skjelderup,,Skjelderup,,1,,5/24/2024 17:53
+skjerven,,Skjerven,,1,,5/24/2024 17:53
+skjølaas,,Skjølaas,,1,,5/24/2024 17:53
+skog,,Skog,,1,,5/24/2024 17:53
+skoglund,,Skoglund,,1,,5/24/2024 17:53
+skogmo,,Skogmo,,1,,5/24/2024 17:53
+skogrand,,Skogrand,,1,,5/24/2024 17:53
+sköld,,Sköld,,1,,5/24/2024 17:53
+sköldberg,,Sköldberg,,1,,5/24/2024 17:53
+skolmen,,Skolmen,,1,,5/24/2024 17:53
+skoog,,Skoog,,1,,5/24/2024 17:53
+skotheim,,Skotheim,,1,,5/24/2024 17:53
+skov,,Skov,,1,,5/24/2024 17:53
+skovbjerg,,Skovbjerg,,1,,5/24/2024 17:53
+skovgaard,,Skovgaard,,1,,5/24/2024 17:53
+skraastad,,Skraastad,,1,,5/24/2024 17:53
+skre,,Skre,,1,,5/24/2024 17:53
+skúlason,,Skúlason,,1,,5/24/2024 17:53
+skulberg,,Skulberg,,1,,5/24/2024 17:53
+skutle,,Skutle,,1,,5/24/2024 17:53
+skylstad,,Skylstad,,1,,5/24/2024 17:53
+slaatto,,Slaatto,,1,,5/24/2024 17:53
+slagsvold,,Slagsvold,,1,,5/24/2024 17:53
+sletsjøe,,Sletsjøe,,1,,5/24/2024 17:53
+slettebø,,Slettebø,,1,,5/24/2024 17:53
+slørdahl,,Slørdahl,,1,,5/24/2024 17:53
+slunga,,Slunga,,1,,5/24/2024 17:53
+slungård,,Slungård,,1,,5/24/2024 17:53
+slynger,,Slynger,,1,,5/24/2024 17:53
+smed,,Smed,,1,,5/24/2024 17:53
+smedvik,,Smedvik,,1,,5/24/2024 17:53
+snellman,,Snellman,,1,,5/24/2024 17:53
+søby,,Søby,,1,,5/24/2024 17:53
+söderberg,,Söderberg,,1,,5/24/2024 17:53
+södergren,,Södergren,,1,,5/24/2024 17:53
+söderholm,,Söderholm,,1,,5/24/2024 17:53
+søderlind,,Søderlind,,1,,5/24/2024 17:53
+söderlund,,Söderlund,,1,,5/24/2024 17:53
+söderman,,Söderman,,1,,5/24/2024 17:53
+söderström,,Söderström,,1,,5/24/2024 17:53
+sohkki,,Sohkki,,1,,5/24/2024 17:53
+sohlman,,Sohlman,,1,,5/24/2024 17:53
+soini,,Soini,,1,,5/24/2024 17:53
+soininen,,Soininen,,1,,5/24/2024 17:53
+soinio,,Soinio,,1,,5/24/2024 17:53
+sokki,,Sokki,,1,,5/24/2024 17:53
+sola,,Sola,,1,,5/24/2024 17:53
+solås,,Solås,,1,,5/24/2024 17:53
+solbakken,,Solbakken,,1,,5/24/2024 17:53
+solberg,,Solberg,,1,,5/24/2024 17:53
+solheim,,Solheim,,1,,5/24/2024 17:53
+sollander,,Sollander,,1,,5/24/2024 17:53
+solli,,Solli,,1,,5/24/2024 17:53
+solstad,,Solstad,,1,,5/24/2024 17:53
+solumsmoen,,Solumsmoen,,1,,5/24/2024 17:53
+sølvhøj,,Sølvhøj,,1,,5/24/2024 17:53
+somby,,Somby,,1,,5/24/2024 17:53
+sommer,,Sommer,,1,,5/24/2024 17:53
+sommerfeldt,,Sommerfeldt,,1,,5/24/2024 17:53
+sommerfelt,,Sommerfelt,,1,,5/24/2024 17:53
+søndergaard,,Søndergaard,,1,,5/24/2024 17:53
+sønsteby,,Sønsteby,,1,,5/24/2024 17:53
+sønstevold,,Sønstevold,,1,,5/24/2024 17:53
+sopanen,,Sopanen,,1,,5/24/2024 17:53
+sorensen,,Sorensen,,1,,5/24/2024 17:53
+sörensen,,Sörensen,,1,,5/24/2024 17:53
+sorenson,,Sorenson,,1,,5/24/2024 17:53
+sörensson,,Sörensson,,1,,5/24/2024 17:53
+sörenstam,,Sörenstam,,1,,5/24/2024 17:53
+sørheim,,Sørheim,,1,,5/24/2024 17:53
+sorjonen,,Sorjonen,,1,,5/24/2024 17:53
+sørlie,,Sørlie,,1,,5/24/2024 17:53
+sormunen,,Sormunen,,1,,5/24/2024 17:53
+sørnes,,Sørnes,,1,,5/24/2024 17:53
+sorsa,,Sorsa,,1,,5/24/2024 17:53
+sørum,,Sørum,,1,,5/24/2024 17:53
+sotamaa,,Sotamaa,,1,,5/24/2024 17:53
+sparre,,Sparre,,1,,5/24/2024 17:53
+sparv,,Sparv,,1,,5/24/2024 17:53
+spellerberg,,Spellerberg,,1,,5/24/2024 17:53
+spillum,,Spillum,,1,,5/24/2024 17:53
+spurkeland,,Spurkeland,,1,,5/24/2024 17:53
+stadheim,,Stadheim,,1,,5/24/2024 17:53
+stading,,Stading,,1,,5/24/2024 17:53
+staff,,Staff,,1,,5/24/2024 17:53
+ståhlberg,,Ståhlberg,,1,,5/24/2024 17:53
+stahre,,Stahre,,1,,5/24/2024 17:53
+stålhandske,,Stålhandske,,1,,5/24/2024 17:53
+stamp,,Stamp,,1,,5/24/2024 17:53
+stangland,,Stangland,,1,,5/24/2024 17:53
+steen,,Steen,,1,,5/24/2024 17:53
+steensen,,Steensen,,1,,5/24/2024 17:53
+steensnæs,,Steensnæs,,1,,5/24/2024 17:53
+steenstrup,,Steenstrup,,1,,5/24/2024 17:53
+stefansen,,Stefansen,,1,,5/24/2024 17:53
+stefansson,,Stefansson,,1,,5/24/2024 17:53
+stefánsson,,Stefánsson,,1,,5/24/2024 17:53
+steffensen,,Steffensen,,1,,5/24/2024 17:53
+steingrímsson,,Steingrímsson,,1,,5/24/2024 17:53
+steinsson,,Steinsson,,1,,5/24/2024 17:53
+stenbeck,,Stenbeck,,1,,5/24/2024 17:53
+stenberg,,Stenberg,,1,,5/24/2024 17:53
+stenbock,,Stenbock,,1,,5/24/2024 17:53
+stendahl,,Stendahl,,1,,5/24/2024 17:53
+stenersen,,Stenersen,,1,,5/24/2024 17:53
+stenerud,,Stenerud,,1,,5/24/2024 17:53
+stenmark,,Stenmark,,1,,5/24/2024 17:53
+stensen,,Stensen,,1,,5/24/2024 17:53
+stenström,,Stenström,,1,,5/24/2024 17:53
+sterri,,Sterri,,1,,5/24/2024 17:53
+stiansen,,Stiansen,,1,,5/24/2024 17:53
+stiernspetz,,Stiernspetz,,1,,5/24/2024 17:53
+stigsson,,Stigsson,,1,,5/24/2024 17:53
+stjernberg,,Stjernberg,,1,,5/24/2024 17:53
+stokkan,,Stokkan,,1,,5/24/2024 17:53
+stokkeland,,Stokkeland,,1,,5/24/2024 17:53
+stokstad,,Stokstad,,1,,5/24/2024 17:53
+storaas,,Storaas,,1,,5/24/2024 17:53
+storbæk,,Storbæk,,1,,5/24/2024 17:53
+stordalen,,Stordalen,,1,,5/24/2024 17:53
+stordrange,,Stordrange,,1,,5/24/2024 17:53
+storløkken,,Storløkken,,1,,5/24/2024 17:53
+storstrand,,Storstrand,,1,,5/24/2024 17:53
+storsveen,,Storsveen,,1,,5/24/2024 17:53
+støstad,,Støstad,,1,,5/24/2024 17:53
+støylen,,Støylen,,1,,5/24/2024 17:53
+strand,,Strand,,1,,5/24/2024 17:53
+strandberg,,Strandberg,,1,,5/24/2024 17:53
+strandli,,Strandli,,1,,5/24/2024 17:53
+strandlund,,Strandlund,,1,,5/24/2024 17:53
+strindlund,,Strindlund,,1,,5/24/2024 17:53
+ström,,Ström,,1,,5/24/2024 17:53
+strøm,,Strøm,,1,,5/24/2024 17:53
+strömbäck,,Strömbäck,,1,,5/24/2024 17:53
+stromberg,,Stromberg,,1,,5/24/2024 17:53
+strömberg,,Strömberg,,1,,5/24/2024 17:53
+strømnes,,Strømnes,,1,,5/24/2024 17:53
+strømsheim,,Strømsheim,,1,,5/24/2024 17:53
+strömstedt,,Strömstedt,,1,,5/24/2024 17:53
+stubhaug,,Stubhaug,,1,,5/24/2024 17:53
+stuckenberg,,Stuckenberg,,1,,5/24/2024 17:53
+stutt,,Stutt,,1,,5/24/2024 17:53
+styren,,Styren,,1,,5/24/2024 17:53
+suersaq,,Suersaq,,1,,5/24/2024 17:53
+suhonen,,Suhonen,,1,,5/24/2024 17:53
+suhr,,Suhr,,1,,5/24/2024 17:53
+suikkanen,,Suikkanen,,1,,5/24/2024 17:53
+summanen,,Summanen,,1,,5/24/2024 17:53
+sundberg,,Sundberg,,1,,5/24/2024 17:53
+sundblad,,Sundblad,,1,,5/24/2024 17:53
+sundblom,,Sundblom,,1,,5/24/2024 17:53
+sundborg,,Sundborg,,1,,5/24/2024 17:53
+sunde,,Sunde,,1,,5/24/2024 17:53
+sundelin,,Sundelin,,1,,5/24/2024 17:53
+sundén,,Sundén,,1,,5/24/2024 17:53
+sundin,,Sundin,,1,,5/24/2024 17:53
+sundqvist,,Sundqvist,,1,,5/24/2024 17:53
+sundsbø,,Sundsbø,,1,,5/24/2024 17:53
+sundstrand,,Sundstrand,,1,,5/24/2024 17:53
+sundström,,Sundström,,1,,5/24/2024 17:53
+sundt,,Sundt,,1,,5/24/2024 17:53
+sundtoft,,Sundtoft,,1,,5/24/2024 17:53
+sunesen,,Sunesen,,1,,5/24/2024 17:53
+suomalainen,,Suomalainen,,1,,5/24/2024 17:53
+suomela,,Suomela,,1,,5/24/2024 17:53
+suomi,,Suomi,,1,,5/24/2024 17:53
+suominen,,Suominen,,1,,5/24/2024 17:53
+suoranta,,Suoranta,,1,,5/24/2024 17:53
+susi,,Susi,,1,,5/24/2024 17:53
+sutinen,,Sutinen,,1,,5/24/2024 17:53
+suutari,,Suutari,,1,,5/24/2024 17:53
+svanström,,Svanström,,1,,5/24/2024 17:53
+svärd,,Svärd,,1,,5/24/2024 17:53
+svarstad,,Svarstad,,1,,5/24/2024 17:53
+svavarsson,,Svavarsson,,1,,5/24/2024 17:53
+svedberg,,Svedberg,,1,,5/24/2024 17:53
+svedin,,Svedin,,1,,5/24/2024 17:53
+sveinbjörnsson,,Sveinbjörnsson,,1,,5/24/2024 17:53
+sveistrup,,Sveistrup,,1,,5/24/2024 17:53
+svendsen,,Svendsen,,1,,5/24/2024 17:53
+svenonius,,Svenonius,,1,,5/24/2024 17:53
+svensen,,Svensen,,1,,5/24/2024 17:53
+svenson,,Svenson,,1,,5/24/2024 17:53
+sverrisson,,Sverrisson,,1,,5/24/2024 17:53
+svindal,,Svindal,,1,,5/24/2024 17:53
+swartz,,Swartz,,1,,5/24/2024 17:53
+swedberg,,Swedberg,,1,,5/24/2024 17:53
+swedlund,,Swedlund,,1,,5/24/2024 17:53
+synnes,,Synnes,,1,,5/24/2024 17:53
+syrén,,Syrén,,1,,5/24/2024 17:53
+syse,,Syse,,1,,5/24/2024 17:53
+syversen,,Syversen,,1,,5/24/2024 17:53
+syvertsen,,Syvertsen,,1,,5/24/2024 17:53
+taalle,,Taalle,,1,,5/24/2024 17:53
+tähti,,Tähti,,1,,5/24/2024 17:53
+tähtinen,,Tähtinen,,1,,5/24/2024 17:53
+tahvanainen,,Tahvanainen,,1,,5/24/2024 17:53
+taipale,,Taipale,,1,,5/24/2024 17:53
+takala,,Takala,,1,,5/24/2024 17:53
+takvam,,Takvam,,1,,5/24/2024 17:53
+talas,,Talas,,1,,5/24/2024 17:53
+talvela,,Talvela,,1,,5/24/2024 17:53
+talvi,,Talvi,,1,,5/24/2024 17:53
+talvitie,,Talvitie,,1,,5/24/2024 17:53
+tammelin,,Tammelin,,1,,5/24/2024 17:53
+tammi,,Tammi,,1,,5/24/2024 17:53
+tamminen,,Tamminen,,1,,5/24/2024 17:53
+tandberg,,Tandberg,,1,,5/24/2024 17:53
+tandrevold,,Tandrevold,,1,,5/24/2024 17:53
+tånnander,,Tånnander,,1,,5/24/2024 17:53
+tanner,,Tanner,,1,,5/24/2024 17:53
+tanskanen,,Tanskanen,,1,,5/24/2024 17:53
+tanttu,,Tanttu,,1,,5/24/2024 17:53
+tapani,,Tapani,,1,,5/24/2024 17:53
+tapio,,Tapio,,1,,5/24/2024 17:53
+tapiovaara,,Tapiovaara,,1,,5/24/2024 17:53
+tapola,,Tapola,,1,,5/24/2024 17:53
+taraldsen,,Taraldsen,,1,,5/24/2024 17:53
+tarjanne,,Tarjanne,,1,,5/24/2024 17:53
+tarkki,,Tarkki,,1,,5/24/2024 17:53
+taskinen,,Taskinen,,1,,5/24/2024 17:53
+taube,,Taube,,1,,5/24/2024 17:53
+tauriainen,,Tauriainen,,1,,5/24/2024 17:53
+tedenby,,Tedenby,,1,,5/24/2024 17:53
+tegnér,,Tegnér,,1,,5/24/2024 17:53
+tegstedt,,Tegstedt,,1,,5/24/2024 17:53
+teittinen,,Teittinen,,1,,5/24/2024 17:53
+tellefsen,,Tellefsen,,1,,5/24/2024 17:53
+temte,,Temte,,1,,5/24/2024 17:53
+tenggren,,Tenggren,,1,,5/24/2024 17:53
+tenkula,,Tenkula,,1,,5/24/2024 17:53
+tennfjord,,Tennfjord,,1,,5/24/2024 17:53
+teppo,,Teppo,,1,,5/24/2024 17:53
+teräsvirta,,Teräsvirta,,1,,5/24/2024 17:53
+teräväinen,,Teräväinen,,1,,5/24/2024 17:53
+terho,,Terho,,1,,5/24/2024 17:53
+tervo,,Tervo,,1,,5/24/2024 17:53
+tessem,,Tessem,,1,,5/24/2024 17:53
+thaulow,,Thaulow,,1,,5/24/2024 17:53
+theil,,Theil,,1,,5/24/2024 17:53
+theorin,,Theorin,,1,,5/24/2024 17:53
+therkildsen,,Therkildsen,,1,,5/24/2024 17:53
+thiessen,,Thiessen,,1,,5/24/2024 17:53
+thoen,,Thoen,,1,,5/24/2024 17:53
+thofelt,,Thofelt,,1,,5/24/2024 17:53
+thøgersen,,Thøgersen,,1,,5/24/2024 17:53
+thollander,,Thollander,,1,,5/24/2024 17:53
+tholstrup,,Tholstrup,,1,,5/24/2024 17:53
+thomassen,,Thomassen,,1,,5/24/2024 17:53
+thon,,Thon,,1,,5/24/2024 17:53
+thorarensen,,Thorarensen,,1,,5/24/2024 17:53
+thórarinsson,,Thórarinsson,,1,,5/24/2024 17:53
+thorbergsson,,Thorbergsson,,1,,5/24/2024 17:53
+thórdarson,,Thórdarson,,1,,5/24/2024 17:53
+thoren,,Thoren,,1,,5/24/2024 17:53
+thoresen,,Thoresen,,1,,5/24/2024 17:53
+thoresson,,Thoresson,,1,,5/24/2024 17:53
+thórirsson,,Thórirsson,,1,,5/24/2024 17:53
+thorkildsen,,Thorkildsen,,1,,5/24/2024 17:53
+thorláksson,,Thorláksson,,1,,5/24/2024 17:53
+thormahlen,,Thormahlen,,1,,5/24/2024 17:53
+thorn,,Thorn,,1,,5/24/2024 17:53
+thörnell,,Thörnell,,1,,5/24/2024 17:53
+thornquist,,Thornquist,,1,,5/24/2024 17:53
+thörnqvist,,Thörnqvist,,1,,5/24/2024 17:53
+thoroddsen,,Thoroddsen,,1,,5/24/2024 17:53
+thorsell,,Thorsell,,1,,5/24/2024 17:53
+thorsen,,Thorsen,,1,,5/24/2024 17:53
+thorson,,Thorson,,1,,5/24/2024 17:53
+thorsson,,Thorsson,,1,,5/24/2024 17:53
+thorsteinsson,,Thorsteinsson,,1,,5/24/2024 17:53
+thorup,,Thorup,,1,,5/24/2024 17:53
+thorvaldsdóttir,,Thorvaldsdóttir,,1,,5/24/2024 17:53
+thorvaldsson,,Thorvaldsson,,1,,5/24/2024 17:53
+thrane,,Thrane,,1,,5/24/2024 17:53
+thrap,,Thrap,,1,,5/24/2024 17:53
+thunberg,,Thunberg,,1,,5/24/2024 17:53
+thune,,Thune,,1,,5/24/2024 17:53
+thunman,,Thunman,,1,,5/24/2024 17:53
+thurmann,,Thurmann,,1,,5/24/2024 17:53
+thybo,,Thybo,,1,,5/24/2024 17:53
+thydell,,Thydell,,1,,5/24/2024 17:53
+tiainen,,Tiainen,,1,,5/24/2024 17:53
+tiensuu,,Tiensuu,,1,,5/24/2024 17:53
+tigerstedt,,Tigerstedt,,1,,5/24/2024 17:53
+tiihonen,,Tiihonen,,1,,5/24/2024 17:53
+tiilikainen,,Tiilikainen,,1,,5/24/2024 17:53
+tikka,,Tikka,,1,,5/24/2024 17:53
+tikkanen,,Tikkanen,,1,,5/24/2024 17:53
+tilkanen,,Tilkanen,,1,,5/24/2024 17:53
+tillmann,,Tillmann,,1,,5/24/2024 17:53
+timonen,,Timonen,,1,,5/24/2024 17:53
+tingsten,,Tingsten,,1,,5/24/2024 17:53
+tirkkonen,,Tirkkonen,,1,,5/24/2024 17:53
+tjäder,,Tjäder,,1,,5/24/2024 17:53
+tjernberg,,Tjernberg,,1,,5/24/2024 17:53
+tjersland,,Tjersland,,1,,5/24/2024 17:53
+tjessem,,Tjessem,,1,,5/24/2024 17:53
+tjoflaat,,Tjoflaat,,1,,5/24/2024 17:53
+tobiasson,,Tobiasson,,1,,5/24/2024 17:53
+toft,,Toft,,1,,5/24/2024 17:53
+tofte,,Tofte,,1,,5/24/2024 17:53
+toikka,,Toikka,,1,,5/24/2024 17:53
+toivanen,,Toivanen,,1,,5/24/2024 17:53
+toivonen,,Toivonen,,1,,5/24/2024 17:53
+tokle,,Tokle,,1,,5/24/2024 17:53
+toksvig,,Toksvig,,1,,5/24/2024 17:53
+tolaas,,Tolaas,,1,,5/24/2024 17:53
+tollefsen,,Tollefsen,,1,,5/24/2024 17:53
+tölli,,Tölli,,1,,5/24/2024 17:53
+tolonen,,Tolonen,,1,,5/24/2024 17:53
+tolppanen,,Tolppanen,,1,,5/24/2024 17:53
+tolvanen,,Tolvanen,,1,,5/24/2024 17:53
+tómasdóttir,,Tómasdóttir,,1,,5/24/2024 17:53
+tomasson,,Tomasson,,1,,5/24/2024 17:53
+tómasson,,Tómasson,,1,,5/24/2024 17:53
+tommila,,Tommila,,1,,5/24/2024 17:53
+tompuri,,Tompuri,,1,,5/24/2024 17:53
+tonnesen,,Tonnesen,,1,,5/24/2024 17:53
+tønnessen,,Tønnessen,,1,,5/24/2024 17:53
+tønnesson,,Tønnesson,,1,,5/24/2024 17:53
+tonning,,Tonning,,1,,5/24/2024 17:53
+tonteri,,Tonteri,,1,,5/24/2024 17:53
+toppelius,,Toppelius,,1,,5/24/2024 17:53
+tøraasen,,Tøraasen,,1,,5/24/2024 17:53
+torfasen,,Torfasen,,1,,5/24/2024 17:53
+torfason,,Torfason,,1,,5/24/2024 17:53
+torikka,,Torikka,,1,,5/24/2024 17:53
+torjesen,,Torjesen,,1,,5/24/2024 17:53
+torkelsen,,Torkelsen,,1,,5/24/2024 17:53
+torkildsen,,Torkildsen,,1,,5/24/2024 17:53
+törmänen,,Törmänen,,1,,5/24/2024 17:53
+tornquist,,Tornquist,,1,,5/24/2024 17:53
+törnros,,Törnros,,1,,5/24/2024 17:53
+torp,,Torp,,1,,5/24/2024 17:53
+tørrissen,,Tørrissen,,1,,5/24/2024 17:53
+torstensson,,Torstensson,,1,,5/24/2024 17:53
+torsti,,Torsti,,1,,5/24/2024 17:53
+torsvik,,Torsvik,,1,,5/24/2024 17:53
+torvalds,,Torvalds,,1,,5/24/2024 17:53
+torve,,Torve,,1,,5/24/2024 17:53
+torvik,,Torvik,,1,,5/24/2024 17:53
+tossavainen,,Tossavainen,,1,,5/24/2024 17:53
+tougaard,,Tougaard,,1,,5/24/2024 17:53
+trausti,,Trausti,,1,,5/24/2024 17:53
+treschow,,Treschow,,1,,5/24/2024 17:53
+troell,,Troell,,1,,5/24/2024 17:53
+troelsen,,Troelsen,,1,,5/24/2024 17:53
+trolle,,Trolle,,1,,5/24/2024 17:53
+trondsen,,Trondsen,,1,,5/24/2024 17:53
+trulsen,,Trulsen,,1,,5/24/2024 17:53
+tryggvason,,Tryggvason,,1,,5/24/2024 17:53
+tuft,,Tuft,,1,,5/24/2024 17:53
+tufte,,Tufte,,1,,5/24/2024 17:53
+tukiainen,,Tukiainen,,1,,5/24/2024 17:53
+tulinius,,Tulinius,,1,,5/24/2024 17:53
+tumyr,,Tumyr,,1,,5/24/2024 17:53
+tunberg,,Tunberg,,1,,5/24/2024 17:53
+tungesvik,,Tungesvik,,1,,5/24/2024 17:53
+tuokkola,,Tuokkola,,1,,5/24/2024 17:53
+tuomaala,,Tuomaala,,1,,5/24/2024 17:53
+tuomainen,,Tuomainen,,1,,5/24/2024 17:53
+tuomela,,Tuomela,,1,,5/24/2024 17:53
+tuomi,,Tuomi,,1,,5/24/2024 17:53
+tuomikoski,,Tuomikoski,,1,,5/24/2024 17:53
+tuominen,,Tuominen,,1,,5/24/2024 17:53
+tuomioja,,Tuomioja,,1,,5/24/2024 17:53
+tuomisto,,Tuomisto,,1,,5/24/2024 17:53
+tuomola,,Tuomola,,1,,5/24/2024 17:53
+tupamäki,,Tupamäki,,1,,5/24/2024 17:53
+tuppurainen,,Tuppurainen,,1,,5/24/2024 17:53
+turakainen,,Turakainen,,1,,5/24/2024 17:53
+turesson,,Turesson,,1,,5/24/2024 17:53
+turkka,,Turkka,,1,,5/24/2024 17:53
+turkkila,,Turkkila,,1,,5/24/2024 17:53
+turpeinen,,Turpeinen,,1,,5/24/2024 17:53
+turtiainen,,Turtiainen,,1,,5/24/2024 17:53
+turunen,,Turunen,,1,,5/24/2024 17:53
+tusvik,,Tusvik,,1,,5/24/2024 17:53
+tuulio,,Tuulio,,1,,5/24/2024 17:53
+tuulola,,Tuulola,,1,,5/24/2024 17:53
+tuulos,,Tuulos,,1,,5/24/2024 17:53
+tuuri,,Tuuri,,1,,5/24/2024 17:53
+tvedten,,Tvedten,,1,,5/24/2024 17:53
+tveit,,Tveit,,1,,5/24/2024 17:53
+tveito,,Tveito,,1,,5/24/2024 17:53
+tveten,,Tveten,,1,,5/24/2024 17:53
+tveter,,Tveter,,1,,5/24/2024 17:53
+tykkä,,Tykkä,,1,,5/24/2024 17:53
+tyldum,,Tyldum,,1,,5/24/2024 17:53
+tynæs,,Tynæs,,1,,5/24/2024 17:53
+tynkkynen,,Tynkkynen,,1,,5/24/2024 17:53
+typpö,,Typpö,,1,,5/24/2024 17:53
+tyrväinen,,Tyrväinen,,1,,5/24/2024 17:53
+tysland,,Tysland,,1,,5/24/2024 17:53
+tyyskä,,Tyyskä,,1,,5/24/2024 17:53
+uchermann,,Uchermann,,1,,5/24/2024 17:53
+udjus,,Udjus,,1,,5/24/2024 17:53
+uggla,,Uggla,,1,,5/24/2024 17:53
+uhcci,,Uhcci,,1,,5/24/2024 17:53
+uhre,,Uhre,,1,,5/24/2024 17:53
+uimonen,,Uimonen,,1,,5/24/2024 17:53
+ukkola,,Ukkola,,1,,5/24/2024 17:53
+ukkonen,,Ukkonen,,1,,5/24/2024 17:53
+ulf,,Ulf,,1,,5/24/2024 17:53
+úlfarsson,,Úlfarsson,,1,,5/24/2024 17:53
+ulfsparre,,Ulfsparre,,1,,5/24/2024 17:53
+ulfsson,,Ulfsson,,1,,5/24/2024 17:53
+uljas,,Uljas,,1,,5/24/2024 17:53
+ulland,,Ulland,,1,,5/24/2024 17:53
+ulrichsen,,Ulrichsen,,1,,5/24/2024 17:53
+ulstrup,,Ulstrup,,1,,5/24/2024 17:53
+ulvaeus,,Ulvaeus,,1,,5/24/2024 17:53
+ulvo,,Ulvo,,1,,5/24/2024 17:53
+uoti,,Uoti,,1,,5/24/2024 17:53
+uotila,,Uotila,,1,,5/24/2024 17:53
+uotinen,,Uotinen,,1,,5/24/2024 17:53
+uppström,,Uppström,,1,,5/24/2024 17:53
+urpilainen,,Urpilainen,,1,,5/24/2024 17:53
+ustvedt,,Ustvedt,,1,,5/24/2024 17:53
+utriainen,,Utriainen,,1,,5/24/2024 17:53
+utsi,,Utsi,,1,,5/24/2024 17:53
+utzon,,Utzon,,1,,5/24/2024 17:53
+uusitalo,,Uusitalo,,1,,5/24/2024 17:53
+uusivirta,,Uusivirta,,1,,5/24/2024 17:53
+väänänen,,Väänänen,,1,,5/24/2024 17:53
+väätäinen,,Väätäinen,,1,,5/24/2024 17:53
+værnes,,Værnes,,1,,5/24/2024 17:53
+vågberg,,Vågberg,,1,,5/24/2024 17:53
+vagen,,Vagen,,1,,5/24/2024 17:53
+vågnes,,Vågnes,,1,,5/24/2024 17:53
+vähälä,,Vähälä,,1,,5/24/2024 17:53
+vähämaa,,Vähämaa,,1,,5/24/2024 17:53
+vahervuori,,Vahervuori,,1,,5/24/2024 17:53
+vainikka,,Vainikka,,1,,5/24/2024 17:53
+vainio,,Vainio,,1,,5/24/2024 17:53
+vainionpää,,Vainionpää,,1,,5/24/2024 17:53
+vainola,,Vainola,,1,,5/24/2024 17:53
+vainonen,,Vainonen,,1,,5/24/2024 17:53
+väisänen,,Väisänen,,1,,5/24/2024 17:53
+valdimarsson,,Valdimarsson,,1,,5/24/2024 17:53
+valebrokk,,Valebrokk,,1,,5/24/2024 17:53
+valen,,Valen,,1,,5/24/2024 17:53
+välikangas,,Välikangas,,1,,5/24/2024 17:53
+välimaa,,Välimaa,,1,,5/24/2024 17:53
+välimäki,,Välimäki,,1,,5/24/2024 17:53
+valkama,,Valkama,,1,,5/24/2024 17:53
+valkeapää,,Valkeapää,,1,,5/24/2024 17:53
+valkonen,,Valkonen,,1,,5/24/2024 17:53
+valstad,,Valstad,,1,,5/24/2024 17:53
+valtanen,,Valtanen,,1,,5/24/2024 17:53
+valtonen,,Valtonen,,1,,5/24/2024 17:53
+vang,,Vang,,1,,5/24/2024 17:53
+vång,,Vång,,1,,5/24/2024 17:53
+vanhala,,Vanhala,,1,,5/24/2024 17:53
+vanhanen,,Vanhanen,,1,,5/24/2024 17:53
+vanhatalo,,Vanhatalo,,1,,5/24/2024 17:53
+vanninen,,Vanninen,,1,,5/24/2024 17:53
+vänskä,,Vänskä,,1,,5/24/2024 17:53
+vapaavuori,,Vapaavuori,,1,,5/24/2024 17:53
+väre,,Väre,,1,,5/24/2024 17:53
+varis,,Varis,,1,,5/24/2024 17:53
+varma,,Varma,,1,,5/24/2024 17:53
+vartia,,Vartia,,1,,5/24/2024 17:53
+vartiainen,,Vartiainen,,1,,5/24/2024 17:53
+vartijainen,,Vartijainen,,1,,5/24/2024 17:53
+vårvik,,Vårvik,,1,,5/24/2024 17:53
+vasara,,Vasara,,1,,5/24/2024 17:53
+vatanen,,Vatanen,,1,,5/24/2024 17:53
+vauhkonen,,Vauhkonen,,1,,5/24/2024 17:53
+väyrynen,,Väyrynen,,1,,5/24/2024 17:53
+vehanen,,Vehanen,,1,,5/24/2024 17:53
+vehkonen,,Vehkonen,,1,,5/24/2024 17:53
+vehviläinen,,Vehviläinen,,1,,5/24/2024 17:53
+veierød,,Veierød,,1,,5/24/2024 17:53
+veijola,,Veijola,,1,,5/24/2024 17:53
+venäläinen,,Venäläinen,,1,,5/24/2024 17:53
+vennamo,,Vennamo,,1,,5/24/2024 17:53
+vennerød,,Vennerød,,1,,5/24/2024 17:53
+vennesland,,Vennesland,,1,,5/24/2024 17:53
+vento,,Vento,,1,,5/24/2024 17:53
+vepsäläinen,,Vepsäläinen,,1,,5/24/2024 17:53
+vermund,,Vermund,,1,,5/24/2024 17:53
+verner,,Verner,,1,,5/24/2024 17:53
+vernersen,,Vernersen,,1,,5/24/2024 17:53
+vesa,,Vesa,,1,,5/24/2024 17:53
+vesala,,Vesala,,1,,5/24/2024 17:53
+vestergaard,,Vestergaard,,1,,5/24/2024 17:53
+vesterinen,,Vesterinen,,1,,5/24/2024 17:53
+vestly,,Vestly,,1,,5/24/2024 17:53
+vetlesen,,Vetlesen,,1,,5/24/2024 17:53
+vevatne,,Vevatne,,1,,5/24/2024 17:53
+victorsson,,Victorsson,,1,,5/24/2024 17:53
+vidarsdóttir,,Vidarsdóttir,,1,,5/24/2024 17:53
+vidarsson,,Vidarsson,,1,,5/24/2024 17:53
+vidgren,,Vidgren,,1,,5/24/2024 17:53
+vieno,,Vieno,,1,,5/24/2024 17:53
+vigfússon,,Vigfússon,,1,,5/24/2024 17:53
+viinanen,,Viinanen,,1,,5/24/2024 17:53
+viitala,,Viitala,,1,,5/24/2024 17:53
+viitanen,,Viitanen,,1,,5/24/2024 17:53
+vik,,Vik,,1,,5/24/2024 17:53
+viken,,Viken,,1,,5/24/2024 17:53
+viklund,,Viklund,,1,,5/24/2024 17:53
+viksten,,Viksten,,1,,5/24/2024 17:53
+vikström,,Vikström,,1,,5/24/2024 17:53
+viktorsson,,Viktorsson,,1,,5/24/2024 17:53
+vilander,,Vilander,,1,,5/24/2024 17:53
+vilhjálmsson,,Vilhjálmsson,,1,,5/24/2024 17:53
+viljakainen,,Viljakainen,,1,,5/24/2024 17:53
+viljanen,,Viljanen,,1,,5/24/2024 17:53
+villadsen,,Villadsen,,1,,5/24/2024 17:53
+vind,,Vind,,1,,5/24/2024 17:53
+vindheim,,Vindheim,,1,,5/24/2024 17:53
+vingqvist,,Vingqvist,,1,,5/24/2024 17:53
+vinkel,,Vinkel,,1,,5/24/2024 17:53
+vinter,,Vinter,,1,,5/24/2024 17:53
+virkkunen,,Virkkunen,,1,,5/24/2024 17:53
+virolainen,,Virolainen,,1,,5/24/2024 17:53
+virolaynen,,Virolaynen,,1,,5/24/2024 17:53
+virta,,Virta,,1,,5/24/2024 17:53
+virtanen,,Virtanen,,1,,5/24/2024 17:53
+volanen,,Volanen,,1,,5/24/2024 17:53
+volden,,Volden,,1,,5/24/2024 17:53
+voll,,Voll,,1,,5/24/2024 17:53
+vollan,,Vollan,,1,,5/24/2024 17:53
+von bahr,,von Bahr,,1,,5/24/2024 17:53
+von der lippe,,von der Lippe,,1,,5/24/2024 17:53
+voutilainen,,Voutilainen,,1,,5/24/2024 17:53
+vuorela,,Vuorela,,1,,5/24/2024 17:53
+vuorinen,,Vuorinen,,1,,5/24/2024 17:53
+vuoti,,Vuoti,,1,,5/24/2024 17:53
+waadeland,,Waadeland,,1,,5/24/2024 17:53
+waagaard,,Waagaard,,1,,5/24/2024 17:53
+waage,,Waage,,1,,5/24/2024 17:53
+waaler,,Waaler,,1,,5/24/2024 17:53
+waering,,Waering,,1,,5/24/2024 17:53
+wærness,,Wærness,,1,,5/24/2024 17:53
+wahlberg,,Wahlberg,,1,,5/24/2024 17:53
+wahlbom,,Wahlbom,,1,,5/24/2024 17:53
+wahlgren,,Wahlgren,,1,,5/24/2024 17:53
+wahlin,,Wahlin,,1,,5/24/2024 17:53
+wahlqvist,,Wahlqvist,,1,,5/24/2024 17:53
+wahlroos,,Wahlroos,,1,,5/24/2024 17:53
+wahlström,,Wahlström,,1,,5/24/2024 17:53
+walgren,,Walgren,,1,,5/24/2024 17:53
+wallenberg,,Wallenberg,,1,,5/24/2024 17:53
+wallerstedt,,Wallerstedt,,1,,5/24/2024 17:53
+wallin,,Wallin,,1,,5/24/2024 17:53
+wallmark,,Wallmark,,1,,5/24/2024 17:53
+wallquist,,Wallquist,,1,,5/24/2024 17:53
+wallsten,,Wallsten,,1,,5/24/2024 17:53
+walterson,,Walterson,,1,,5/24/2024 17:53
+waltersson,,Waltersson,,1,,5/24/2024 17:53
+wamberg,,Wamberg,,1,,5/24/2024 17:53
+wang,,Wang,,1,,5/24/2024 17:53
+warholm,,Warholm,,1,,5/24/2024 17:53
+warkentin,,Warkentin,,1,,5/24/2024 17:53
+wärnach,,Wärnach,,1,,5/24/2024 17:53
+wartiovaara,,Wartiovaara,,1,,5/24/2024 17:53
+wasama,,Wasama,,1,,5/24/2024 17:53
+wathne,,Wathne,,1,,5/24/2024 17:53
+wede,,Wede,,1,,5/24/2024 17:53
+wee,,Wee,,1,,5/24/2024 17:53
+weibull,,Weibull,,1,,5/24/2024 17:53
+welhaven,,Welhaven,,1,,5/24/2024 17:53
+wennberg,,Wennberg,,1,,5/24/2024 17:53
+wennerberg,,Wennerberg,,1,,5/24/2024 17:53
+werfel,,Werfel,,1,,5/24/2024 17:53
+wermelin,,Wermelin,,1,,5/24/2024 17:53
+wersäll,,Wersäll,,1,,5/24/2024 17:53
+wessel,,Wessel,,1,,5/24/2024 17:53
+westberg,,Westberg,,1,,5/24/2024 17:53
+westerberg,,Westerberg,,1,,5/24/2024 17:53
+westergaard,,Westergaard,,1,,5/24/2024 17:53
+westergren,,Westergren,,1,,5/24/2024 17:53
+westerholm,,Westerholm,,1,,5/24/2024 17:53
+westermark,,Westermark,,1,,5/24/2024 17:53
+westgard,,Westgard,,1,,5/24/2024 17:53
+westin,,Westin,,1,,5/24/2024 17:53
+westlund,,Westlund,,1,,5/24/2024 17:53
+wetlesen,,Wetlesen,,1,,5/24/2024 17:53
+whitworth,,Whitworth,,1,,5/24/2024 17:53
+wibe,,Wibe,,1,,5/24/2024 17:53
+wickholm,,Wickholm,,1,,5/24/2024 17:53
+wicksell,,Wicksell,,1,,5/24/2024 17:53
+wickström,,Wickström,,1,,5/24/2024 17:53
+widegren,,Widegren,,1,,5/24/2024 17:53
+widell,,Widell,,1,,5/24/2024 17:53
+widforss,,Widforss,,1,,5/24/2024 17:53
+widing,,Widing,,1,,5/24/2024 17:53
+widlund,,Widlund,,1,,5/24/2024 17:53
+wieslander,,Wieslander,,1,,5/24/2024 17:53
+wieth,,Wieth,,1,,5/24/2024 17:53
+wiig,,Wiig,,1,,5/24/2024 17:53
+wiklöf,,Wiklöf,,1,,5/24/2024 17:53
+wikström,,Wikström,,1,,5/24/2024 17:53
+wilhelmsson,,Wilhelmsson,,1,,5/24/2024 17:53
+willumsen,,Willumsen,,1,,5/24/2024 17:53
+winblad,,Winblad,,1,,5/24/2024 17:53
+winter,,Winter,,1,,5/24/2024 17:53
+winther,,Winther,,1,,5/24/2024 17:53
+wirkkala,,Wirkkala,,1,,5/24/2024 17:53
+wirkola,,Wirkola,,1,,5/24/2024 17:53
+wirtanen,,Wirtanen,,1,,5/24/2024 17:53
+wisløff,,Wisløff,,1,,5/24/2024 17:53
+wolff,,Wolff,,1,,5/24/2024 17:53
+wollter,,Wollter,,1,,5/24/2024 17:53
+worsøe,,Worsøe,,1,,5/24/2024 17:53
+wranå,,Wranå,,1,,5/24/2024 17:53
+wuolijoki,,Wuolijoki,,1,,5/24/2024 17:53
+wuopio,,Wuopio,,1,,5/24/2024 17:53
+wuorimaa,,Wuorimaa,,1,,5/24/2024 17:53
+wuornos,,Wuornos,,1,,5/24/2024 17:53
+ylipulli,,Ylipulli,,1,,5/24/2024 17:53
+ylitalo,,Ylitalo,,1,,5/24/2024 17:53
+ylönen,,Ylönen,,1,,5/24/2024 17:53
+yrjö,,Yrjö,,1,,5/24/2024 17:53
+yrjölä,,Yrjölä,,1,,5/24/2024 17:53
+yrttiaho,,Yrttiaho,,1,,5/24/2024 17:53
+ytterhorn,,Ytterhorn,,1,,5/24/2024 17:53
+zachrisson,,Zachrisson,,1,,5/24/2024 17:53
+zackrisson,,Zackrisson,,1,,5/24/2024 17:53
+zahle,,Zahle,,1,,5/24/2024 17:53
+zakrisson,,Zakrisson,,1,,5/24/2024 17:53
+zetlitz,,Zetlitz,,1,,5/24/2024 17:53

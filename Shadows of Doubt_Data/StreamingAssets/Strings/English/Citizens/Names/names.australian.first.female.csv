@@ -1,102 +1,434 @@
-"Game Reference Key","Notes","Displayed Text","Alternate Text","Frequency","Requires Suffix","Misc."
-"[The key used by the game to find strings]","[Not loaded into the game, for explanation only]","[The displayed string in-game]","[Alternate displayed string, eg. Nickname]","[For lists]","[Does this require a suffix for naming?]","[Miscellaneous]"
-"— ","— ","— ","— ","— ","— ","— "
-"olivia","","Olivia","",3,"","11:48 05/09/2022"
-"mia","","Mia","",6,"","11:48 05/09/2022"
-"charlotte","","Charlotte","",8,"","11:48 05/09/2022"
-"amelia","","Amelia","",3,"","11:48 05/09/2022"
-"ava","","Ava","",5,"","11:48 05/09/2022"
-"emily","","Emily","",5,"","11:48 05/09/2022"
-"chloe","","Chloe","",3,"","11:48 05/09/2022"
-"ruby","","Ruby","",8,"","11:48 05/09/2022"
-"isabella","","Isabella","Isy",4,"","11:48 05/09/2022"
-"sophie","","Sophie","",10,"","11:48 05/09/2022"
-"grace","","Grace","",6,"","11:48 05/09/2022"
-"ella","","Ella","",4,"","11:48 05/09/2022"
-"isla","","Isla","",3,"","11:48 05/09/2022"
-"sophia","","Sophia","",5,"","11:48 05/09/2022"
-"zoe","","Zoe","",4,"","11:48 05/09/2022"
-"sienna","","Sienna","",5,"","11:48 05/09/2022"
-"ivy","","Ivy","",7,"","11:48 05/09/2022"
-"evie","","Evie","",8,"","11:48 05/09/2022"
-"scarlett","","Scarlett","",9,"","11:48 05/09/2022"
-"emma","","Emma","",4,"","11:48 05/09/2022"
-"lily","","Lily","",7,"","11:48 05/09/2022"
-"matilda","","Matilda","",9,"","11:48 05/09/2022"
-"hannah","","Hannah","",7,"","11:48 05/09/2022"
-"harper","","Harper","",1,"","11:48 05/09/2022"
-"zara","","Zara","",5,"","11:48 05/09/2022"
-"georgia","","Georgia","",6,"","11:48 05/09/2022"
-"lucy","","Lucy","",9,"","11:48 05/09/2022"
-"layla","","Layla","",4,"","11:48 05/09/2022"
-"abigail","","Abigail","Abby",10,"","11:48 05/09/2022"
-"annabelle","","Annabelle","Ann",7,"","11:48 05/09/2022"
-"evelyn","","Evelyn","Eve",5,"","11:48 05/09/2022"
-"eva","","Eva","",3,"","11:48 05/09/2022"
-"isabelle","","Isabelle","Isy",6,"","11:48 05/09/2022"
-"jasmine","","Jasmine","Jas",7,"","11:48 05/09/2022"
-"willow","","Willow","",4,"","11:48 05/09/2022"
-"sofia","","Sofia","",1,"","11:48 05/09/2022"
-"audrey","","Audrey","",1,"","11:48 05/09/2022"
-"maddison","","Maddison","Maddy",6,"","11:48 05/09/2022"
-"imogen","","Imogen","",10,"","11:48 05/09/2022"
-"jessica","","Jessica","Jess",9,"","11:48 05/09/2022"
-"aria","","Aria","",6,"","11:48 05/09/2022"
-"mila","","Mila","",3,"","11:48 05/09/2022"
-"maya","","Maya","",1,"","11:48 05/09/2022"
-"sarah","","Sarah","",8,"","11:48 05/09/2022"
-"savannah","","Savannah","",9,"","11:48 05/09/2022"
-"alexis","","Alexis","",9,"","11:48 05/09/2022"
-"alice","","Alice","",4,"","11:48 05/09/2022"
-"stella","","Stella","",5,"","11:48 05/09/2022"
-"violet","","Violet","",7,"","11:48 05/09/2022"
-"poppy","","Poppy","",9,"","11:48 05/09/2022"
-"elizabeth","","Elizabeth","Liz",9,"","11:48 05/09/2022"
-"ellie","","Ellie","",6,"","11:48 05/09/2022"
-"chelsea","","Chelsea","",6,"","11:48 05/09/2022"
-"summer","","Summer","",8,"","11:48 05/09/2022"
-"anna","","Anna","",4,"","11:48 05/09/2022"
-"claire","","Claire","",8,"","11:48 05/09/2022"
-"bella","","Bella","",4,"","11:48 05/09/2022"
-"madison","","Madison","",8,"","11:48 05/09/2022"
-"victoria","","Victoria","Vicky",10,"","11:48 05/09/2022"
-"phoebe","","Phoebe","",6,"","11:48 05/09/2022"
-"eloise","","Eloise","",7,"","11:48 05/09/2022"
-"lola","","Lola","",6,"","11:48 05/09/2022"
-"piper","","Piper","",9,"","11:48 05/09/2022"
-"indiana","","Indiana","",6,"","11:48 05/09/2022"
-"addison","","Addison","Addy",5,"","11:48 05/09/2022"
-"holly","","Holly","",10,"","11:48 05/09/2022"
-"alyssa","","Alyssa","",5,"","11:48 05/09/2022"
-"lilly","","Lilly","",5,"","11:48 05/09/2022"
-"eden","","Eden","",2,"","11:48 05/09/2022"
-"lara","","Lara","",9,"","11:48 05/09/2022"
-"madeleine","","Madeleine","Maddy",8,"","11:48 05/09/2022"
-"rose","","Rose","",6,"","11:48 05/09/2022"
-"ariana","","Ariana","",3,"","11:48 05/09/2022"
-"aaliyah","","Aaliyah","",1,"","11:48 05/09/2022"
-"paige","","Paige","",6,"","11:48 05/09/2022"
-"isabel","","Isabel","Isy",6,"","11:48 05/09/2022"
-"lillian","","Lillian","",4,"","11:48 05/09/2022"
-"alexandra","","Alexandra","Alex",7,"","11:48 05/09/2022"
-"hayley","","Hayley","",5,"","11:48 05/09/2022"
-"elise","","Elise","",4,"","11:48 05/09/2022"
-"emilia","","Emilia","",4,"","11:48 05/09/2022"
-"eleanor","","Eleanor","",2,"","11:48 05/09/2022"
-"olive","","Olive","",1,"","11:48 05/09/2022"
-"molly","","Molly","",9,"","11:48 05/09/2022"
-"eliza","","Eliza","",7,"","11:48 05/09/2022"
-"madeline","","Madeline","",1,"","11:48 05/09/2022"
-"lexi","","Lexi","",5,"","11:48 05/09/2022"
-"penelope","","Penelope","Penny",8,"","11:48 05/09/2022"
-"hazel","","Hazel","",10,"","11:48 05/09/2022"
-"amelie","","Amelie","",4,"","11:48 05/09/2022"
-"harriet","","Harriet","",7,"","11:48 05/09/2022"
-"jade","","Jade","",8,"","11:48 05/09/2022"
-"natalie","","Natalie","Nat",7,"","11:48 05/09/2022"
-"elsie","","Elsie","",5,"","11:48 05/09/2022"
-"ayla","","Ayla","",6,"","11:48 05/09/2022"
-"charlie","","Charlie","",2,"","11:48 05/09/2022"
-"indie","","Indie","",1,"","11:48 05/09/2022"
-"frankie","","Frankie","",4,"","11:48 05/09/2022"
-"samantha","","Samantha","Sam",7,"","11:48 05/09/2022"
+﻿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+[The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
+—,—,—,—,—,—,—
+olivia,,Olivia,,3,,5/9/2022 11:48
+mia,,Mia,,6,,5/9/2022 11:48
+charlotte,,Charlotte,,8,,5/9/2022 11:48
+amelia,,Amelia,,3,,5/9/2022 11:48
+ava,,Ava,,5,,5/9/2022 11:48
+emily,,Emily,,5,,5/9/2022 11:48
+chloe,,Chloe,,3,,5/9/2022 11:48
+ruby,,Ruby,,8,,5/9/2022 11:48
+isabella,,Isabella,Isy,4,,5/9/2022 11:48
+sophie,,Sophie,,10,,5/9/2022 11:48
+grace,,Grace,,6,,5/9/2022 11:48
+ella,,Ella,,4,,5/9/2022 11:48
+isla,,Isla,,3,,5/9/2022 11:48
+sophia,,Sophia,,5,,5/9/2022 11:48
+zoe,,Zoe,,4,,5/9/2022 11:48
+sienna,,Sienna,,5,,5/9/2022 11:48
+ivy,,Ivy,,7,,5/9/2022 11:48
+evie,,Evie,,8,,5/9/2022 11:48
+scarlett,,Scarlett,,9,,5/9/2022 11:48
+emma,,Emma,,4,,5/9/2022 11:48
+lily,,Lily,,7,,5/9/2022 11:48
+matilda,,Matilda,,9,,5/9/2022 11:48
+hannah,,Hannah,,7,,5/9/2022 11:48
+harper,,Harper,,1,,5/9/2022 11:48
+zara,,Zara,,5,,5/9/2022 11:48
+georgia,,Georgia,,6,,5/9/2022 11:48
+lucy,,Lucy,,9,,5/9/2022 11:48
+layla,,Layla,,4,,5/9/2022 11:48
+abigail,,Abigail,Abby,10,,5/9/2022 11:48
+annabelle,,Annabelle,Ann,7,,5/9/2022 11:48
+evelyn,,Evelyn,Eve,5,,5/9/2022 11:48
+eva,,Eva,,3,,5/9/2022 11:48
+isabelle,,Isabelle,Isy,6,,5/9/2022 11:48
+jasmine,,Jasmine,Jas,7,,5/9/2022 11:48
+willow,,Willow,,4,,5/9/2022 11:48
+sofia,,Sofia,,1,,5/9/2022 11:48
+audrey,,Audrey,,1,,5/9/2022 11:48
+maddison,,Maddison,Maddy,6,,5/9/2022 11:48
+imogen,,Imogen,,10,,5/9/2022 11:48
+jessica,,Jessica,Jess,9,,5/9/2022 11:48
+aria,,Aria,,6,,5/9/2022 11:48
+mila,,Mila,,3,,5/9/2022 11:48
+maya,,Maya,,1,,5/9/2022 11:48
+sarah,,Sarah,,8,,5/9/2022 11:48
+savannah,,Savannah,,9,,5/9/2022 11:48
+alexis,,Alexis,,9,,5/9/2022 11:48
+alice,,Alice,,4,,5/9/2022 11:48
+stella,,Stella,,5,,5/9/2022 11:48
+violet,,Violet,,7,,5/9/2022 11:48
+poppy,,Poppy,,9,,5/9/2022 11:48
+elizabeth,,Elizabeth,Liz,9,,5/9/2022 11:48
+ellie,,Ellie,,6,,5/9/2022 11:48
+chelsea,,Chelsea,,6,,5/9/2022 11:48
+summer,,Summer,,8,,5/9/2022 11:48
+anna,,Anna,,4,,5/9/2022 11:48
+claire,,Claire,,8,,5/9/2022 11:48
+bella,,Bella,,4,,5/9/2022 11:48
+madison,,Madison,,8,,5/9/2022 11:48
+victoria,,Victoria,Vicky,10,,5/9/2022 11:48
+phoebe,,Phoebe,,6,,5/9/2022 11:48
+eloise,,Eloise,,7,,5/9/2022 11:48
+lola,,Lola,,6,,5/9/2022 11:48
+piper,,Piper,,9,,5/9/2022 11:48
+indiana,,Indiana,,6,,5/9/2022 11:48
+addison,,Addison,Addy,5,,5/9/2022 11:48
+holly,,Holly,,10,,5/9/2022 11:48
+alyssa,,Alyssa,,5,,5/9/2022 11:48
+lilly,,Lilly,,5,,5/9/2022 11:48
+eden,,Eden,,2,,5/9/2022 11:48
+lara,,Lara,,9,,5/9/2022 11:48
+madeleine,,Madeleine,Maddy,8,,5/9/2022 11:48
+rose,,Rose,,6,,5/9/2022 11:48
+ariana,,Ariana,,3,,5/9/2022 11:48
+aaliyah,,Aaliyah,,1,,5/9/2022 11:48
+paige,,Paige,,6,,5/9/2022 11:48
+isabel,,Isabel,Isy,6,,5/9/2022 11:48
+lillian,,Lillian,,4,,5/9/2022 11:48
+alexandra,,Alexandra,Alex,7,,5/9/2022 11:48
+hayley,,Hayley,,5,,5/9/2022 11:48
+elise,,Elise,,4,,5/9/2022 11:48
+emilia,,Emilia,,4,,5/9/2022 11:48
+eleanor,,Eleanor,,2,,5/9/2022 11:48
+olive,,Olive,,1,,5/9/2022 11:48
+molly,,Molly,,9,,5/9/2022 11:48
+eliza,,Eliza,,7,,5/9/2022 11:48
+madeline,,Madeline,,1,,5/9/2022 11:48
+lexi,,Lexi,,5,,5/9/2022 11:48
+penelope,,Penelope,Penny,8,,5/9/2022 11:48
+hazel,,Hazel,,10,,5/9/2022 11:48
+amelie,,Amelie,,4,,5/9/2022 11:48
+harriet,,Harriet,,7,,5/9/2022 11:48
+jade,,Jade,,8,,5/9/2022 11:48
+natalie,,Natalie,Nat,7,,5/9/2022 11:48
+elsie,,Elsie,,5,,5/9/2022 11:48
+ayla,,Ayla,,6,,5/9/2022 11:48
+charlie,,Charlie,,2,,5/9/2022 11:48
+indie,,Indie,,1,,5/9/2022 11:48
+frankie,,Frankie,,4,,5/9/2022 11:48
+samantha,,Samantha,Sam,7,,5/9/2022 11:48
+,,Florence,,,,
+,,Daisy,,,,
+,,Remi,,,,
+,,Millie,,,,
+,,Billie,,,,
+,,Freya,,,,
+,,Luna,,,,
+,,Maeve,,,,
+,,Aurora,,,,
+,,Delilah,,,,
+,,Bonnie,,,,
+,,Nora,,,,
+,,Mackenzie,,,,
+,,Sadie,,,,
+,,Amara,,,,
+,,Elena,,,,
+,,Hallie,,,,
+,,Rosie,,,,
+,,Eliana,,,,
+,,Pippa,,,,
+,,Maisie,,,,
+,,Margot,,,,
+,,Lucia,,,,
+,,Lottie,,,,
+,,Cleo,,,,
+,,Maryam,,,,
+,,Kaia,,,,
+,,Callie,,,,
+,,Kiara,,,,
+,,Thea,,,,
+,,Valentina,,,,
+,,Zahra,,,,
+,,Adeline,,,,
+,,Evelynn,,,,
+,,Aurelia,,,,
+,,Sofie,,,,
+,,Riley,,,,
+,,Gabriella,,,,
+,,Harlow,,,,
+,,Anastasia,,,,
+,,Leah,,,,
+,,Elodie,,,,
+,,Quinn,,,,
+,,Lyla,,,,
+,,Jean,,,,
+,,Caitlyn,,,,
+,,Bethany,,,,
+,,Heidi,,,,
+,,Kirsty,,,,
+,,Alicia,,,,
+,,Rebecca,,,,
+,,Tara,,,,
+,,Tracy,,,,
+,,Vicki,,,,
+,,Justine,,,,
+,,Annette,,,,
+,,Narelle,,,,
+,,Peta,,,,
+,,Tahlia,,,,
+,,Talia,,,,
+,,Gemma,,,,
+,,Jemma,,,,
+,,Abbey,,,,
+,,Abby,,,,
+,,Aimee,,,,
+,,Alana,,,,
+,,Alex,,,,
+,,Ali,,,,
+,,Alison,,,,
+,,Allison,,,,
+,,Alyce,,,,
+,,Amanda,,,,
+,,Amber,,,,
+,,Amy,,,,
+,,Angela,,,,
+,,Angelina,,,,
+,,Anita,,,,
+,,Ann,,,,
+,,Annabel,,,,
+,,Anne,,,,
+,,Ashlee,,,,
+,,Ashleigh,,,,
+,,Ashley,,,,
+,,Ashton,,,,
+,,Bailey,,,,
+,,Barbara,,,,
+,,Beau,,,,
+,,Belinda,,,,
+,,Bernadette,,,,
+,,Beverley,,,,
+,,Beverly,,,,
+,,Blake,,,,
+,,Breanna,,,,
+,,Brenda,,,,
+,,Brianna,,,,
+,,Britney,,,,
+,,Brittany,,,,
+,,Bronte,,,,
+,,Bronwyn,,,,
+,,Brooke,,,,
+,,Caitlin,,,,
+,,Cameron,,,,
+,,Candice,,,,
+,,Carla,,,,
+,,Carly,,,,
+,,Carmel,,,,
+,,Carol,,,,
+,,Caroline,,,,
+,,Carolyn,,,,
+,,Casey,,,,
+,,Cassandra,,,,
+,,Catherine,,,,
+,,Cathy,,,,
+,,Chantelle,,,,
+,,Charli,,,,
+,,Cherie,,,,
+,,Cheryl,,,,
+,,Chloë,,,,
+,,Christina,,,,
+,,Charlize,,,,
+,,Christine,,,,
+,,Cindy,,,,
+,,Clara,,,,
+,,Clare,,,,
+,,Claudia,,,,
+,,Colleen,,,,
+,,Courtney,,,,
+,,Crystal,,,,
+,,Dale,,,,
+,,Danielle,,,,
+,,D'Arcy,,,,
+,,Darcy,,,,
+,,Dawn,,,,
+,,Debbie,,,,
+,,Deborah,,,,
+,,Debra,,,,
+,,Denise,,,,
+,,Diana,,,,
+,,Diane,,,,
+,,Dianne,,,,
+,,Donna,,,,
+,,Dorothy,,,,
+,,Elaine,,,,
+,,Ellen,,,,
+,,Erin,,,,
+,,Eve,,,,
+,,Fay,,,,
+,,Felicity,,,,
+,,Fiona,,,,
+,,Frances,,,,
+,,Francis,,,,
+,,Gabrielle,,,,
+,,Gail,,,,
+,,Gayle,,,,
+,,Georgina,,,,
+,,Glenda,,,,
+,,Gloria,,,,
+,,Harley,,,,
+,,Hayden,,,,
+,,Heather,,,,
+,,Helen,,,,
+,,Hunter,,,,
+,,Irene,,,,
+,,Jacqueline,,,,
+,,Jaime,,,,
+,,Jamie,,,,
+,,Jan,,,,
+,,Jane,,,,
+,,Janelle,,,,
+,,Janet,,,,
+,,Janette,,,,
+,,Janice,,,,
+,,Janine,,,,
+,,Jasmin,,,,
+,,Jayden,,,,
+,,Jeanette,,,,
+,,Jenna,,,,
+,,Jennifer,,,,
+,,Jenny,,,,
+,,Jessie,,,,
+,,Jill,,,,
+,,Jillian,,,,
+,,Joan,,,,
+,,Joanna,,,,
+,,Jo-Anne,,,,
+,,Joanne,,,,
+,,Jodie,,,,
+,,Jody,,,,
+,,Jodi,,,,
+,,Jordan,,,,
+,,Jorja,,,,
+,,Josephine,,,,
+,,Joy,,,,
+,,Jude,,,,
+,,Judith,,,,
+,,Julia,,,,
+,,Julie,,,,
+,,June,,,,
+,,Juliet,,,,
+,,Kaitlyn,,,,
+,,Karen,,,,
+,,Karina,,,,
+,,Kate,,,,
+,,Katelyn,,,,
+,,Katherine,,,,
+,,Kathleen,,,,
+,,Kathryn,,,,
+,,Kay,,,,
+,,Kaye,,,,
+,,Kayla,,,,
+,,Keira,,,,
+,,Kellie,,,,
+,,Kelly,,,,
+,,Kerrie,,,,
+,,Kerry,,,,
+,,Kim,,,,
+,,Kimberley,,,,
+,,Kimberly,,,,
+,,Kristen,,,,
+,,Kristie,,,,
+,,Kristy,,,,
+,,Krystal,,,,
+,,Kylie,,,,
+,,Laura,,,,
+,,Lauren,,,,
+,,Leanne,,,,
+,,Lee,,,,
+,,Leigh,,,,
+,,Lennox,,,,
+,,Lesley,,,,
+,,Leslie,,,,
+,,Linda,,,,
+,,Lindsay,,,,
+,,Lisa,,,,
+,,Logan,,,,
+,,Lorraine,,,,
+,,Louise,,,,
+,,Lynda,,,,
+,,Lynette,,,,
+,,Lynn,,,,
+,,Lynne,,,,
+,,Makayla,,,,
+,,Maree,,,,
+,,Margaret,,,,
+,,Maria,,,,
+,,Marie,,,,
+,,Marilyn,,,,
+,,Marion,,,,
+,,Mary,,,,
+,,Maureen,,,,
+,,Maxine,,,,
+,,Megan,,,,
+,,Melanie,,,,
+,,Melinda,,,,
+,,Melissa,,,,
+,,Michele,,,,
+,,Michelle,,,,
+,,Mikayla,,,,
+,,Monica,,,,
+,,Monique,,,,
+,,Naomi,,,,
+,,Natasha,,,,
+,,Nicola,,,,
+,,Nicole,,,,
+,,Noel,,,,
+,,Noelle,,,,
+,,Pamela,,,,
+,,Patricia,,,,
+,,Paula,,,,
+,,Pauline,,,,
+,,Peyton,,,,
+,,Phoenix,,,,
+,,Rachael,,,,
+,,Rachel,,,,
+,,Rebekah,,,,
+,,Rejmy,,,,
+,,Renae,,,,
+,,Renee,,,,
+,,Rhiannon,,,,
+,,Rhonda,,,,
+,,River,,,,
+,,Robin,,,,
+,,Robyn,,,,
+,,Rosemary,,,,
+,,Roslyn,,,,
+,,Ruth,,,,
+,,Sally,,,,
+,,Sam,,,,
+,,Sandra,,,,
+,,Sara,,,,
+,,Scarlet,,,,
+,,Shania,,,,
+,,Shannon,,,,
+,,Sharon,,,,
+,,Sharyn,,,,
+,,Sheryl,,,,
+,,Shirley,,,,
+,,Simone,,,,
+,,Skye,,,,
+,,Sonia,,,,
+,,Sonya,,,,
+,,Stacey,,,,
+,,Stephanie,,,,
+,,Sue,,,,
+,,Susan,,,,
+,,Susanne,,,,
+,,Suzanne,,,,
+,,Tamara,,,,
+,,Tammy,,,,
+,,Tania,,,,
+,,Tanya,,,,
+,,Tayla,,,,
+,,Taylor,,,,
+,,Tegan,,,,
+,,Teresa,,,,
+,,Terry,,,,
+,,Therese,,,,
+,,Tiana,,,,
+,,Tiffany,,,,
+,,Tina,,,,
+,,Toby,,,,
+,,Toni,,,,
+,,Tori,,,,
+,,Tracey,,,,
+,,Valerie,,,,
+,,Vanessa,,,,
+,,Virginia,,,,
+,,Wendy,,,,
+,,Yvette,,,,
+,,Yvonne,,,,
+,,Zoey,,,,
+,,Zoë,,,,

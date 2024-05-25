@@ -1,6 +1,6 @@
-Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+ï»¿Game Reference Key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [The key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-â€” ,â€” ,â€” ,â€” ,â€” ,â€” ,â€” 
+â€”,â€”,â€”,â€”,â€”,â€”,â€”
 emma,,Emma,,7,,5/9/2022 11:48
 olivia,,Olivia,,1,,5/9/2022 11:48
 sophia,,Sophia,,8,,5/9/2022 11:48
@@ -789,14 +789,14 @@ ana isabel,,Ana Isabel,,1,,5/20/2024 17:00
 ana karen,,Ana Karen,,1,,5/20/2024 17:00
 ana laura,,Ana Laura,,1,,5/20/2024 17:00
 ana lucia,,Ana Lucia,,1,,5/20/2024 17:00
-ana lucía,,Ana Lucía,,1,,5/20/2024 17:00
+ana lucÃ­a,,Ana LucÃ­a,,1,,5/20/2024 17:00
 ana luisa,,Ana Luisa,,1,,5/20/2024 17:00
 ana maria,,Ana Maria,,1,,5/20/2024 17:00
 ana paola,,Ana Paola,,1,,5/20/2024 17:00
 ana paula,,Ana Paula,,1,,5/20/2024 17:00
 ana regina,,Ana Regina,,1,,5/20/2024 17:00
 ana sofia,,Ana Sofia,,1,,5/20/2024 17:00
-ana sofía,,Ana Sofía,,1,,5/20/2024 17:00
+ana sofÃ­a,,Ana SofÃ­a,,1,,5/20/2024 17:00
 ana valeria,,Ana Valeria,,1,,5/20/2024 17:00
 ana victoria,,Ana Victoria,,1,,5/20/2024 17:00
 anabel,,Anabel,,1,,5/20/2024 17:00
@@ -1240,7 +1240,7 @@ chandra,,Chandra,,1,,5/20/2024 17:00
 chanelle,,Chanelle,,1,,5/20/2024 17:00
 channing,,Channing,,1,,5/20/2024 17:00
 chantal,,Chantal,,1,,5/20/2024 17:00
-chanté,,Chanté,,1,,5/20/2024 17:00
+chantÃ©,,ChantÃ©,,1,,5/20/2024 17:00
 chantel,,Chantel,,1,,5/20/2024 17:00
 chantelle,,Chantelle,,1,,5/20/2024 17:00
 charisma,,Charisma,,1,,5/20/2024 17:00
@@ -1288,7 +1288,7 @@ chiara,,Chiara,,1,,5/20/2024 17:00
 chimere,,Chimere,,1,,5/20/2024 17:00
 china,,China,,1,,5/20/2024 17:00
 chiquita,,Chiquita,,1,,5/20/2024 17:00
-chloë,,Chloë,,1,,5/20/2024 17:00
+chloÃ«,,ChloÃ«,,1,,5/20/2024 17:00
 chris,,Chris,,1,,5/20/2024 17:00
 chrissy,,Chrissy,,1,,5/20/2024 17:00
 christa,,Christa,,1,,5/20/2024 17:00
@@ -1493,7 +1493,7 @@ deonne,,Deonne,,1,,5/20/2024 17:00
 derby,,Derby,,1,,5/20/2024 17:00
 desi,,Desi,,1,,5/20/2024 17:00
 desirae,,Desirae,,1,,5/20/2024 17:00
-desirée,,Desirée,,1,,5/20/2024 17:00
+desirÃ©e,,DesirÃ©e,,1,,5/20/2024 17:00
 dessie,,Dessie,,1,,5/20/2024 17:00
 destinee,,Destinee,,1,,5/20/2024 17:00
 devin,,Devin,,1,,5/20/2024 17:00
@@ -1681,7 +1681,7 @@ emily valentina,,Emily Valentina,,1,,5/20/2024 17:00
 emma lucia,,Emma Lucia,,1,,5/20/2024 17:00
 emma rose,,Emma Rose,,1,,5/20/2024 17:00
 emma sofia,,Emma Sofia,,1,,5/20/2024 17:00
-emma sofía,,Emma Sofía,,1,,5/20/2024 17:00
+emma sofÃ­a,,Emma SofÃ­a,,1,,5/20/2024 17:00
 emma valentina,,Emma Valentina,,1,,5/20/2024 17:00
 emma victoria,,Emma Victoria,,1,,5/20/2024 17:00
 emmaline,,Emmaline,,1,,5/20/2024 17:00
@@ -1713,7 +1713,7 @@ eshaal,,Eshaal,,1,,5/20/2024 17:00
 esmae,,Esmae,,1,,5/20/2024 17:00
 esmaralda,,Esmaralda,,1,,5/20/2024 17:00
 esme,,Esme,,1,,5/20/2024 17:00
-esmé,,Esmé,,1,,5/20/2024 17:00
+esmÃ©,,EsmÃ©,,1,,5/20/2024 17:00
 esmee,,Esmee,,1,,5/20/2024 17:00
 esperanza,,Esperanza,,1,,5/20/2024 17:00
 essence,,Essence,,1,,5/20/2024 17:00
@@ -1853,7 +1853,7 @@ gem,,Gem,,1,,5/20/2024 17:00
 gena,,Gena,,1,,5/20/2024 17:00
 gene,,Gene,,1,,5/20/2024 17:00
 genesis,,Genesis,,1,,5/20/2024 17:00
-génesis,,Génesis,,1,,5/20/2024 17:00
+gÃ©nesis,,GÃ©nesis,,1,,5/20/2024 17:00
 genette,,Genette,,1,,5/20/2024 17:00
 geneva,,Geneva,,1,,5/20/2024 17:00
 george,,George,,1,,5/20/2024 17:00
@@ -2697,7 +2697,7 @@ luann,,Luann,,1,,5/20/2024 17:00
 luanna,,Luanna,,1,,5/20/2024 17:00
 luanne,,Luanne,,1,,5/20/2024 17:00
 lucero,,Lucero,,1,,5/20/2024 17:00
-lucía,,Lucía,,1,,5/20/2024 17:00
+lucÃ­a,,LucÃ­a,,1,,5/20/2024 17:00
 lucie,,Lucie,,1,,5/20/2024 17:00
 lucile,,Lucile,,1,,5/20/2024 17:00
 lucinda,,Lucinda,,1,,5/20/2024 17:00
@@ -2849,27 +2849,27 @@ marguerite,,Marguerite,,1,,5/20/2024 17:00
 margurite,,Margurite,,1,,5/20/2024 17:00
 margy,,Margy,,1,,5/20/2024 17:00
 mari,,Mari,,1,,5/20/2024 17:00
-maría,,María,,1,,5/20/2024 17:00
+marÃ­a,,MarÃ­a,,1,,5/20/2024 17:00
 maria alejandra,,Maria Alejandra,,1,,5/20/2024 17:00
 maria belen,,Maria Belen,,1,,5/20/2024 17:00
 maria de jesus,,Maria de Jesus,,1,,5/20/2024 17:00
-maría de jesús,,María de Jesús,,1,,5/20/2024 17:00
+marÃ­a de jesÃºs,,MarÃ­a de JesÃºs,,1,,5/20/2024 17:00
 maria de la luz,,Maria de la Luz,,1,,5/20/2024 17:00
 maria de los angeles,,Maria de los Angeles,,1,,5/20/2024 17:00
 maria del carmen,,Maria del Carmen,,1,,5/20/2024 17:00
-maría del carmen,,María del Carmen,,1,,5/20/2024 17:00
+marÃ­a del carmen,,MarÃ­a del Carmen,,1,,5/20/2024 17:00
 maria del rosario,,Maria del Rosario,,1,,5/20/2024 17:00
 maria elena,,Maria Elena,,1,,5/20/2024 17:00
 maria elizabeth,,Maria Elizabeth,,1,,5/20/2024 17:00
 maria emilia,,Maria Emilia,,1,,5/20/2024 17:00
 maria fernanda,,Maria Fernanda,,1,,5/20/2024 17:00
-maría fernanda,,María Fernanda,,1,,5/20/2024 17:00
+marÃ­a fernanda,,MarÃ­a Fernanda,,1,,5/20/2024 17:00
 maria guadalupe,,Maria Guadalupe,,1,,5/20/2024 17:00
 maria ines,,Maria Ines,,1,,5/20/2024 17:00
 maria isabel,,Maria Isabel,,1,,5/20/2024 17:00
 maria isabella,,Maria Isabella,,1,,5/20/2024 17:00
 maria jose,,Maria Jose,,1,,5/20/2024 17:00
-maría josé,,María José,,1,,5/20/2024 17:00
+marÃ­a josÃ©,,MarÃ­a JosÃ©,,1,,5/20/2024 17:00
 maria luisa,,Maria Luisa,,1,,5/20/2024 17:00
 maria magdalena,,Maria Magdalena,,1,,5/20/2024 17:00
 maria paula,,Maria Paula,,1,,5/20/2024 17:00
@@ -3451,7 +3451,7 @@ renada,,Renada,,1,,5/20/2024 17:00
 renae,,Renae,,1,,5/20/2024 17:00
 rene,,Rene,,1,,5/20/2024 17:00
 renee,,Renee,,1,,5/20/2024 17:00
-renée,,Renée,,1,,5/20/2024 17:00
+renÃ©e,,RenÃ©e,,1,,5/20/2024 17:00
 renita,,Renita,,1,,5/20/2024 17:00
 reta,,Reta,,1,,5/20/2024 17:00
 retha,,Retha,,1,,5/20/2024 17:00
@@ -4152,7 +4152,7 @@ zinnia,,Zinnia,,1,,5/20/2024 17:00
 zitkala,,Zitkala,,1,,5/20/2024 17:00
 ziva,,Ziva,,1,,5/20/2024 17:00
 ziya,,Ziya,,1,,5/20/2024 17:00
-zoë,,Zoë,,1,,5/20/2024 17:00
+zoÃ«,,ZoÃ«,,1,,5/20/2024 17:00
 zoelie,,Zoelie,,1,,5/20/2024 17:00
 zofia,,Zofia,,1,,5/20/2024 17:00
 zola,,Zola,,1,,5/20/2024 17:00

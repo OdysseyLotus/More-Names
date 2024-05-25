@@ -1,6 +1,6 @@
-game reference key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
+ï»¿game reference key,Notes,Displayed Text,Alternate Text,Frequency,Requires Suffix,Misc.
 [the key used by the game to find strings],"[Not loaded into the game, for explanation only]",[The displayed string in-game],"[Alternate displayed string, eg. Nickname]",[For lists],[Does this require a suffix for naming?],[Miscellaneous]
-â€” ,â€” ,â€” ,â€” ,â€” ,â€” ,â€” 
+â€”,â€”,â€”,â€”,â€”,â€”,â€”
 gruber,,Gruber,,9,,5/9/2022 11:49
 huber,,Huber,,3,,5/9/2022 11:49
 bauer,,Bauer,,5,,5/9/2022 11:49
@@ -521,7 +521,7 @@ bambach,,Bambach,,1,,5/24/2024 0:36
 banes,,Banes,,1,,5/24/2024 0:36
 banister ,,Banister ,,1,,5/24/2024 0:36
 bannister,,Bannister,,1,,5/24/2024 0:36
-bär,,Bär,,1,,5/24/2024 0:36
+bÃ¤r,,BÃ¤r,,1,,5/24/2024 0:36
 barbaroux ,,Barbaroux ,,1,,5/24/2024 0:36
 barbe,,Barbe,,1,,5/24/2024 0:36
 barber,,Barber,,1,,5/24/2024 0:36
@@ -571,7 +571,7 @@ baumeister,,Baumeister,,1,,5/24/2024 0:36
 baumer,,Baumer,,1,,5/24/2024 0:36
 baumgart,,Baumgart,,1,,5/24/2024 0:36
 baumgarten,,Baumgarten,,1,,5/24/2024 0:36
-baumgärtner,,Baumgärtner,,1,,5/24/2024 0:36
+baumgÃ¤rtner,,BaumgÃ¤rtner,,1,,5/24/2024 0:36
 baumhauer,,Baumhauer,,1,,5/24/2024 0:36
 baur,,Baur,,1,,5/24/2024 0:36
 bauwens,,Bauwens,,1,,5/24/2024 0:36
@@ -597,7 +597,7 @@ beckenbauer,,Beckenbauer,,1,,5/24/2024 0:36
 beckers,,Beckers,,1,,5/24/2024 0:36
 beckert,,Beckert,,1,,5/24/2024 0:36
 beckmann,,Beckmann,,1,,5/24/2024 0:36
-bédard,,Bédard,,1,,5/24/2024 0:36
+bÃ©dard,,BÃ©dard,,1,,5/24/2024 0:36
 beek,,Beek,,1,,5/24/2024 0:36
 beekhof,,Beekhof,,1,,5/24/2024 0:36
 beekman,,Beekman,,1,,5/24/2024 0:36
@@ -625,8 +625,8 @@ bekker,,Bekker,,1,,5/24/2024 0:36
 bekkers,,Bekkers,,1,,5/24/2024 0:36
 belanger,,Belanger,,1,,5/24/2024 0:36
 belin,,Belin,,1,,5/24/2024 0:36
-béliveau,,Béliveau,,1,,5/24/2024 0:36
-bélizaire,,Bélizaire,,1,,5/24/2024 0:36
+bÃ©liveau,,BÃ©liveau,,1,,5/24/2024 0:36
+bÃ©lizaire,,BÃ©lizaire,,1,,5/24/2024 0:36
 bellamy,,Bellamy,,1,,5/24/2024 0:36
 bellanger,,Bellanger,,1,,5/24/2024 0:36
 bellecourt,,Bellecourt,,1,,5/24/2024 0:36
@@ -693,7 +693,7 @@ beyersdorf,,Beyersdorf,,1,,5/24/2024 0:36
 bezuidenhout,,Bezuidenhout,,1,,5/24/2024 0:36
 bidault,,Bidault,,1,,5/24/2024 0:36
 bieber,,Bieber,,1,,5/24/2024 0:36
-biémouret,,Biémouret,,1,,5/24/2024 0:36
+biÃ©mouret,,BiÃ©mouret,,1,,5/24/2024 0:36
 biermann,,Biermann,,1,,5/24/2024 0:36
 bigot,,Bigot,,1,,5/24/2024 0:36
 bijl,,Bijl,,1,,5/24/2024 0:36
@@ -758,11 +758,11 @@ bogaerts,,Bogaerts,,1,,5/24/2024 0:36
 bogers,,Bogers,,1,,5/24/2024 0:36
 bohler,,Bohler,,1,,5/24/2024 0:36
 bohm,,Bohm,,1,,5/24/2024 0:36
-böhm,,Böhm,,1,,5/24/2024 0:36
+bÃ¶hm,,BÃ¶hm,,1,,5/24/2024 0:36
 bohme,,Bohme,,1,,5/24/2024 0:36
-böhme,,Böhme,,1,,5/24/2024 0:36
+bÃ¶hme,,BÃ¶hme,,1,,5/24/2024 0:36
 bohmer,,Bohmer,,1,,5/24/2024 0:36
-böhmer,,Böhmer,,1,,5/24/2024 0:36
+bÃ¶hmer,,BÃ¶hmer,,1,,5/24/2024 0:36
 bohn,,Bohn,,1,,5/24/2024 0:36
 boileau,,Boileau,,1,,5/24/2024 0:36
 boisseau,,Boisseau,,1,,5/24/2024 0:36
@@ -813,7 +813,7 @@ bordier,,Bordier,,1,,5/24/2024 0:36
 borel,,Borel,,1,,5/24/2024 0:36
 bormann,,Bormann,,1,,5/24/2024 0:36
 born,,Born,,1,,5/24/2024 0:36
-börner,,Börner,,1,,5/24/2024 0:36
+bÃ¶rner,,BÃ¶rner,,1,,5/24/2024 0:36
 bornet,,Bornet,,1,,5/24/2024 0:36
 borst,,Borst,,1,,5/24/2024 0:36
 bosch,,Bosch,,1,,5/24/2024 0:36
@@ -825,8 +825,8 @@ boswel,,Boswel,,1,,5/24/2024 0:36
 both,,Both,,1,,5/24/2024 0:36
 bothe,,Bothe,,1,,5/24/2024 0:36
 bottcher,,Bottcher,,1,,5/24/2024 0:36
-böttcher,,Böttcher,,1,,5/24/2024 0:36
-böttger,,Böttger,,1,,5/24/2024 0:36
+bÃ¶ttcher,,BÃ¶ttcher,,1,,5/24/2024 0:36
+bÃ¶ttger,,BÃ¶ttger,,1,,5/24/2024 0:36
 bouche,,Bouche,,1,,5/24/2024 0:36
 boucher,,Boucher,,1,,5/24/2024 0:36
 bouchet,,Bouchet,,1,,5/24/2024 0:36
@@ -893,7 +893,7 @@ brant,,Brant,,1,,5/24/2024 0:36
 brantley,,Brantley,,1,,5/24/2024 0:36
 brasseur,,Brasseur,,1,,5/24/2024 0:36
 brauer,,Brauer,,1,,5/24/2024 0:36
-bräuer,,Bräuer,,1,,5/24/2024 0:36
+brÃ¤uer,,BrÃ¤uer,,1,,5/24/2024 0:36
 brault,,Brault,,1,,5/24/2024 0:36
 braune,,Braune,,1,,5/24/2024 0:36
 breathnach,,Breathnach,,1,,5/24/2024 0:36
@@ -945,7 +945,6 @@ broers,,Broers,,1,,5/24/2024 0:36
 brogan,,Brogan,,1,,5/24/2024 0:36
 bron,,Bron,,1,,5/24/2024 0:36
 brontÃ«,,BrontÃ«,,1,,5/24/2024 0:36
-brontë,,Brontë,,1,,5/24/2024 0:36
 broos,,Broos,,1,,5/24/2024 0:36
 brophy,,Brophy,,1,,5/24/2024 0:36
 brose,,Brose,,1,,5/24/2024 0:36
@@ -958,10 +957,10 @@ brousse,,Brousse,,1,,5/24/2024 0:36
 brouwers,,Brouwers,,1,,5/24/2024 0:36
 bru ,,Bru ,,1,,5/24/2024 0:36
 bruce,,Bruce,,1,,5/24/2024 0:36
-brück,,Brück,,1,,5/24/2024 0:36
-brückner,,Brückner,,1,,5/24/2024 0:36
+brÃ¼ck,,BrÃ¼ck,,1,,5/24/2024 0:36
+brÃ¼ckner,,BrÃ¼ckner,,1,,5/24/2024 0:36
 bruggeman,,Bruggeman,,1,,5/24/2024 0:36
-brüggemann,,Brüggemann,,1,,5/24/2024 0:36
+brÃ¼ggemann,,BrÃ¼ggemann,,1,,5/24/2024 0:36
 brugman,,Brugman,,1,,5/24/2024 0:36
 bruhn,,Bruhn,,1,,5/24/2024 0:36
 bruijn,,Bruijn,,1,,5/24/2024 0:36
@@ -974,7 +973,7 @@ brune,,Brune,,1,,5/24/2024 0:36
 bruneau,,Bruneau,,1,,5/24/2024 0:36
 brunel,,Brunel,,1,,5/24/2024 0:36
 brunet,,Brunet,,1,,5/24/2024 0:36
-brüning,,Brüning,,1,,5/24/2024 0:36
+brÃ¼ning,,BrÃ¼ning,,1,,5/24/2024 0:36
 bruns,,Bruns,,1,,5/24/2024 0:36
 brunty,,Brunty,,1,,5/24/2024 0:36
 brus ,,Brus ,,1,,5/24/2024 0:36
@@ -983,14 +982,14 @@ buchanan,,Buchanan,,1,,5/24/2024 0:36
 bucher,,Bucher,,1,,5/24/2024 0:36
 buchholz,,Buchholz,,1,,5/24/2024 0:36
 buchner,,Buchner,,1,,5/24/2024 0:36
-büchner,,Büchner,,1,,5/24/2024 0:36
+bÃ¼chner,,BÃ¼chner,,1,,5/24/2024 0:36
 buck,,Buck,,1,,5/24/2024 0:36
 buckholtz,,Buckholtz,,1,,5/24/2024 0:36
 buckley,,Buckley,,1,,5/24/2024 0:36
 bucquet,,Bucquet,,1,,5/24/2024 0:36
 budde,,Budde,,1,,5/24/2024 0:36
 buffet,,Buffet,,1,,5/24/2024 0:36
-bühler,,Bühler,,1,,5/24/2024 0:36
+bÃ¼hler,,BÃ¼hler,,1,,5/24/2024 0:36
 buijs,,Buijs,,1,,5/24/2024 0:36
 buis,,Buis,,1,,5/24/2024 0:36
 buisson,,Buisson,,1,,5/24/2024 0:36
@@ -1004,7 +1003,7 @@ bunschoten,,Bunschoten,,1,,5/24/2024 0:36
 bunster,,Bunster,,1,,5/24/2024 0:36
 bureau,,Bureau,,1,,5/24/2024 0:36
 burger,,Burger,,1,,5/24/2024 0:36
-bürger,,Bürger,,1,,5/24/2024 0:36
+bÃ¼rger,,BÃ¼rger,,1,,5/24/2024 0:36
 burgers,,Burgers,,1,,5/24/2024 0:36
 burghardt,,Burghardt,,1,,5/24/2024 0:36
 burgstaller,,Burgstaller,,1,,5/24/2024 0:36
@@ -1013,11 +1012,11 @@ burkhardt,,Burkhardt,,1,,5/24/2024 0:36
 burmeister,,Burmeister,,1,,5/24/2024 0:36
 burns,,Burns,,1,,5/24/2024 0:36
 busch,,Busch,,1,,5/24/2024 0:36
-büscher,,Büscher,,1,,5/24/2024 0:36
+bÃ¼scher,,BÃ¼scher,,1,,5/24/2024 0:36
 buschmann,,Buschmann,,1,,5/24/2024 0:36
 busse,,Busse,,1,,5/24/2024 0:36
 butler,,Butler,,1,,5/24/2024 0:36
-büttner,,Büttner,,1,,5/24/2024 0:36
+bÃ¼ttner,,BÃ¼ttner,,1,,5/24/2024 0:36
 byl,,Byl,,1,,5/24/2024 0:36
 byrnes,,Byrnes,,1,,5/24/2024 0:36
 caden,,Caden,,1,,5/24/2024 0:36
@@ -1049,7 +1048,7 @@ canaveri,,Canaveri,,1,,5/24/2024 0:36
 cannon,,Cannon,,1,,5/24/2024 0:36
 cantwell,,Cantwell,,1,,5/24/2024 0:36
 caomhanach,,Caomhanach,,1,,5/24/2024 0:36
-caomhánach,,Caomhánach,,1,,5/24/2024 0:36
+caomhÃ¡nach,,CaomhÃ¡nach,,1,,5/24/2024 0:36
 capdeville,,Capdeville,,1,,5/24/2024 0:36
 capelle,,Capelle,,1,,5/24/2024 0:36
 capet,,Capet,,1,,5/24/2024 0:36
@@ -1162,7 +1161,7 @@ claude,,Claude,,1,,5/24/2024 0:36
 claudel,,Claudel,,1,,5/24/2024 0:36
 claus,,Claus,,1,,5/24/2024 0:36
 clausen,,Clausen,,1,,5/24/2024 0:36
-clavé,,Clavé,,1,,5/24/2024 0:36
+clavÃ©,,ClavÃ©,,1,,5/24/2024 0:36
 clavel,,Clavel,,1,,5/24/2024 0:36
 clavier,,Clavier,,1,,5/24/2024 0:36
 cleary,,Cleary,,1,,5/24/2024 0:36
@@ -1342,7 +1341,7 @@ darras,,Darras,,1,,5/24/2024 0:36
 darrow,,Darrow,,1,,5/24/2024 0:36
 dassault,,Dassault,,1,,5/24/2024 0:36
 daube,,Daube,,1,,5/24/2024 0:36
-daubié,,Daubié,,1,,5/24/2024 0:36
+daubiÃ©,,DaubiÃ©,,1,,5/24/2024 0:36
 daugherty,,Daugherty,,1,,5/24/2024 0:36
 daumas,,Daumas,,1,,5/24/2024 0:36
 dauphin,,Dauphin,,1,,5/24/2024 0:36
@@ -1403,7 +1402,7 @@ de kloet,,de Kloet,,1,,5/24/2024 0:36
 de kok,,de Kok,,1,,5/24/2024 0:36
 de koning,,de Koning,,1,,5/24/2024 0:36
 de kort,,de Kort,,1,,5/24/2024 0:36
-de la bédoyère,,De la Bédoyère,,1,,5/24/2024 0:36
+de la bÃ©doyÃ¨re,,De la BÃ©doyÃ¨re,,1,,5/24/2024 0:36
 de la fosse,,De la Fosse,,1,,5/24/2024 0:36
 de la haye,,De la Haye,,1,,5/24/2024 0:36
 de laat,,de Laat,,1,,5/24/2024 0:36
@@ -1541,7 +1540,7 @@ deshayes,,Deshayes,,1,,5/24/2024 0:36
 desjardins,,Desjardins,,1,,5/24/2024 0:36
 desmet,,Desmet,,1,,5/24/2024 0:36
 desmond,,Desmond,,1,,5/24/2024 0:36
-despréaux,,Despréaux,,1,,5/24/2024 0:36
+desprÃ©aux,,DesprÃ©aux,,1,,5/24/2024 0:36
 despres,,Despres,,1,,5/24/2024 0:36
 desprez,,Desprez,,1,,5/24/2024 0:36
 desroches,,Desroches,,1,,5/24/2024 0:36
@@ -1628,9 +1627,9 @@ dooley,,Dooley,,1,,5/24/2024 0:36
 doran,,Doran,,1,,5/24/2024 0:36
 d'orbigny,,D'Orbigny,,1,,5/24/2024 0:36
 dore,,Dore,,1,,5/24/2024 0:36
-döring,,Döring,,1,,5/24/2024 0:36
+dÃ¶ring,,DÃ¶ring,,1,,5/24/2024 0:36
 dorn,,Dorn,,1,,5/24/2024 0:36
-dörr,,Dörr,,1,,5/24/2024 0:36
+dÃ¶rr,,DÃ¶rr,,1,,5/24/2024 0:36
 doublet,,Doublet,,1,,5/24/2024 0:36
 doucet,,Doucet,,1,,5/24/2024 0:36
 dougher,,Dougher,,1,,5/24/2024 0:36
@@ -1693,7 +1692,7 @@ du quesne,,Du Quesne,,1,,5/24/2024 0:36
 du rieux,,Du Rieux,,1,,5/24/2024 0:36
 du val,,Du Val,,1,,5/24/2024 0:36
 duane,,Duane,,1,,5/24/2024 0:36
-dùbhghlas,,Dùbhghlas,,1,,5/24/2024 0:36
+dÃ¹bhghlas,,DÃ¹bhghlas,,1,,5/24/2024 0:36
 dubost,,Dubost,,1,,5/24/2024 0:36
 dubreuil,,Dubreuil,,1,,5/24/2024 0:36
 dubus,,Dubus,,1,,5/24/2024 0:36
@@ -1745,7 +1744,7 @@ duret,,Duret,,1,,5/24/2024 0:36
 durieux,,Durieux,,1,,5/24/2024 0:36
 durnin,,Durnin,,1,,5/24/2024 0:36
 durr,,Durr,,1,,5/24/2024 0:36
-dürr,,Dürr,,1,,5/24/2024 0:36
+dÃ¼rr,,DÃ¼rr,,1,,5/24/2024 0:36
 dutil,,Dutil,,1,,5/24/2024 0:36
 duval,,Duval,,1,,5/24/2024 0:36
 dykstra,,Dykstra,,1,,5/24/2024 0:36
@@ -1863,7 +1862,7 @@ ferguson,,Ferguson,,1,,5/24/2024 0:36
 feron,,Feron,,1,,5/24/2024 0:36
 ferrand,,Ferrand,,1,,5/24/2024 0:36
 ferre,,Ferre,,1,,5/24/2024 0:36
-ferré,,Ferré,,1,,5/24/2024 0:36
+ferrÃ©,,FerrÃ©,,1,,5/24/2024 0:36
 ferrier,,Ferrier,,1,,5/24/2024 0:36
 ferriter,,Ferriter,,1,,5/24/2024 0:36
 ferry,,Ferry,,1,,5/24/2024 0:36
@@ -1934,7 +1933,7 @@ forney,,Forney,,1,,5/24/2024 0:36
 forrestal ,,Forrestal ,,1,,5/24/2024 0:36
 forst,,Forst,,1,,5/24/2024 0:36
 forster,,Forster,,1,,5/24/2024 0:36
-förster,,Förster,,1,,5/24/2024 0:36
+fÃ¶rster,,FÃ¶rster,,1,,5/24/2024 0:36
 forstner,,Forstner,,1,,5/24/2024 0:36
 fort,,Fort,,1,,5/24/2024 0:36
 fortier,,Fortier,,1,,5/24/2024 0:36
@@ -1944,7 +1943,7 @@ fortuyn,,Fortuyn,,1,,5/24/2024 0:36
 fosse,,Fosse,,1,,5/24/2024 0:36
 foster ,,Foster ,,1,,5/24/2024 0:36
 foucault,,Foucault,,1,,5/24/2024 0:36
-fouché,,Fouché,,1,,5/24/2024 0:36
+fouchÃ©,,FouchÃ©,,1,,5/24/2024 0:36
 foucher,,Foucher,,1,,5/24/2024 0:36
 foulon,,Foulon,,1,,5/24/2024 0:36
 fouque,,Fouque,,1,,5/24/2024 0:36
@@ -1953,7 +1952,6 @@ fourcade ,,Fourcade ,,1,,5/24/2024 0:36
 fourie,,Fourie,,1,,5/24/2024 0:36
 fourier,,Fourier,,1,,5/24/2024 0:36
 fovargue,,Fovargue,,1,,5/24/2024 0:36
-françois,,François,,1,,5/24/2024 0:36
 franke,,Franke,,1,,5/24/2024 0:36
 franken,,Franken,,1,,5/24/2024 0:36
 frans,,Frans,,1,,5/24/2024 0:36
@@ -1986,7 +1984,7 @@ fritsch,,Fritsch,,1,,5/24/2024 0:36
 fritsche,,Fritsche,,1,,5/24/2024 0:36
 fritz,,Fritz,,1,,5/24/2024 0:36
 fritzsche,,Fritzsche,,1,,5/24/2024 0:36
-fröhlich,,Fröhlich,,1,,5/24/2024 0:36
+frÃ¶hlich,,FrÃ¶hlich,,1,,5/24/2024 0:36
 froment,,Froment,,1,,5/24/2024 0:36
 fromm,,Fromm,,1,,5/24/2024 0:36
 frost,,Frost,,1,,5/24/2024 0:36
@@ -1994,7 +1992,7 @@ fuhrmann,,Fuhrmann,,1,,5/24/2024 0:36
 funk,,Funk,,1,,5/24/2024 0:36
 funke,,Funke,,1,,5/24/2024 0:36
 furst,,Furst,,1,,5/24/2024 0:36
-fürst,,Fürst,,1,,5/24/2024 0:36
+fÃ¼rst,,FÃ¼rst,,1,,5/24/2024 0:36
 fury ,,Fury ,,1,,5/24/2024 0:36
 fux,,Fux,,1,,5/24/2024 0:36
 fyan,,Fyan,,1,,5/24/2024 0:36
@@ -2025,7 +2023,7 @@ gardinier,,Gardinier,,1,,5/24/2024 0:36
 garot ,,Garot ,,1,,5/24/2024 0:36
 garreau,,Garreau,,1,,5/24/2024 0:36
 gartner,,Gartner,,1,,5/24/2024 0:36
-gärtner,,Gärtner,,1,,5/24/2024 0:36
+gÃ¤rtner,,GÃ¤rtner,,1,,5/24/2024 0:36
 garver,,Garver,,1,,5/24/2024 0:36
 garvey,,Garvey,,1,,5/24/2024 0:36
 gasnier,,Gasnier,,1,,5/24/2024 0:36
@@ -2128,7 +2126,7 @@ glaize,,Glaize,,1,,5/24/2024 0:36
 glancy,,Glancy,,1,,5/24/2024 0:36
 glas,,Glas,,1,,5/24/2024 0:36
 glaser,,Glaser,,1,,5/24/2024 0:36
-gläser,,Gläser,,1,,5/24/2024 0:36
+glÃ¤ser,,GlÃ¤ser,,1,,5/24/2024 0:36
 glass,,Glass,,1,,5/24/2024 0:36
 gleeson,,Gleeson,,1,,5/24/2024 0:36
 glen,,Glen,,1,,5/24/2024 0:36
@@ -2136,7 +2134,7 @@ glenn,,Glenn,,1,,5/24/2024 0:36
 glockner,,Glockner,,1,,5/24/2024 0:36
 glynn,,Glynn,,1,,5/24/2024 0:36
 gobel,,Gobel,,1,,5/24/2024 0:36
-göbel,,Göbel,,1,,5/24/2024 0:36
+gÃ¶bel,,GÃ¶bel,,1,,5/24/2024 0:36
 gobert,,Gobert,,1,,5/24/2024 0:36
 godard,,Godard,,1,,5/24/2024 0:36
 godart,,Godart,,1,,5/24/2024 0:36
@@ -2166,8 +2164,8 @@ gotti,,Gotti,,1,,5/24/2024 0:36
 gottlieb,,Gottlieb,,1,,5/24/2024 0:36
 gottschalk,,Gottschalk,,1,,5/24/2024 0:36
 gottwald,,Gottwald,,1,,5/24/2024 0:36
-götz,,Götz,,1,,5/24/2024 0:36
-götze,,Götze,,1,,5/24/2024 0:36
+gÃ¶tz,,GÃ¶tz,,1,,5/24/2024 0:36
+gÃ¶tze,,GÃ¶tze,,1,,5/24/2024 0:36
 gough,,Gough,,1,,5/24/2024 0:36
 gouin,,Gouin,,1,,5/24/2024 0:36
 goujon,,Goujon,,1,,5/24/2024 0:36
@@ -2227,12 +2225,12 @@ groth,,Groth,,1,,5/24/2024 0:36
 grouchy,,Grouchy,,1,,5/24/2024 0:36
 grube,,Grube,,1,,5/24/2024 0:36
 grumiaux ,,Grumiaux ,,1,,5/24/2024 0:36
-grün,,Grün,,1,,5/24/2024 0:36
+grÃ¼n,,GrÃ¼n,,1,,5/24/2024 0:36
 grunberg,,Grunberg,,1,,5/24/2024 0:36
 grund,,Grund,,1,,5/24/2024 0:36
 grundmann,,Grundmann,,1,,5/24/2024 0:36
 grunewald,,Grunewald,,1,,5/24/2024 0:36
-grünewald,,Grünewald,,1,,5/24/2024 0:36
+grÃ¼newald,,GrÃ¼newald,,1,,5/24/2024 0:36
 grunwald,,Grunwald,,1,,5/24/2024 0:36
 guegan,,Guegan,,1,,5/24/2024 0:36
 gueguen,,Gueguen,,1,,5/24/2024 0:36
@@ -2265,8 +2263,8 @@ guitry,,Guitry,,1,,5/24/2024 0:36
 guitton,,Guitton,,1,,5/24/2024 0:36
 gump,,Gump,,1,,5/24/2024 0:36
 gunter,,Gunter,,1,,5/24/2024 0:36
-günter,,Günter,,1,,5/24/2024 0:36
-günther,,Günther,,1,,5/24/2024 0:36
+gÃ¼nter,,GÃ¼nter,,1,,5/24/2024 0:36
+gÃ¼nther,,GÃ¼nther,,1,,5/24/2024 0:36
 gutermuth,,Gutermuth,,1,,5/24/2024 0:36
 guy,,Guy,,1,,5/24/2024 0:36
 guyard,,Guyard,,1,,5/24/2024 0:36
@@ -2359,7 +2357,7 @@ haumann,,Haumann,,1,,5/24/2024 0:36
 haupt,,Haupt,,1,,5/24/2024 0:36
 hauser,,Hauser,,1,,5/24/2024 0:36
 hausler,,Hausler,,1,,5/24/2024 0:36
-häusler,,Häusler,,1,,5/24/2024 0:36
+hÃ¤usler,,HÃ¤usler,,1,,5/24/2024 0:36
 hausmann,,Hausmann,,1,,5/24/2024 0:36
 havener,,Havener,,1,,5/24/2024 0:36
 hayden,,Hayden,,1,,5/24/2024 0:36
@@ -2500,7 +2498,7 @@ hoek,,Hoek,,1,,5/24/2024 0:36
 hoekstra,,Hoekstra,,1,,5/24/2024 0:36
 hoey,,Hoey,,1,,5/24/2024 0:36
 hof,,Hof,,1,,5/24/2024 0:36
-höfer,,Höfer,,1,,5/24/2024 0:36
+hÃ¶fer,,HÃ¶fer,,1,,5/24/2024 0:36
 hoff,,Hoff,,1,,5/24/2024 0:36
 hoffman,,Hoffman,,1,,5/24/2024 0:36
 hofland,,Hofland,,1,,5/24/2024 0:36
@@ -2514,8 +2512,8 @@ hogan,,Hogan,,1,,5/24/2024 0:36
 hogan ,,Hogan ,,1,,5/24/2024 0:36
 hogg ,,Hogg ,,1,,5/24/2024 0:36
 hohmann,,Hohmann,,1,,5/24/2024 0:36
-höhn,,Höhn,,1,,5/24/2024 0:36
-höhne,,Höhne,,1,,5/24/2024 0:36
+hÃ¶hn,,HÃ¶hn,,1,,5/24/2024 0:36
+hÃ¶hne,,HÃ¶hne,,1,,5/24/2024 0:36
 hol,,Hol,,1,,5/24/2024 0:36
 holland,,Holland,,1,,5/24/2024 0:36
 hollander,,Hollander,,1,,5/24/2024 0:36
@@ -2523,7 +2521,7 @@ hollmann,,Hollmann,,1,,5/24/2024 0:36
 holme,,Holme,,1,,5/24/2024 0:36
 holmes,,Holmes,,1,,5/24/2024 0:36
 holohan,,Holohan,,1,,5/24/2024 0:36
-hölscher,,Hölscher,,1,,5/24/2024 0:36
+hÃ¶lscher,,HÃ¶lscher,,1,,5/24/2024 0:36
 holst,,Holst,,1,,5/24/2024 0:36
 holt,,Holt,,1,,5/24/2024 0:36
 holtman,,Holtman,,1,,5/24/2024 0:36
@@ -2572,7 +2570,7 @@ hoyer,,Hoyer,,1,,5/24/2024 0:36
 huard,,Huard,,1,,5/24/2024 0:36
 huart,,Huart,,1,,5/24/2024 0:36
 hubert,,Hubert,,1,,5/24/2024 0:36
-hübner,,Hübner,,1,,5/24/2024 0:36
+hÃ¼bner,,HÃ¼bner,,1,,5/24/2024 0:36
 hue,,Hue,,1,,5/24/2024 0:36
 huet,,Huet,,1,,5/24/2024 0:36
 huffman,,Huffman,,1,,5/24/2024 0:36
@@ -2625,7 +2623,7 @@ jacquot,,Jacquot,,1,,5/24/2024 0:36
 jaeger,,Jaeger,,1,,5/24/2024 0:36
 jaffredo,,Jaffredo,,1,,5/24/2024 0:36
 jager,,Jager,,1,,5/24/2024 0:36
-jäger,,Jäger,,1,,5/24/2024 0:36
+jÃ¤ger,,JÃ¤ger,,1,,5/24/2024 0:36
 jahn,,Jahn,,1,,5/24/2024 0:36
 jahnke,,Jahnke,,1,,5/24/2024 0:36
 jakob,,Jakob,,1,,5/24/2024 0:36
@@ -2692,7 +2690,7 @@ jundt,,Jundt,,1,,5/24/2024 0:36
 junge,,Junge,,1,,5/24/2024 0:36
 junker,,Junker,,1,,5/24/2024 0:36
 junot,,Junot,,1,,5/24/2024 0:36
-jürgens,,Jürgens,,1,,5/24/2024 0:36
+jÃ¼rgens,,JÃ¼rgens,,1,,5/24/2024 0:36
 just,,Just,,1,,5/24/2024 0:36
 kahl,,Kahl,,1,,5/24/2024 0:36
 kahler,,Kahler,,1,,5/24/2024 0:36
@@ -2785,7 +2783,7 @@ kilpatrick,,Kilpatrick,,1,,5/24/2024 0:36
 kimmins,,Kimmins,,1,,5/24/2024 0:36
 kimmons,,Kimmons,,1,,5/24/2024 0:36
 kincannon,,Kincannon,,1,,5/24/2024 0:36
-kindelán,,Kindelán,,1,,5/24/2024 0:36
+kindelÃ¡n,,KindelÃ¡n,,1,,5/24/2024 0:36
 kingma,,Kingma,,1,,5/24/2024 0:36
 kinlen,,Kinlen,,1,,5/24/2024 0:36
 kinley,,Kinley,,1,,5/24/2024 0:36
@@ -2860,8 +2858,8 @@ koers,,Koers,,1,,5/24/2024 0:36
 koglin,,Koglin,,1,,5/24/2024 0:36
 kohl,,Kohl,,1,,5/24/2024 0:36
 kohler,,Kohler,,1,,5/24/2024 0:36
-köhler,,Köhler,,1,,5/24/2024 0:36
-köhn,,Köhn,,1,,5/24/2024 0:36
+kÃ¶hler,,KÃ¶hler,,1,,5/24/2024 0:36
+kÃ¶hn,,KÃ¶hn,,1,,5/24/2024 0:36
 kok,,Kok,,1,,5/24/2024 0:36
 kolb,,Kolb,,1,,5/24/2024 0:36
 kolbe,,Kolbe,,1,,5/24/2024 0:36
@@ -2870,7 +2868,7 @@ kolijn,,Kolijn,,1,,5/24/2024 0:36
 kolkman,,Kolkman,,1,,5/24/2024 0:36
 kollen,,Kollen,,1,,5/24/2024 0:36
 konig,,Konig,,1,,5/24/2024 0:36
-könig,,König,,1,,5/24/2024 0:36
+kÃ¶nig,,KÃ¶nig,,1,,5/24/2024 0:36
 konijn,,Konijn,,1,,5/24/2024 0:36
 koning,,Koning,,1,,5/24/2024 0:36
 konings,,Konings,,1,,5/24/2024 0:36
@@ -2887,13 +2885,13 @@ koopmans,,Koopmans,,1,,5/24/2024 0:36
 koops,,Koops,,1,,5/24/2024 0:36
 koot,,Koot,,1,,5/24/2024 0:36
 kopp,,Kopp,,1,,5/24/2024 0:36
-körber,,Körber,,1,,5/24/2024 0:36
+kÃ¶rber,,KÃ¶rber,,1,,5/24/2024 0:36
 korn,,Korn,,1,,5/24/2024 0:36
-körner,,Körner,,1,,5/24/2024 0:36
+kÃ¶rner,,KÃ¶rner,,1,,5/24/2024 0:36
 kort,,Kort,,1,,5/24/2024 0:36
 korte,,Korte,,1,,5/24/2024 0:36
 koster,,Koster,,1,,5/24/2024 0:36
-köster,,Köster,,1,,5/24/2024 0:36
+kÃ¶ster,,KÃ¶ster,,1,,5/24/2024 0:36
 kotze,,Kotze,,1,,5/24/2024 0:36
 koumans,,Koumans,,1,,5/24/2024 0:36
 kowalski,,Kowalski,,1,,5/24/2024 0:36
@@ -2901,7 +2899,7 @@ kraan,,Kraan,,1,,5/24/2024 0:36
 kraemer,,Kraemer,,1,,5/24/2024 0:36
 kraft,,Kraft,,1,,5/24/2024 0:36
 kramer,,Kramer,,1,,5/24/2024 0:36
-krämer,,Krämer,,1,,5/24/2024 0:36
+krÃ¤mer,,KrÃ¤mer,,1,,5/24/2024 0:36
 krantz,,Krantz,,1,,5/24/2024 0:36
 kranz,,Kranz,,1,,5/24/2024 0:36
 kratz,,Kratz,,1,,5/24/2024 0:36
@@ -2920,7 +2918,7 @@ krijnen,,Krijnen,,1,,5/24/2024 0:36
 kroes,,Kroes,,1,,5/24/2024 0:36
 kroeze,,Kroeze,,1,,5/24/2024 0:36
 kroger,,Kroger,,1,,5/24/2024 0:36
-kröger,,Kröger,,1,,5/24/2024 0:36
+krÃ¶ger,,KrÃ¶ger,,1,,5/24/2024 0:36
 krohn,,Krohn,,1,,5/24/2024 0:36
 krol,,Krol,,1,,5/24/2024 0:36
 kroll,,Kroll,,1,,5/24/2024 0:36
@@ -2928,19 +2926,19 @@ kron,,Kron,,1,,5/24/2024 0:36
 kroon,,Kroon,,1,,5/24/2024 0:36
 kruckel,,Kruckel,,1,,5/24/2024 0:36
 krug,,Krug,,1,,5/24/2024 0:36
-krüger,,Krüger,,1,,5/24/2024 0:36
+krÃ¼ger,,KrÃ¼ger,,1,,5/24/2024 0:36
 kruithof,,Kruithof,,1,,5/24/2024 0:36
 kruse,,Kruse,,1,,5/24/2024 0:36
 krusen,,Krusen,,1,,5/24/2024 0:36
-kübler,,Kübler,,1,,5/24/2024 0:36
+kÃ¼bler,,KÃ¼bler,,1,,5/24/2024 0:36
 kuchler,,Kuchler,,1,,5/24/2024 0:36
 kugler,,Kugler,,1,,5/24/2024 0:36
-kühl,,Kühl,,1,,5/24/2024 0:36
+kÃ¼hl,,KÃ¼hl,,1,,5/24/2024 0:36
 kuhlmann,,Kuhlmann,,1,,5/24/2024 0:36
 kuhn,,Kuhn,,1,,5/24/2024 0:36
-kühn,,Kühn,,1,,5/24/2024 0:36
-kühne,,Kühne,,1,,5/24/2024 0:36
-kühnel,,Kühnel,,1,,5/24/2024 0:36
+kÃ¼hn,,KÃ¼hn,,1,,5/24/2024 0:36
+kÃ¼hne,,KÃ¼hne,,1,,5/24/2024 0:36
+kÃ¼hnel,,KÃ¼hnel,,1,,5/24/2024 0:36
 kuijlaars,,Kuijlaars,,1,,5/24/2024 0:36
 kuijper,,Kuijper,,1,,5/24/2024 0:36
 kuijpers,,Kuijpers,,1,,5/24/2024 0:36
@@ -2954,12 +2952,12 @@ kunst,,Kunst,,1,,5/24/2024 0:36
 kuntz,,Kuntz,,1,,5/24/2024 0:36
 kunz,,Kunz,,1,,5/24/2024 0:36
 kunze,,Kunze,,1,,5/24/2024 0:36
-küpper,,Küpper,,1,,5/24/2024 0:36
-küppers,,Küppers,,1,,5/24/2024 0:36
+kÃ¼pper,,KÃ¼pper,,1,,5/24/2024 0:36
+kÃ¼ppers,,KÃ¼ppers,,1,,5/24/2024 0:36
 kurth,,Kurth,,1,,5/24/2024 0:36
 kurz,,Kurz,,1,,5/24/2024 0:36
 kurzmann,,Kurzmann,,1,,5/24/2024 0:36
-küster,,Küster,,1,,5/24/2024 0:36
+kÃ¼ster,,KÃ¼ster,,1,,5/24/2024 0:36
 kusters,,Kusters,,1,,5/24/2024 0:36
 kuypers,,Kuypers,,1,,5/24/2024 0:36
 kyle,,Kyle,,1,,5/24/2024 0:36
@@ -2990,7 +2988,7 @@ labbe,,Labbe,,1,,5/24/2024 0:36
 labelle,,Labelle,,1,,5/24/2024 0:36
 labille,,Labille,,1,,5/24/2024 0:36
 laborde,,Laborde,,1,,5/24/2024 0:36
-labouchère ,,Labouchère ,,1,,5/24/2024 0:36
+labouchÃ¨re ,,LabouchÃ¨re ,,1,,5/24/2024 0:36
 lacamp,,Lacamp,,1,,5/24/2024 0:36
 lachance,,Lachance,,1,,5/24/2024 0:36
 lachapelle,,Lachapelle,,1,,5/24/2024 0:36
@@ -3114,7 +3112,7 @@ le jeune,,Le Jeune,,1,,5/24/2024 0:36
 le leu,,Le Leu,,1,,5/24/2024 0:36
 le lievre,,Le Lievre,,1,,5/24/2024 0:36
 le loup,,Le Loup,,1,,5/24/2024 0:36
-le maçon,,Le Maçon,,1,,5/24/2024 0:36
+le maÃ§on,,Le MaÃ§on,,1,,5/24/2024 0:36
 le maire,,Le Maire,,1,,5/24/2024 0:36
 le maitre,,Le Maitre,,1,,5/24/2024 0:36
 le mercier,,Le Mercier,,1,,5/24/2024 0:36
@@ -3189,7 +3187,7 @@ leitzke,,Leitzke,,1,,5/24/2024 0:36
 lejeune,,Lejeune,,1,,5/24/2024 0:36
 leleu,,Leleu,,1,,5/24/2024 0:36
 lelievre,,Lelievre,,1,,5/24/2024 0:36
-lelièvre,,Lelièvre,,1,,5/24/2024 0:36
+leliÃ¨vre,,LeliÃ¨vre,,1,,5/24/2024 0:36
 lelong,,Lelong,,1,,5/24/2024 0:36
 leloup,,Leloup,,1,,5/24/2024 0:36
 lemaire,,Lemaire,,1,,5/24/2024 0:36
@@ -3223,7 +3221,7 @@ leriche,,Leriche,,1,,5/24/2024 0:36
 leroux,,Leroux,,1,,5/24/2024 0:36
 lesage,,Lesage,,1,,5/24/2024 0:36
 lesauvage,,Lesauvage,,1,,5/24/2024 0:36
-lesiège,,Lesiège,,1,,5/24/2024 0:36
+lesiÃ¨ge,,LesiÃ¨ge,,1,,5/24/2024 0:36
 lesieur,,Lesieur,,1,,5/24/2024 0:36
 lesley,,Lesley,,1,,5/24/2024 0:36
 leslie,,Leslie,,1,,5/24/2024 0:36
@@ -3267,11 +3265,11 @@ llywelyn,,Llywelyn,,1,,5/24/2024 0:36
 lodder,,Lodder,,1,,5/24/2024 0:36
 loeillet,,Loeillet,,1,,5/24/2024 0:36
 loewe,,Loewe,,1,,5/24/2024 0:36
-löffler,,Löffler,,1,,5/24/2024 0:36
+lÃ¶ffler,,LÃ¶ffler,,1,,5/24/2024 0:36
 logan,,Logan,,1,,5/24/2024 0:36
 lohan,,Lohan,,1,,5/24/2024 0:36
 lohmann,,Lohmann,,1,,5/24/2024 0:36
-löhr,,Löhr,,1,,5/24/2024 0:36
+lÃ¶hr,,LÃ¶hr,,1,,5/24/2024 0:36
 lohrenz,,Lohrenz,,1,,5/24/2024 0:36
 lohse,,Lohse,,1,,5/24/2024 0:36
 loiseau,,Loiseau,,1,,5/24/2024 0:36
@@ -3298,8 +3296,8 @@ lubbers,,Lubbers,,1,,5/24/2024 0:36
 lucas,,Lucas,,1,,5/24/2024 0:36
 lucassen,,Lucassen,,1,,5/24/2024 0:36
 lucey,,Lucey,,1,,5/24/2024 0:36
-lück,,Lück,,1,,5/24/2024 0:36
-lüdtke,,Lüdtke,,1,,5/24/2024 0:36
+lÃ¼ck,,LÃ¼ck,,1,,5/24/2024 0:36
+lÃ¼dtke,,LÃ¼dtke,,1,,5/24/2024 0:36
 ludwig,,Ludwig,,1,,5/24/2024 0:36
 luijten,,Luijten,,1,,5/24/2024 0:36
 lukas,,Lukas,,1,,5/24/2024 0:36
@@ -3323,7 +3321,7 @@ mac an baird,,Mac an Baird,,1,,5/24/2024 0:36
 mac an fhilidh,,Mac an Fhilidh,,1,,5/24/2024 0:36
 mac an fleisdeir,,Mac an Fleisdeir,,1,,5/24/2024 0:36
 mac an ghoill,,Mac an Ghoill,,1,,5/24/2024 0:36
-mac cú uladh,,Mac Cú Uladh,,1,,5/24/2024 0:36
+mac cÃº uladh,,Mac CÃº Uladh,,1,,5/24/2024 0:36
 macalastair,,MacAlastair,,1,,5/24/2024 0:36
 macamhalghaidh,,MacAmhalghaidh,,1,,5/24/2024 0:36
 macangus,,MacAngus,,1,,5/24/2024 0:36
@@ -3335,7 +3333,7 @@ macauley,,MacAuley,,1,,5/24/2024 0:36
 macbay,,MacBay,,1,,5/24/2024 0:36
 macbeth,,MacBeth,,1,,5/24/2024 0:36
 macbride,,MacBride,,1,,5/24/2024 0:36
-maccàba,,MacCàba,,1,,5/24/2024 0:36
+maccÃ ba,,MacCÃ ba,,1,,5/24/2024 0:36
 maccailein,,MacCailein,,1,,5/24/2024 0:36
 maccallion,,MacCallion,,1,,5/24/2024 0:36
 maccallum,,MacCallum,,1,,5/24/2024 0:36
@@ -3355,9 +3353,9 @@ maccrum,,MacCrum,,1,,5/24/2024 0:36
 maccrumb,,MacCrumb,,1,,5/24/2024 0:36
 macdaniel,,MacDaniel,,1,,5/24/2024 0:36
 macdermott,,MacDermott,,1,,5/24/2024 0:36
-macdhòmhnaill,,MacDhòmhnaill,,1,,5/24/2024 0:36
+macdhÃ²mhnaill,,MacDhÃ²mhnaill,,1,,5/24/2024 0:36
 macdhubhghaill,,MacDhubhghaill,,1,,5/24/2024 0:36
-macdhubhshìth,,MacDhubhshìth,,1,,5/24/2024 0:36
+macdhubhshÃ¬th,,MacDhubhshÃ¬th,,1,,5/24/2024 0:36
 macdhuibh,,MacDhuibh,,1,,5/24/2024 0:36
 macdonald ,,MacDonald ,,1,,5/24/2024 0:36
 macdonnell,,MacDonnell,,1,,5/24/2024 0:36
@@ -3370,12 +3368,12 @@ macealair,,MacEalair,,1,,5/24/2024 0:36
 maceanruig,,MacEanruig,,1,,5/24/2024 0:36
 macelroy,,MacElroy,,1,,5/24/2024 0:36
 macentire,,MacEntire,,1,,5/24/2024 0:36
-maceòghainn,,MacEòghainn,,1,,5/24/2024 0:36
+maceÃ²ghainn,,MacEÃ²ghainn,,1,,5/24/2024 0:36
 macfarland,,MacFarland,,1,,5/24/2024 0:36
 macfarlane,,MacFarlane,,1,,5/24/2024 0:36
 macfhionnlaigh,,MacFhionnlaigh,,1,,5/24/2024 0:36
 macgilleain,,MacGilleain,,1,,5/24/2024 0:36
-macgillechrìosd,,MacGillechrìosd,,1,,5/24/2024 0:36
+macgillechrÃ¬osd,,MacGillechrÃ¬osd,,1,,5/24/2024 0:36
 macgillefhaolain,,MacGillefhaolain,,1,,5/24/2024 0:36
 macginnis,,MacGinnis,,1,,5/24/2024 0:36
 macgorman,,MacGorman,,1,,5/24/2024 0:36
@@ -3398,18 +3396,18 @@ mackenzie,,MacKenzie,,1,,5/24/2024 0:36
 mackey,,Mackey,,1,,5/24/2024 0:36
 maclean,,MacLean,,1,,5/24/2024 0:36
 macleod,,MacLeod,,1,,5/24/2024 0:36
-macleòid,,MacLeòid,,1,,5/24/2024 0:36
+macleÃ²id,,MacLeÃ²id,,1,,5/24/2024 0:36
 macmathan,,MacMathan,,1,,5/24/2024 0:36
 macmhaoilein,,MacMhaoilein,,1,,5/24/2024 0:36
 macmillan,,MacMillan,,1,,5/24/2024 0:36
 macnamara,,MacNamara,,1,,5/24/2024 0:36
 macneachdainn,,MacNeachdainn,,1,,5/24/2024 0:36
 macneil,,MacNeil,,1,,5/24/2024 0:36
-macnèill,,MacNèill,,1,,5/24/2024 0:36
+macnÃ¨ill,,MacNÃ¨ill,,1,,5/24/2024 0:36
 macnevin,,MacNevin,,1,,5/24/2024 0:36
 macniven,,MacNiven,,1,,5/24/2024 0:36
 macon,,Macon,,1,,5/24/2024 0:36
-macphàrlain,,MacPhàrlain,,1,,5/24/2024 0:36
+macphÃ rlain,,MacPhÃ rlain,,1,,5/24/2024 0:36
 macqueen,,MacQueen,,1,,5/24/2024 0:36
 macquet,,Macquet,,1,,5/24/2024 0:36
 macrae,,MacRae,,1,,5/24/2024 0:36
@@ -3417,7 +3415,7 @@ macruaraidh,,MacRuaraidh,,1,,5/24/2024 0:36
 macshane,,MacShane,,1,,5/24/2024 0:36
 macshuibhne,,MacShuibhne,,1,,5/24/2024 0:36
 macsuibhne,,MacSuibhne,,1,,5/24/2024 0:36
-mactàmhais,,MacTàmhais,,1,,5/24/2024 0:36
+mactÃ mhais,,MacTÃ mhais,,1,,5/24/2024 0:36
 macthaoig,,MacThaoig,,1,,5/24/2024 0:36
 macwilliam,,MacWilliam,,1,,5/24/2024 0:36
 madadhan,,Madadhan,,1,,5/24/2024 0:36
@@ -3455,7 +3453,7 @@ maitre,,Maitre,,1,,5/24/2024 0:36
 malan,,Malan,,1,,5/24/2024 0:36
 malet,,Malet,,1,,5/24/2024 0:36
 malherbe,,Malherbe,,1,,5/24/2024 0:36
-mallarmé,,Mallarmé,,1,,5/24/2024 0:36
+mallarmÃ©,,MallarmÃ©,,1,,5/24/2024 0:36
 mallet,,Mallet,,1,,5/24/2024 0:36
 malley,,Malley,,1,,5/24/2024 0:36
 mallins,,Mallins,,1,,5/24/2024 0:36
@@ -3525,7 +3523,7 @@ maury,,Maury,,1,,5/24/2024 0:36
 maus,,Maus,,1,,5/24/2024 0:36
 maxwell,,Maxwell,,1,,5/24/2024 0:36
 may,,May,,1,,5/24/2024 0:36
-mazière,,Mazière,,1,,5/24/2024 0:36
+maziÃ¨re,,MaziÃ¨re,,1,,5/24/2024 0:36
 mcadams,,McAdams,,1,,5/24/2024 0:36
 mcafee,,McAfee,,1,,5/24/2024 0:36
 mcalister,,McAlister,,1,,5/24/2024 0:36
@@ -3778,12 +3776,12 @@ mohr,,Mohr,,1,,5/24/2024 0:36
 mohren,,Mohren,,1,,5/24/2024 0:36
 moine,,Moine,,1,,5/24/2024 0:36
 mol,,Mol,,1,,5/24/2024 0:36
-molé,,Molé,,1,,5/24/2024 0:36
+molÃ©,,MolÃ©,,1,,5/24/2024 0:36
 molen,,Molen,,1,,5/24/2024 0:36
 molenaar,,Molenaar,,1,,5/24/2024 0:36
 moll,,Moll,,1,,5/24/2024 0:36
-möller,,Möller,,1,,5/24/2024 0:36
-møller,,Møller,,1,,5/24/2024 0:36
+mÃ¶ller,,MÃ¶ller,,1,,5/24/2024 0:36
+mÃ¸ller,,MÃ¸ller,,1,,5/24/2024 0:36
 mollown,,Mollown,,1,,5/24/2024 0:36
 molloy,,Molloy,,1,,5/24/2024 0:36
 moloney,,Moloney,,1,,5/24/2024 0:36
@@ -3794,7 +3792,7 @@ monaghan,,Monaghan,,1,,5/24/2024 0:36
 monaghan ,,Monaghan ,,1,,5/24/2024 0:36
 monahan,,Monahan,,1,,5/24/2024 0:36
 monday,,Monday,,1,,5/24/2024 0:36
-mondésir,,Mondésir,,1,,5/24/2024 0:36
+mondÃ©sir,,MondÃ©sir,,1,,5/24/2024 0:36
 monet,,Monet,,1,,5/24/2024 0:36
 monette,,Monette,,1,,5/24/2024 0:36
 monier,,Monier,,1,,5/24/2024 0:36
@@ -3842,7 +3840,7 @@ mouton,,Mouton,,1,,5/24/2024 0:36
 moylan,,Moylan,,1,,5/24/2024 0:36
 moynihan,,Moynihan,,1,,5/24/2024 0:36
 mueller,,Mueller,,1,,5/24/2024 0:36
-mühlbauer,,Mühlbauer,,1,,5/24/2024 0:36
+mÃ¼hlbauer,,MÃ¼hlbauer,,1,,5/24/2024 0:36
 muhlfeld,,Muhlfeld,,1,,5/24/2024 0:36
 muir,,Muir,,1,,5/24/2024 0:36
 muis,,Muis,,1,,5/24/2024 0:36
@@ -3855,7 +3853,7 @@ mullally,,Mullally,,1,,5/24/2024 0:36
 mullane,,Mullane,,1,,5/24/2024 0:36
 mulledy,,Mulledy,,1,,5/24/2024 0:36
 mullen,,Mullen,,1,,5/24/2024 0:36
-müller,,Müller,,1,,5/24/2024 0:36
+mÃ¼ller,,MÃ¼ller,,1,,5/24/2024 0:36
 mulligan,,Mulligan,,1,,5/24/2024 0:36
 mulligan ,,Mulligan ,,1,,5/24/2024 0:36
 mullin,,Mullin,,1,,5/24/2024 0:36
@@ -3868,7 +3866,7 @@ mulroney,,Mulroney,,1,,5/24/2024 0:36
 mulrooney,,Mulrooney,,1,,5/24/2024 0:36
 mulryan,,Mulryan,,1,,5/24/2024 0:36
 mulvaney,,Mulvaney,,1,,5/24/2024 0:36
-münch,,Münch,,1,,5/24/2024 0:36
+mÃ¼nch,,MÃ¼nch,,1,,5/24/2024 0:36
 munier,,Munier,,1,,5/24/2024 0:36
 munro,,Munro,,1,,5/24/2024 0:36
 munro ,,Munro ,,1,,5/24/2024 0:36
@@ -3884,7 +3882,7 @@ nagel,,Nagel,,1,,5/24/2024 0:36
 nagtegaal,,Nagtegaal,,1,,5/24/2024 0:36
 naquin,,Naquin,,1,,5/24/2024 0:36
 naude,,Naude,,1,,5/24/2024 0:36
-naudé,,Naudé,,1,,5/24/2024 0:36
+naudÃ©,,NaudÃ©,,1,,5/24/2024 0:36
 naudin,,Naudin,,1,,5/24/2024 0:36
 naughton,,Naughton,,1,,5/24/2024 0:36
 naumann,,Naumann,,1,,5/24/2024 0:36
@@ -4124,7 +4122,7 @@ perrodin,,Perrodin,,1,,5/24/2024 0:36
 perron,,Perron,,1,,5/24/2024 0:36
 perrot,,Perrot,,1,,5/24/2024 0:36
 perry,,Perry,,1,,5/24/2024 0:36
-pételle,,Pételle,,1,,5/24/2024 0:36
+pÃ©telle,,PÃ©telle,,1,,5/24/2024 0:36
 peter,,Peter,,1,,5/24/2024 0:36
 petermann,,Petermann,,1,,5/24/2024 0:36
 petersen,,Petersen,,1,,5/24/2024 0:36
@@ -4271,7 +4269,7 @@ pugh,,Pugh,,1,,5/24/2024 0:36
 pujol,,Pujol,,1,,5/24/2024 0:36
 pusch,,Pusch,,1,,5/24/2024 0:36
 put,,Put,,1,,5/24/2024 0:36
-pütz,,Pütz,,1,,5/24/2024 0:36
+pÃ¼tz,,PÃ¼tz,,1,,5/24/2024 0:36
 queenan,,Queenan,,1,,5/24/2024 0:36
 quentin,,Quentin,,1,,5/24/2024 0:36
 quickley,,Quickley,,1,,5/24/2024 0:36
@@ -4424,7 +4422,7 @@ roche,,Roche,,1,,5/24/2024 0:36
 rocher,,Rocher,,1,,5/24/2024 0:36
 rode,,Rode,,1,,5/24/2024 0:36
 rodenburg,,Rodenburg,,1,,5/24/2024 0:36
-röder,,Röder,,1,,5/24/2024 0:36
+rÃ¶der,,RÃ¶der,,1,,5/24/2024 0:36
 roelofs,,Roelofs,,1,,5/24/2024 0:36
 roelofsen,,Roelofsen,,1,,5/24/2024 0:36
 roels,,Roels,,1,,5/24/2024 0:36
@@ -4448,7 +4446,7 @@ rome,,Rome,,1,,5/24/2024 0:36
 romeijn,,Romeijn,,1,,5/24/2024 0:36
 romeijnders,,Romeijnders,,1,,5/24/2024 0:36
 romeijnsen,,Romeijnsen,,1,,5/24/2024 0:36
-römer,,Römer,,1,,5/24/2024 0:36
+rÃ¶mer,,RÃ¶mer,,1,,5/24/2024 0:36
 romijn,,Romijn,,1,,5/24/2024 0:36
 romijnders,,Romijnders,,1,,5/24/2024 0:36
 romijnsen,,Romijnsen,,1,,5/24/2024 0:36
@@ -4464,16 +4462,16 @@ roosevelt,,Roosevelt,,1,,5/24/2024 0:36
 roovers,,Roovers,,1,,5/24/2024 0:36
 roques,,Roques,,1,,5/24/2024 0:36
 ros,,Ros,,1,,5/24/2024 0:36
-rösch,,Rösch,,1,,5/24/2024 0:36
+rÃ¶sch,,RÃ¶sch,,1,,5/24/2024 0:36
 rose,,Rose,,1,,5/24/2024 0:36
 rose ,,Rose ,,1,,5/24/2024 0:36
 roseingrave,,Roseingrave,,1,,5/24/2024 0:36
 rosenberg,,Rosenberg,,1,,5/24/2024 0:36
 rosenberger,,Rosenberger,,1,,5/24/2024 0:36
 rosenfeld,,Rosenfeld,,1,,5/24/2024 0:36
-rösler,,Rösler,,1,,5/24/2024 0:36
+rÃ¶sler,,RÃ¶sler,,1,,5/24/2024 0:36
 rossignol,,Rossignol,,1,,5/24/2024 0:36
-rössler,,Rössler,,1,,5/24/2024 0:36
+rÃ¶ssler,,RÃ¶ssler,,1,,5/24/2024 0:36
 rossouw,,Rossouw,,1,,5/24/2024 0:36
 rost,,Rost,,1,,5/24/2024 0:36
 rot,,Rot,,1,,5/24/2024 0:36
@@ -4506,7 +4504,7 @@ rudolph,,Rudolph,,1,,5/24/2024 0:36
 ruelle,,Ruelle,,1,,5/24/2024 0:36
 ruf,,Ruf,,1,,5/24/2024 0:36
 ruff,,Ruff,,1,,5/24/2024 0:36
-rühl,,Rühl,,1,,5/24/2024 0:36
+rÃ¼hl,,RÃ¼hl,,1,,5/24/2024 0:36
 ruis,,Ruis,,1,,5/24/2024 0:36
 ruisch,,Ruisch,,1,,5/24/2024 0:36
 ruiter,,Ruiter,,1,,5/24/2024 0:36
@@ -4530,7 +4528,7 @@ sachse,,Sachse,,1,,5/24/2024 0:36
 sahin,,Sahin,,1,,5/24/2024 0:36
 sailer,,Sailer,,1,,5/24/2024 0:36
 sailliet,,Sailliet,,1,,5/24/2024 0:36
-saint-saëns,,Saint-Saëns,,1,,5/24/2024 0:36
+saint-saÃ«ns,,Saint-SaÃ«ns,,1,,5/24/2024 0:36
 salaun,,Salaun,,1,,5/24/2024 0:36
 salle,,Salle,,1,,5/24/2024 0:36
 saller,,Saller,,1,,5/24/2024 0:36
@@ -4567,7 +4565,7 @@ schaaf,,Schaaf,,1,,5/24/2024 0:36
 schaap,,Schaap,,1,,5/24/2024 0:36
 schade,,Schade,,1,,5/24/2024 0:36
 schaefer,,Schaefer,,1,,5/24/2024 0:36
-schäfer,,Schäfer,,1,,5/24/2024 0:36
+schÃ¤fer,,SchÃ¤fer,,1,,5/24/2024 0:36
 schaller,,Schaller,,1,,5/24/2024 0:36
 schaper,,Schaper,,1,,5/24/2024 0:36
 scharf,,Scharf,,1,,5/24/2024 0:36
@@ -4601,7 +4599,7 @@ schleicher,,Schleicher,,1,,5/24/2024 0:36
 schlender,,Schlender,,1,,5/24/2024 0:36
 schlimme,,Schlimme,,1,,5/24/2024 0:36
 schlosser,,Schlosser,,1,,5/24/2024 0:36
-schlüter,,Schlüter,,1,,5/24/2024 0:36
+schlÃ¼ter,,SchlÃ¼ter,,1,,5/24/2024 0:36
 schmeling,,Schmeling,,1,,5/24/2024 0:36
 schmidtke,,Schmidtke,,1,,5/24/2024 0:36
 schmitt,,Schmitt,,1,,5/24/2024 0:36
@@ -4619,10 +4617,10 @@ scholl,,Scholl,,1,,5/24/2024 0:36
 scholte,,Scholte,,1,,5/24/2024 0:36
 scholten,,Scholten,,1,,5/24/2024 0:36
 scholtens,,Scholtens,,1,,5/24/2024 0:36
-schön,,Schön,,1,,5/24/2024 0:36
-schöne,,Schöne,,1,,5/24/2024 0:36
+schÃ¶n,,SchÃ¶n,,1,,5/24/2024 0:36
+schÃ¶ne,,SchÃ¶ne,,1,,5/24/2024 0:36
 schonewille,,Schonewille,,1,,5/24/2024 0:36
-schönfeld,,Schönfeld,,1,,5/24/2024 0:36
+schÃ¶nfeld,,SchÃ¶nfeld,,1,,5/24/2024 0:36
 school,,School,,1,,5/24/2024 0:36
 schoorel,,Schoorel,,1,,5/24/2024 0:36
 schoorl,,Schoorl,,1,,5/24/2024 0:36
@@ -4641,12 +4639,12 @@ schreuder,,Schreuder,,1,,5/24/2024 0:36
 schreurs,,Schreurs,,1,,5/24/2024 0:36
 schrijnemakers,,Schrijnemakers,,1,,5/24/2024 0:36
 schrijver,,Schrijver,,1,,5/24/2024 0:36
-schröder,,Schröder,,1,,5/24/2024 0:36
+schrÃ¶der,,SchrÃ¶der,,1,,5/24/2024 0:36
 schroeder,,Schroeder,,1,,5/24/2024 0:36
-schröer,,Schröer,,1,,5/24/2024 0:36
+schrÃ¶er,,SchrÃ¶er,,1,,5/24/2024 0:36
 schroeter,,Schroeter,,1,,5/24/2024 0:36
 schroter,,Schroter,,1,,5/24/2024 0:36
-schröter,,Schröter,,1,,5/24/2024 0:36
+schrÃ¶ter,,SchrÃ¶ter,,1,,5/24/2024 0:36
 schuchard,,Schuchard,,1,,5/24/2024 0:36
 schuchardt,,Schuchardt,,1,,5/24/2024 0:36
 schuchert,,Schuchert,,1,,5/24/2024 0:36
@@ -4654,8 +4652,8 @@ schuh,,Schuh,,1,,5/24/2024 0:36
 schuhart,,Schuhart,,1,,5/24/2024 0:36
 schuhmacher,,Schuhmacher,,1,,5/24/2024 0:36
 schuler,,Schuler,,1,,5/24/2024 0:36
-schüler,,Schüler,,1,,5/24/2024 0:36
-schüller,,Schüller,,1,,5/24/2024 0:36
+schÃ¼ler,,SchÃ¼ler,,1,,5/24/2024 0:36
+schÃ¼ller,,SchÃ¼ller,,1,,5/24/2024 0:36
 schulte,,Schulte,,1,,5/24/2024 0:36
 schultes,,Schultes,,1,,5/24/2024 0:36
 schultheis,,Schultheis,,1,,5/24/2024 0:36
@@ -4663,14 +4661,14 @@ schultheiss,,Schultheiss,,1,,5/24/2024 0:36
 schultz,,Schultz,,1,,5/24/2024 0:36
 schultze,,Schultze,,1,,5/24/2024 0:36
 schumann,,Schumann,,1,,5/24/2024 0:36
-schürmann,,Schürmann,,1,,5/24/2024 0:36
+schÃ¼rmann,,SchÃ¼rmann,,1,,5/24/2024 0:36
 schut,,Schut,,1,,5/24/2024 0:36
-schütt,,Schütt,,1,,5/24/2024 0:36
+schÃ¼tt,,SchÃ¼tt,,1,,5/24/2024 0:36
 schutte,,Schutte,,1,,5/24/2024 0:36
-schütte,,Schütte,,1,,5/24/2024 0:36
+schÃ¼tte,,SchÃ¼tte,,1,,5/24/2024 0:36
 schuttmann,,Schuttmann,,1,,5/24/2024 0:36
-schütz,,Schütz,,1,,5/24/2024 0:36
-schütze,,Schütze,,1,,5/24/2024 0:36
+schÃ¼tz,,SchÃ¼tz,,1,,5/24/2024 0:36
+schÃ¼tze,,SchÃ¼tze,,1,,5/24/2024 0:36
 schuurman,,Schuurman,,1,,5/24/2024 0:36
 schuurmans,,Schuurmans,,1,,5/24/2024 0:36
 schuyler,,Schuyler,,1,,5/24/2024 0:36
@@ -4697,7 +4695,7 @@ segal,,Segal,,1,,5/24/2024 0:36
 segers,,Segers,,1,,5/24/2024 0:36
 seghers,,Seghers,,1,,5/24/2024 0:36
 seguin,,Seguin,,1,,5/24/2024 0:36
-séguy,,Séguy,,1,,5/24/2024 0:36
+sÃ©guy,,SÃ©guy,,1,,5/24/2024 0:36
 seibel,,Seibel,,1,,5/24/2024 0:36
 seibert,,Seibert,,1,,5/24/2024 0:36
 seidel,,Seidel,,1,,5/24/2024 0:36
@@ -4803,7 +4801,7 @@ sowards,,Sowards,,1,,5/24/2024 0:36
 spaan,,Spaan,,1,,5/24/2024 0:36
 spaans,,Spaans,,1,,5/24/2024 0:36
 spannagel,,Spannagel,,1,,5/24/2024 0:36
-späth,,Späth,,1,,5/24/2024 0:36
+spÃ¤th,,SpÃ¤th,,1,,5/24/2024 0:36
 specht,,Specht,,1,,5/24/2024 0:36
 spellmeyer,,Spellmeyer,,1,,5/24/2024 0:36
 sperling,,Sperling,,1,,5/24/2024 0:36
@@ -4858,7 +4856,7 @@ stiller,,Stiller,,1,,5/24/2024 0:36
 stirling,,Stirling,,1,,5/24/2024 0:36
 stock,,Stock,,1,,5/24/2024 0:36
 stoepker,,Stoepker,,1,,5/24/2024 0:36
-stöhr,,Stöhr,,1,,5/24/2024 0:36
+stÃ¶hr,,StÃ¶hr,,1,,5/24/2024 0:36
 stolk,,Stolk,,1,,5/24/2024 0:36
 stoll,,Stoll,,1,,5/24/2024 0:36
 stolz,,Stolz,,1,,5/24/2024 0:36
@@ -4937,7 +4935,7 @@ thery,,Thery,,1,,5/24/2024 0:36
 theunissen,,Theunissen,,1,,5/24/2024 0:36
 thevenet,,Thevenet,,1,,5/24/2024 0:36
 thevenin,,Thevenin,,1,,5/24/2024 0:36
-thévenot,,Thévenot,,1,,5/24/2024 0:36
+thÃ©venot,,ThÃ©venot,,1,,5/24/2024 0:36
 thibault,,Thibault,,1,,5/24/2024 0:36
 thibaut,,Thibaut,,1,,5/24/2024 0:36
 thiebaut,,Thiebaut,,1,,5/24/2024 0:36
@@ -5433,7 +5431,7 @@ vercruysse,,Vercruysse,,1,,5/24/2024 0:36
 verdier,,Verdier,,1,,5/24/2024 0:36
 verdonck,,Verdonck,,1,,5/24/2024 0:36
 verger,,Verger,,1,,5/24/2024 0:36
-vergès,,Vergès,,1,,5/24/2024 0:36
+vergÃ¨s,,VergÃ¨s,,1,,5/24/2024 0:36
 vergoossen,,Vergoossen,,1,,5/24/2024 0:36
 verhaegen,,Verhaegen,,1,,5/24/2024 0:36
 verhaeghe,,Verhaeghe,,1,,5/24/2024 0:36
@@ -5489,7 +5487,7 @@ vieth,,Vieth,,1,,5/24/2024 0:36
 vigier,,Vigier,,1,,5/24/2024 0:36
 vigneron,,Vigneron,,1,,5/24/2024 0:36
 vignon,,Vignon,,1,,5/24/2024 0:36
-viguié,,Viguié,,1,,5/24/2024 0:36
+viguiÃ©,,ViguiÃ©,,1,,5/24/2024 0:36
 viguier,,Viguier,,1,,5/24/2024 0:36
 vilain,,Vilain,,1,,5/24/2024 0:36
 viljoen,,Viljoen,,1,,5/24/2024 0:36
@@ -5519,14 +5517,14 @@ voigts,,Voigts,,1,,5/24/2024 0:36
 voisin,,Voisin,,1,,5/24/2024 0:36
 vojetta,,Vojetta,,1,,5/24/2024 0:36
 volk,,Volk,,1,,5/24/2024 0:36
-völker,,Völker,,1,,5/24/2024 0:36
+vÃ¶lker,,VÃ¶lker,,1,,5/24/2024 0:36
 volkmann,,Volkmann,,1,,5/24/2024 0:36
 voll,,Voll,,1,,5/24/2024 0:36
 vollmer,,Vollmer,,1,,5/24/2024 0:36
 volz,,Volz,,1,,5/24/2024 0:36
 von brandt,,Von Brandt,,1,,5/24/2024 0:36
 von essen,,Von Essen,,1,,5/24/2024 0:36
-von möller,,von Möller,,1,,5/24/2024 0:36
+von mÃ¶ller,,von MÃ¶ller,,1,,5/24/2024 0:36
 vonk,,Vonk,,1,,5/24/2024 0:36
 vonnegut,,Vonnegut,,1,,5/24/2024 0:36
 voss,,Voss,,1,,5/24/2024 0:36
@@ -5538,7 +5536,7 @@ vrolijk,,Vrolijk,,1,,5/24/2024 0:36
 vroom,,Vroom,,1,,5/24/2024 0:36
 vroomen,,Vroomen,,1,,5/24/2024 0:36
 vuurst,,Vuurst,,1,,5/24/2024 0:36
-wächter,,Wächter,,1,,5/24/2024 0:36
+wÃ¤chter,,WÃ¤chter,,1,,5/24/2024 0:36
 wacker,,Wacker,,1,,5/24/2024 0:36
 wagenaar,,Wagenaar,,1,,5/24/2024 0:36
 wagener,,Wagener,,1,,5/24/2024 0:36
@@ -5659,14 +5657,14 @@ wolter,,Wolter,,1,,5/24/2024 0:36
 wolters,,Wolters,,1,,5/24/2024 0:36
 woods,,Woods,,1,,5/24/2024 0:36
 worner,,Worner,,1,,5/24/2024 0:36
-wörner,,Wörner,,1,,5/24/2024 0:36
+wÃ¶rner,,WÃ¶rner,,1,,5/24/2024 0:36
 wornhor,,Wornhor,,1,,5/24/2024 0:36
 wotherspoon,,Wotherspoon,,1,,5/24/2024 0:36
 wruck,,Wruck,,1,,5/24/2024 0:36
 wulf,,Wulf,,1,,5/24/2024 0:36
 wulff,,Wulff,,1,,5/24/2024 0:36
 wunderlich,,Wunderlich,,1,,5/24/2024 0:36
-wüst,,Wüst,,1,,5/24/2024 0:36
+wÃ¼st,,WÃ¼st,,1,,5/24/2024 0:36
 wuyts,,Wuyts,,1,,5/24/2024 0:36
 xylander,,Xylander,,1,,5/24/2024 0:36
 yaeger,,Yaeger,,1,,5/24/2024 0:36
@@ -5693,7 +5691,7 @@ zijlstra,,Zijlstra,,1,,5/24/2024 0:36
 zimmer,,Zimmer,,1,,5/24/2024 0:36
 zimmerman,,Zimmerman,,1,,5/24/2024 0:36
 zink,,Zink,,1,,5/24/2024 0:36
-zöller,,Zöller,,1,,5/24/2024 0:36
+zÃ¶ller,,ZÃ¶ller,,1,,5/24/2024 0:36
 zomer,,Zomer,,1,,5/24/2024 0:36
 zonneveld,,Zonneveld,,1,,5/24/2024 0:36
 zorn,,Zorn,,1,,5/24/2024 0:36
